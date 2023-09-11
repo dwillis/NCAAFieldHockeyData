@@ -3,222 +3,324 @@ date,team,opponent,home_away,result,team_score,opponent_score,goals,ast,sh_att,s
 2023-08-27,American Eagles,Penn St.,Home,L,2,3,2,1,9,7,0,0,0,0,0,0,NA,3,11,0,0,NA,NA,3,NA,NA,3,0,27,14,0,0,0,4,0,0,NA,2,5,0,0,NA,NA,13,NA,NA
 2023-09-01,American Eagles,Richmond,Away,W,2,1,2,2,5,4,17,0,0,1,0,0,NA,1,4,0,0,NA,NA,3,NA,NA,1,1,11,5,23,0,0,1,0,0,NA,2,2,0,0,NA,NA,5,NA,NA
 2023-09-03,American Eagles,Liberty,Away,L,0,1,0,0,8,2,0,0,0,0,0,0,NA,0,5,1,0,NA,NA,6,NA,NA,0,0,17,5,0,0,0,1,0,0,NA,0,2,1,0,NA,NA,6,NA,1
+2023-09-09,American Eagles,Yale ,Away,W,4,0,4,4,16,12,0,0,2,3,0,0,NA,0,3,1,0,NA,NA,6,NA,NA,0,0,7,3,0,0,1,1,0,0,NA,4,8,0,0,NA,NA,6,NA,NA
+2023-09-10,American Eagles,Miami (OH) ,Away,L,1,2,1,0,10,7,0,0,1,2,0,0,NA,2,3,0,0,NA,NA,4,1,1,2,1,9,5,0,0,1,1,0,0,NA,1,6,0,0,NA,NA,11,NA,NA
 2023-08-25,App State Mountaineers,Towson,Away,W,3,1,3,3,15,5,0,0,0,0,0,0,NA,1,5,0,0,NA,NA,3,NA,NA,1,1,14,6,0,0,0,1,0,0,NA,3,2,0,0,NA,NA,6,NA,NA
 2023-08-27,App State Mountaineers,"Georgetown Towson, Md.",Away,W,4,1,4,7,11,8,0,0,0,1,0,0,NA,1,4,0,0,NA,NA,7,NA,NA,1,2,11,5,0,0,0,1,0,0,NA,4,4,0,0,NA,NA,4,NA,NA
 2023-09-01,App State Mountaineers,Drexel,Home,L,0,3,0,0,6,4,0,0,0,2,0,0,NA,3,5,0,0,NA,NA,2,NA,NA,3,5,9,8,0,0,1,2,0,0,NA,0,4,1,0,NA,NA,5,NA,NA
 2023-09-03,App State Mountaineers,Davidson,Home,W,1,0,1,1,9,3,0,0,0,0,0,0,NA,0,5,1,0,NA,NA,5,NA,NA,0,0,8,5,0,0,0,1,0,0,NA,1,2,0,0,NA,NA,2,NA,NA
+2023-09-08,App State Mountaineers,James Madison,Away,W,2,1,2,1,8,4,28,0,0,1,0,0,NA,1,3,0,0,NA,NA,1,NA,NA,1,0,8,4,35,0,0,0,0,0,NA,2,2,0,0,NA,NA,1,NA,NA
 2023-08-25,Ball St. Cardinals,Villanova,Away,L,3,4,3,1,16,6,15,0,1,1,0,0,NA,4,16,0,0,NA,NA,8,NA,NA,4,2,31,20,24,0,1,1,0,0,NA,3,3,0,0,NA,NA,13,NA,1
 2023-08-27,Ball St. Cardinals,Lehigh,Away,L,3,4,3,4,12,6,0,0,0,0,0,0,NA,4,11,0,0,NA,NA,7,NA,NA,4,3,23,15,0,0,0,1,0,0,NA,3,3,0,0,NA,NA,11,1,1
 2023-09-01,Ball St. Cardinals,"Bucknell Columbus, Ohio",Away,L,1,2,1,1,9,5,0,0,0,3,0,0,NA,2,9,0,0,NA,NA,4,NA,NA,2,2,18,11,0,0,0,2,0,0,NA,1,4,0,0,NA,NA,2,NA,1
 2023-09-03,Ball St. Cardinals,"New Hampshire Columbus, Ohio",Away,L,1,4,1,0,13,4,0,0,0,1,0,0,NA,4,8,0,0,NA,1,1,NA,NA,4,2,18,12,0,0,0,0,0,0,NA,1,3,0,0,NA,NA,2,1,1
+2023-09-10,Ball St. Cardinals,Lock Haven,Away,W,2,1,1,1,18,10,0,0,0,2,0,0,NA,1,4,0,0,NA,1,9,NA,NA,1,0,8,5,0,0,0,4,0,0,NA,1,9,0,0,NA,NA,4,1,1
 2023-08-25,Bellarmine Knights,Saint Louis,Home,W,3,1,3,2,11,6,0,0,0,1,0,0,NA,1,4,0,0,NA,NA,5,NA,NA,1,1,10,5,0,0,0,1,0,0,NA,3,3,0,0,NA,1,8,NA,NA
 2023-08-27,Bellarmine Knights,Northeastern,Home,L,1,3,1,0,7,6,0,0,1,2,0,0,NA,3,10,0,0,NA,NA,5,NA,NA,3,2,24,13,0,0,0,0,0,0,NA,1,5,0,0,NA,NA,11,NA,NA
 2023-08-31,Bellarmine Knights,Saint Francis (PA),Home,L,1,3,1,1,14,8,0,0,0,2,0,0,NA,3,3,0,0,NA,NA,12,NA,NA,3,2,12,6,0,0,1,2,0,0,NA,1,7,0,0,NA,NA,11,NA,NA
 2023-09-03,Bellarmine Knights,Towson,Home,L,1,2,1,1,7,2,0,0,0,0,0,0,NA,2,8,0,0,NA,1,4,NA,NA,2,1,14,10,0,0,0,0,0,0,NA,1,1,0,0,NA,NA,6,NA,NA
+2023-09-08,Bellarmine Knights,VCU,Home,L,0,1,0,0,7,5,0,0,0,1,0,0,NA,1,13,0,0,NA,1,4,NA,NA,1,1,23,14,0,0,0,2,0,0,NA,0,5,1,0,NA,NA,10,NA,NA
+2023-09-10,Bellarmine Knights,Davidson,Home,W,3,2,3,3,14,7,0,0,0,0,0,0,NA,2,9,0,0,NA,NA,6,NA,NA,2,2,19,11,0,0,0,1,0,0,NA,3,4,0,0,NA,NA,9,NA,NA
 2023-08-25,Boston College Eagles,Maine,Away,W,3,1,3,4,12,6,30,0,0,0,0,0,NA,1,2,0,0,NA,NA,8,NA,NA,1,1,4,3,23,0,0,1,0,0,NA,3,3,0,0,NA,1,3,NA,NA
 2023-08-26,Boston College Eagles,Providence ,Away,W,3,0,3,4,20,16,29,0,0,1,0,0,NA,0,0,1,0,NA,NA,8,1,1,0,0,1,0,28,0,0,0,0,0,NA,3,13,0,0,NA,NA,1,NA,NA
 2023-09-01,Boston College Eagles,Northwestern ,Away,L,0,1,0,0,8,5,0,0,0,1,0,0,NA,1,4,0,0,NA,NA,5,NA,NA,1,1,13,5,0,0,0,1,0,0,NA,0,5,1,0,NA,NA,7,NA,NA
 2023-09-03,Boston College Eagles,Maryland,Away,L,0,1,0,0,8,3,0,0,0,3,0,0,NA,1,8,0,0,NA,1,3,NA,NA,1,1,13,9,0,0,0,2,0,0,NA,0,3,1,0,NA,NA,3,NA,NA
+2023-09-08,Boston College Eagles,Boston U.,Away,W,4,0,4,4,15,11,0,0,0,0,0,0,NA,0,5,1,0,NA,NA,9,NA,NA,0,0,6,5,0,0,0,0,0,0,NA,4,7,0,0,NA,NA,4,NA,NA
 2023-08-25,Boston U. Terriers,Michigan St.,Home,L,1,3,1,0,12,6,0,0,0,0,0,0,NA,3,5,0,0,NA,NA,3,NA,NA,3,2,11,8,0,0,0,1,0,0,NA,1,5,0,0,NA,NA,7,NA,NA
 2023-09-01,Boston U. Terriers,Maine,Away,W,3,2,3,3,8,4,45,0,1,0,0,0,NA,2,6,0,0,NA,NA,4,NA,NA,2,2,11,8,39,0,0,1,0,0,NA,3,1,0,0,NA,NA,4,NA,NA
 2023-09-02,Boston U. Terriers,Ohio ,Away,L,1,2,1,0,9,4,34,0,0,2,0,0,NA,2,2,0,0,NA,NA,7,NA,NA,2,2,8,4,38,0,1,1,0,0,NA,1,3,0,0,NA,NA,6,NA,NA
+2023-09-08,Boston U. Terriers,Boston College,Home,L,0,4,0,0,6,5,0,0,0,0,0,0,NA,4,7,0,0,NA,NA,4,NA,NA,4,4,15,11,0,0,0,0,0,0,NA,0,5,1,0,NA,NA,9,NA,NA
+2023-09-10,Boston U. Terriers,Vermont,Away,W,4,3,4,7,15,10,41,0,4,2,0,0,NA,3,12,0,0,NA,NA,11,NA,NA,3,3,22,15,38,0,3,2,0,0,NA,4,6,0,0,NA,NA,16,NA,NA
 2023-09-01,Brown Bears,LIU,Home,W,3,0,3,2,20,13,28,0,0,0,0,0,NA,0,2,1,0,NA,NA,4,NA,NA,0,0,3,2,19,0,0,1,0,0,NA,3,10,0,0,NA,NA,1,NA,NA
 2023-09-03,Brown Bears,Holy Cross,Home,W,2,1,2,0,37,20,22,0,0,0,0,0,NA,1,2,0,0,NA,NA,15,1,1,1,1,9,3,35,0,1,1,0,0,NA,2,18,0,0,NA,NA,8,NA,NA
+2023-09-08,Brown Bears,Northeastern,Away,L,2,3,2,3,12,9,25,0,0,0,0,0,NA,3,6,0,0,NA,NA,6,NA,NA,3,4,12,9,24,0,1,2,0,0,NA,2,7,0,0,NA,NA,5,1,1
 2023-08-26,Bryant Bulldogs,Lindenwood,Away,W,3,1,3,2,14,11,0,0,1,2,0,0,NA,1,6,0,0,NA,NA,4,1,1,1,1,13,7,0,0,2,2,0,0,NA,3,8,0,0,NA,1,6,NA,NA
 2023-08-27,Bryant Bulldogs,Saint Louis,Away,W,3,2,2,1,17,11,0,0,2,2,0,0,NA,2,6,0,0,NA,NA,5,1,1,2,1,10,8,0,0,1,0,0,0,NA,2,9,0,0,NA,NA,5,1,1
 2023-09-01,Bryant Bulldogs,Providence,Away,L,0,1,0,0,2,2,0,0,0,0,0,0,NA,1,3,0,0,NA,NA,3,NA,NA,1,0,9,4,0,0,0,1,0,0,NA,0,2,1,0,NA,NA,7,NA,NA
 2023-09-04,Bryant Bulldogs,Fairfield,Away,L,0,5,0,0,2,1,24,0,2,0,0,0,NA,5,8,0,0,NA,NA,NA,NA,NA,5,3,20,13,18,0,1,2,0,0,NA,0,1,1,0,NA,NA,10,NA,NA
+2023-09-08,Bryant Bulldogs,Merrimack,Home,W,3,1,3,2,20,11,4,0,0,1,0,0,NA,1,3,0,0,NA,NA,14,NA,NA,1,1,7,4,4,0,2,0,0,0,NA,3,8,0,0,NA,NA,5,NA,NA
 2023-08-25,Bucknell Bison,Drexel,Away,L,0,4,0,0,8,3,21,0,0,2,0,0,NA,4,5,0,0,NA,NA,7,NA,NA,4,3,11,9,21,0,0,2,0,0,NA,0,3,1,0,NA,1,7,NA,NA
 2023-08-27,Bucknell Bison,Temple,Away,L,1,2,1,0,11,9,24,0,1,2,0,0,NA,2,4,0,0,NA,NA,4,NA,NA,2,2,8,6,35,0,0,0,0,0,NA,1,8,0,0,NA,NA,4,NA,NA
 2023-09-01,Bucknell Bison,"Ball St. Columbus, Ohio",Away,W,2,1,2,2,18,11,0,0,0,2,0,0,NA,1,4,0,0,NA,NA,2,NA,1,1,1,9,5,0,0,0,3,0,0,NA,2,9,0,0,NA,NA,4,NA,NA
 2023-09-03,Bucknell Bison,Ohio St.,Away,L,1,2,1,1,9,4,0,0,2,2,0,0,NA,2,6,0,0,NA,NA,4,NA,NA,2,1,14,8,0,0,1,2,0,0,NA,1,3,0,0,NA,NA,11,NA,NA
+2023-09-08,Bucknell Bison,Towson,Home,W,7,4,7,3,19,15,0,0,0,1,0,0,NA,4,3,0,0,NA,1,9,NA,1,4,2,8,7,0,0,0,0,0,0,NA,7,8,0,0,NA,NA,6,NA,NA
+2023-09-10,Bucknell Bison,Kent St.,Home,W,2,1,2,2,17,12,0,0,1,1,0,0,NA,1,4,0,0,NA,NA,13,NA,NA,1,1,7,5,0,0,2,2,0,0,NA,2,10,0,0,NA,1,4,NA,NA
 2023-08-25,California Golden Bears,Miami (OH),Home,L,0,2,0,0,11,6,0,0,0,0,0,0,NA,2,1,0,0,NA,NA,11,NA,NA,2,1,3,3,0,0,1,2,0,0,NA,0,6,1,0,NA,NA,NA,NA,NA
 2023-08-27,California Golden Bears,Maryland,Home,L,1,4,1,1,9,4,0,0,0,2,0,0,NA,4,5,0,0,NA,NA,5,NA,NA,4,3,13,9,0,0,0,2,0,0,NA,1,3,0,0,NA,NA,7,NA,NA
 2023-08-28,California Golden Bears,Rutgers,Home,L,1,2,1,0,10,6,0,0,0,1,0,0,NA,2,7,0,0,NA,2,8,NA,NA,2,2,15,9,0,0,0,1,0,0,NA,1,5,0,0,NA,NA,4,NA,1
 2023-09-01,California Golden Bears,Penn St.,Home,W,3,2,3,3,19,12,0,0,1,1,0,0,NA,2,5,0,0,NA,NA,7,NA,NA,2,0,12,7,0,0,0,0,0,0,NA,3,9,0,0,NA,NA,4,NA,NA
+2023-09-08,California Golden Bears,LIU,Away,W,2,1,2,2,13,6,30,0,0,1,0,0,NA,1,3,0,0,NA,NA,11,NA,NA,1,1,8,4,20,0,0,0,0,0,NA,2,4,0,0,NA,NA,5,NA,1
+2023-09-09,California Golden Bears,Stonehill ,Away,W,9,1,9,9,30,23,40,0,0,0,0,0,NA,1,4,0,0,NA,NA,9,NA,NA,1,1,6,5,23,0,0,1,0,0,NA,9,14,0,0,NA,NA,2,NA,NA
 2023-08-25,Central Mich. Chippewas,Colgate,Away,W,3,2,3,2,9,4,39,0,0,0,0,0,NA,2,9,0,0,NA,NA,7,NA,NA,2,1,20,11,26,0,0,1,0,0,NA,3,1,0,0,NA,NA,8,NA,NA
 2023-08-26,Central Mich. Chippewas,"Rider Hamilton, N.Y.",Away,L,3,4,3,2,10,6,21,0,0,1,0,0,NA,4,9,0,0,NA,1,8,NA,NA,4,1,21,13,12,0,0,0,0,0,NA,3,3,0,0,NA,NA,13,NA,NA
 2023-09-01,Central Mich. Chippewas,Old Dominion,Home,L,0,3,0,0,0,0,1,0,0,0,0,0,NA,3,14,0,0,NA,NA,NA,NA,NA,3,2,29,17,1,0,0,0,0,0,NA,0,0,1,0,NA,NA,17,NA,NA
+2023-09-08,Central Mich. Chippewas,Iowa,Away,L,0,8,0,0,0,0,0,0,0,0,0,0,NA,8,8,0,0,NA,1,NA,NA,NA,8,5,27,16,0,0,0,0,0,0,NA,0,0,1,0,NA,NA,9,NA,NA
+2023-09-09,Central Mich. Chippewas,"UMass Lowell Iowa City, Iowa",Away,L,0,9,0,0,3,1,0,0,0,2,0,0,NA,9,8,0,0,NA,NA,2,NA,NA,9,4,29,17,0,0,1,2,0,0,NA,0,1,1,0,NA,NA,7,1,1
 2023-08-25,Colgate Raiders,Central Mich.,Home,L,2,3,2,1,20,11,26,0,0,1,0,0,NA,3,1,0,0,NA,NA,8,NA,NA,3,2,9,4,39,0,0,0,0,0,NA,2,9,0,0,NA,NA,7,NA,NA
 2023-08-27,Colgate Raiders,Rider,Home,W,2,1,2,2,13,6,34,0,0,1,0,0,NA,1,5,0,0,NA,2,9,NA,NA,1,1,17,6,36,0,0,0,0,0,NA,2,4,0,0,NA,2,9,NA,NA
 2023-09-01,Colgate Raiders,Sacred Heart,Home,L,2,4,2,2,15,12,31,0,1,1,0,0,NA,4,4,0,0,NA,NA,7,NA,NA,4,3,10,8,25,0,0,0,0,0,NA,2,10,0,0,NA,3,5,NA,NA
 2023-09-03,Colgate Raiders,Lock Haven,Home,L,1,2,1,1,9,6,34,0,0,0,0,0,NA,2,4,0,0,NA,1,4,NA,NA,2,2,7,6,32,0,0,2,0,0,NA,1,5,0,0,NA,NA,7,NA,NA
+2023-09-08,Colgate Raiders,Lindenwood,Away,W,2,1,2,0,16,8,0,0,0,2,0,0,NA,1,4,0,0,NA,NA,8,NA,NA,1,1,7,5,0,0,0,1,0,0,NA,2,6,0,0,NA,NA,4,NA,NA
+2023-09-10,Colgate Raiders,Saint Louis,Away,W,3,2,3,4,9,4,0,0,0,0,0,0,NA,2,8,0,0,NA,NA,2,NA,NA,2,2,15,10,0,0,0,2,0,0,NA,3,1,0,0,NA,NA,4,NA,NA
 2023-09-01,Columbia Lions,James Madison,Away,L,2,3,2,2,10,3,33,0,0,0,0,0,NA,3,7,0,0,NA,NA,9,NA,NA,3,3,22,10,37,0,0,1,0,0,NA,2,1,0,0,NA,NA,6,NA,NA
 2023-09-03,Columbia Lions,Delaware,Away,L,2,4,2,4,7,5,15,0,1,0,0,0,NA,4,4,0,0,NA,NA,4,NA,NA,4,1,12,8,15,0,0,1,0,0,NA,2,3,0,0,NA,2,5,NA,NA
+2023-09-09,Columbia Lions,Monmouth,Away,W,2,1,2,1,12,9,0,0,0,0,0,0,NA,1,9,0,0,NA,NA,4,NA,NA,1,0,18,10,0,0,1,1,0,0,NA,2,7,0,0,NA,NA,8,NA,NA
+2023-09-10,Columbia Lions,Lafayette,Home,W,3,2,3,3,9,7,19,0,1,2,0,0,NA,2,9,0,0,NA,NA,3,NA,NA,2,4,21,11,31,0,0,1,0,0,NA,3,4,0,0,NA,NA,8,NA,NA
 2023-09-06,Cornell Big Red,Syracuse,Away,L,2,4,2,4,4,3,27,0,0,0,0,0,NA,4,10,0,0,NA,NA,2,NA,NA,4,4,19,14,19,0,0,0,0,0,NA,2,1,0,0,NA,NA,13,1,1
+2023-09-08,Cornell Big Red,UConn,Home,W,2,1,2,4,7,5,48,0,0,3,0,0,NA,1,2,0,0,NA,1,3,NA,NA,1,1,9,3,30,0,0,2,0,0,NA,2,3,0,0,NA,NA,7,NA,NA
+2023-09-10,Cornell Big Red,UAlbany,Home,L,2,3,2,2,17,10,57,0,0,1,0,0,NA,2,4,0,0,NA,NA,8,NA,NA,2,2,11,6,66,0,0,5,0,0,NA,2,8,0,0,NA,1,10,NA,NA
 2023-09-03,Dartmouth Big Green,Stonehill,Home,W,6,1,6,5,24,17,0,0,0,0,0,0,NA,1,2,0,0,NA,NA,3,NA,NA,1,1,7,3,0,0,0,0,0,0,NA,6,11,0,0,NA,NA,4,NA,NA
+2023-09-08,Dartmouth Big Green,Quinnipiac,Home,L,1,2,1,0,11,4,0,0,0,0,0,0,NA,2,7,0,0,NA,NA,11,NA,NA,2,1,21,9,0,0,0,1,0,0,NA,1,3,0,0,NA,NA,10,NA,NA
+2023-09-10,Dartmouth Big Green,Merrimack,Home,W,4,3,4,5,55,34,0,0,0,0,0,0,NA,3,4,0,0,NA,1,21,NA,2,3,2,8,7,0,0,0,1,0,0,NA,4,30,0,0,NA,1,6,NA,NA
 2023-08-25,Davidson Wildcats,"Georgetown Towson, Md.",Away,W,3,2,3,3,19,9,0,0,0,1,0,0,NA,2,2,0,0,NA,NA,8,1,1,2,2,7,4,0,0,0,2,0,0,NA,3,6,0,0,NA,NA,5,NA,NA
 2023-08-27,Davidson Wildcats,Towson,Away,L,2,3,2,1,17,14,0,0,0,2,0,0,NA,3,4,0,0,NA,1,9,NA,NA,3,3,13,7,0,0,0,3,0,0,NA,2,12,0,0,NA,1,8,NA,NA
 2023-09-01,Davidson Wildcats,Queens (NC),Home,W,7,1,7,4,25,17,0,0,0,1,0,0,NA,1,0,0,0,NA,NA,14,NA,NA,1,0,3,1,0,0,0,0,0,0,NA,7,10,0,0,NA,NA,1,NA,NA
 2023-09-03,Davidson Wildcats,App State,Away,L,0,1,0,0,8,5,0,0,0,1,0,0,NA,1,2,0,0,NA,NA,2,NA,NA,1,1,9,3,0,0,0,0,0,0,NA,0,5,1,0,NA,NA,5,NA,NA
+2023-09-08,Davidson Wildcats,Michigan,Away,L,0,7,0,0,3,1,0,0,1,3,0,0,NA,7,9,0,0,NA,NA,2,NA,NA,7,9,34,16,0,0,0,1,0,0,NA,0,1,1,0,NA,NA,18,NA,NA
+2023-09-10,Davidson Wildcats,Bellarmine,Away,L,2,3,2,2,19,11,0,0,0,1,0,0,NA,3,4,0,0,NA,NA,9,NA,NA,3,3,14,7,0,0,0,0,0,0,NA,2,9,0,0,NA,NA,6,NA,NA
 2023-08-25,Delaware Blue Hens,VCU,Away,L,3,4,3,3,16,11,31,0,0,0,0,0,NA,4,4,0,0,NA,NA,14,NA,1,4,4,10,8,49,0,0,1,0,0,NA,3,8,0,0,NA,1,3,NA,NA
 2023-08-27,Delaware Blue Hens,Old Dominion,Away,W,4,2,4,2,9,5,0,0,0,1,0,0,NA,2,10,0,0,NA,NA,3,NA,NA,2,2,18,12,1,0,0,3,0,0,NA,4,1,0,0,NA,NA,10,NA,NA
 2023-09-01,Delaware Blue Hens,Villanova,Home,W,8,0,8,6,22,17,23,0,0,1,0,0,NA,0,2,1,0,NA,NA,7,NA,NA,0,0,4,2,25,0,0,2,0,0,NA,8,9,0,0,NA,1,4,NA,NA
 2023-09-03,Delaware Blue Hens,Columbia,Home,W,4,2,4,1,12,8,15,0,0,1,0,0,NA,2,3,0,0,NA,2,5,NA,NA,2,4,7,5,15,0,1,0,0,0,NA,4,4,0,0,NA,NA,4,NA,NA
+2023-09-10,Delaware Blue Hens,Penn St.,Away,L,1,4,1,0,14,8,0,0,0,2,0,0,NA,4,6,0,0,NA,1,7,NA,NA,4,3,13,10,0,0,0,0,0,0,NA,1,7,0,0,NA,NA,7,NA,NA
 2023-08-25,Drexel Dragons,Bucknell,Home,W,4,0,4,3,11,9,21,0,0,2,0,0,NA,0,3,1,0,NA,1,7,NA,NA,0,0,8,3,21,0,0,2,0,0,NA,4,5,0,0,NA,NA,7,NA,NA
 2023-08-27,Drexel Dragons,La Salle,Home,L,1,2,1,1,10,7,20,0,0,1,0,0,NA,2,3,0,0,NA,NA,11,NA,NA,2,0,7,5,43,0,0,0,0,0,NA,1,6,0,0,NA,1,1,NA,NA
 2023-09-01,Drexel Dragons,App State,Away,W,3,0,3,5,9,8,0,0,1,2,0,0,NA,0,4,1,0,NA,NA,5,NA,NA,0,0,6,4,0,0,0,2,0,0,NA,3,5,0,0,NA,NA,2,NA,NA
 2023-09-03,Drexel Dragons,"Queens (NC) Boone, N.C.",Away,W,8,0,8,9,42,32,0,0,0,2,0,0,NA,0,2,1,0,NA,NA,18,NA,NA,0,0,6,2,0,0,0,1,0,0,NA,8,24,0,0,NA,NA,5,NA,NA
+2023-09-08,Drexel Dragons,Rider,Home,W,3,1,3,3,21,10,20,0,0,1,0,0,NA,1,2,0,0,NA,NA,12,NA,NA,1,0,3,3,31,0,0,0,0,0,NA,3,7,0,0,NA,1,1,NA,NA
+2023-09-10,Drexel Dragons,Penn,Away,L,1,2,1,2,13,6,0,0,0,2,0,0,NA,2,3,0,0,NA,NA,7,NA,NA,2,1,9,5,0,0,0,0,0,0,NA,1,5,0,0,NA,NA,3,NA,NA
 2023-08-25,Duke Blue Devils,Indiana,Home,W,3,2,3,5,15,11,0,0,1,1,0,0,NA,2,1,0,0,NA,NA,6,NA,NA,2,2,8,3,0,0,1,0,0,0,NA,3,8,0,0,NA,NA,5,NA,1
 2023-09-01,Duke Blue Devils,Maryland,Away,W,2,1,2,0,11,8,0,0,0,2,0,0,NA,1,3,0,0,NA,NA,5,NA,NA,1,1,6,4,0,0,0,2,0,0,NA,2,6,0,0,NA,NA,6,NA,NA
 2023-09-03,Duke Blue Devils,Northwestern ,Away,L,2,3,2,3,17,8,0,0,1,0,0,0,NA,3,2,0,0,NA,NA,8,NA,1,3,1,7,5,0,0,2,2,0,0,NA,2,6,0,0,NA,NA,3,NA,NA
+2023-09-08,Duke Blue Devils,Longwood,Home,W,9,0,9,8,39,27,0,0,0,0,0,0,NA,0,2,1,0,NA,NA,15,NA,1,0,0,4,2,0,0,0,0,0,0,NA,9,18,0,0,NA,1,3,NA,NA
+2023-09-10,Duke Blue Devils,Liberty,Home,W,2,1,2,0,15,9,0,0,0,0,0,0,NA,1,4,0,0,NA,NA,7,NA,NA,1,1,7,5,0,0,0,0,0,0,NA,2,7,0,0,NA,NA,4,NA,NA
 2023-08-29,Fairfield Stags,Hofstra,Away,W,4,0,4,3,11,7,26,0,1,2,0,0,NA,0,4,1,0,NA,NA,7,NA,1,0,0,10,4,29,0,0,2,0,0,NA,4,3,0,0,NA,1,8,NA,NA
 2023-09-01,Fairfield Stags,"Iowa Albany, N.Y.",Away,L,0,3,0,0,2,0,0,0,0,1,0,0,NA,3,7,0,0,NA,NA,2,NA,NA,3,1,20,10,0,0,0,0,0,0,NA,0,0,1,0,NA,NA,15,NA,NA
 2023-09-04,Fairfield Stags,Bryant,Home,W,5,0,5,3,20,13,18,0,1,2,0,0,NA,0,1,1,0,NA,NA,10,NA,NA,0,0,2,1,24,0,2,0,0,0,NA,5,8,0,0,NA,NA,NA,NA,NA
+2023-09-08,Fairfield Stags,La Salle,Away,W,2,1,2,0,10,3,27,0,0,2,0,0,NA,1,3,0,0,NA,NA,3,NA,NA,1,1,6,4,36,0,1,0,0,0,NA,2,1,0,0,NA,NA,3,NA,NA
 2023-08-25,Georgetown Hoyas,"Davidson Towson, Md.",Away,L,2,3,2,2,7,4,0,0,0,2,0,0,NA,3,6,0,0,NA,NA,5,NA,NA,3,3,19,9,0,0,0,1,0,0,NA,2,2,0,0,NA,NA,8,1,1
 2023-08-27,Georgetown Hoyas,"App State Towson, Md.",Away,L,1,4,1,2,11,5,0,0,0,1,0,0,NA,4,4,0,0,NA,NA,4,NA,NA,4,7,11,8,0,0,0,1,0,0,NA,1,4,0,0,NA,NA,7,NA,NA
 2023-09-01,Georgetown Hoyas,VCU,Away,L,2,4,2,1,6,6,22,0,0,1,0,0,NA,4,5,0,0,NA,NA,3,NA,NA,4,4,11,9,32,0,0,1,0,0,NA,2,4,0,0,NA,NA,4,NA,NA
 2023-09-03,Georgetown Hoyas,Richmond,Away,L,1,4,1,0,12,9,26,0,0,3,0,0,NA,4,6,0,0,NA,NA,6,NA,NA,4,4,21,10,29,0,0,2,0,0,NA,1,8,0,0,NA,1,15,NA,NA
-2023-09-01,Harvard Crimson,Massachusetts,Away,W,2,1,2,0,10,6,0,0,0,2,0,0,NA,1,0,0,0,NA,NA,2,NA,NA,1,1,2,1,0,0,0,1,0,0,NA,2,4,0,0,NA,NA,2,NA,NA
+2023-09-08,Georgetown Hoyas,Penn,Away,L,1,8,1,2,5,2,0,0,1,3,0,0,NA,8,4,0,0,NA,NA,1,NA,NA,8,8,26,12,0,0,0,1,0,0,NA,1,1,0,0,NA,NA,15,NA,NA
+2023-09-10,Georgetown Hoyas,Rider,Away,L,0,1,0,0,9,5,50,0,0,0,0,0,NA,1,8,0,0,NA,NA,10,NA,NA,1,1,13,9,46,0,0,0,0,0,NA,0,5,1,0,NA,2,7,NA,NA
+2023-09-01,Harvard Crimson,Massachusetts,Away,W,2,1,2,1,10,6,0,0,0,2,0,0,NA,1,0,0,0,NA,NA,2,NA,NA,1,1,2,1,0,0,0,1,0,0,NA,2,4,0,0,NA,NA,2,NA,NA
 2023-09-03,Harvard Crimson,UConn,Away,W,3,2,3,0,13,8,0,0,0,1,0,0,NA,2,4,0,0,NA,NA,7,NA,NA,2,2,11,6,0,0,0,0,0,0,NA,3,5,0,0,NA,NA,4,NA,NA
+2023-09-08,Harvard Crimson,Liberty,Away,L,1,2,1,1,9,4,0,0,0,3,0,0,NA,2,7,0,0,NA,NA,7,NA,NA,2,2,17,9,0,0,1,1,0,0,NA,1,3,0,0,NA,NA,9,NA,NA
+2023-09-10,Harvard Crimson,Virginia,Away,L,0,1,0,0,10,4,0,0,0,1,0,0,NA,1,1,0,0,NA,NA,6,NA,NA,1,1,6,2,0,0,0,2,0,0,NA,0,4,1,0,NA,NA,5,NA,NA
 2023-08-26,Hofstra Pride,Merrimack,Home,W,8,0,8,9,19,10,26,0,0,1,0,0,NA,0,4,1,0,NA,NA,12,NA,NA,0,0,6,4,21,0,0,0,0,0,NA,8,2,0,0,NA,NA,2,NA,NA
 2023-08-29,Hofstra Pride,Fairfield,Home,L,0,4,0,0,10,4,29,0,0,2,0,0,NA,4,3,0,0,NA,1,8,NA,NA,4,3,11,7,26,0,1,2,0,0,NA,0,4,1,0,NA,NA,7,NA,1
 2023-09-01,Hofstra Pride,Wagner,Home,W,2,0,2,4,5,4,28,0,0,0,0,0,NA,0,1,1,0,NA,NA,5,NA,NA,0,0,5,1,38,0,0,2,0,0,NA,2,2,0,0,NA,NA,4,NA,NA
 2023-09-03,Hofstra Pride,Lehigh,Home,L,1,3,1,0,6,4,30,0,1,1,0,0,NA,3,8,0,0,NA,NA,2,NA,NA,3,3,15,11,24,0,0,0,0,0,NA,1,3,0,0,NA,NA,9,NA,NA
+2023-09-08,Hofstra Pride,UAlbany,Away,L,0,3,0,0,7,3,0,0,0,0,0,0,NA,3,11,0,0,NA,NA,5,NA,NA,3,3,18,14,0,0,0,2,0,0,NA,0,3,1,0,NA,NA,7,NA,NA
+2023-09-10,Hofstra Pride,Stonehill,Home,W,4,1,4,5,20,13,32,0,0,1,0,0,NA,1,4,0,0,NA,NA,11,NA,NA,1,0,6,5,34,0,1,0,0,0,NA,4,9,0,0,NA,NA,3,NA,NA
 2023-08-25,Holy Cross Crusaders,Stonehill,Home,W,1,0,1,1,14,10,0,0,0,2,0,0,NA,0,11,1,0,NA,1,7,NA,NA,0,0,12,11,0,0,0,1,0,0,NA,1,9,0,0,NA,NA,7,NA,1
 2023-09-01,Holy Cross Crusaders,Northeastern,Away,L,2,8,2,3,9,6,8,0,0,0,0,0,NA,8,12,0,0,NA,1,4,NA,NA,8,12,26,20,11,0,1,0,0,0,NA,2,4,0,0,NA,NA,11,NA,NA
 2023-09-03,Holy Cross Crusaders,Brown,Away,L,1,2,1,1,9,3,35,0,1,1,0,0,NA,2,18,0,0,NA,NA,8,NA,NA,2,0,37,20,22,0,0,0,0,0,NA,1,2,0,0,NA,NA,15,1,1
+2023-09-08,Holy Cross Crusaders,Wagner,Away,W,2,1,2,1,8,6,0,0,0,1,0,0,NA,1,12,0,0,NA,NA,4,NA,NA,1,0,26,13,0,0,0,1,0,0,NA,2,4,0,0,NA,NA,16,NA,NA
+2023-09-10,Holy Cross Crusaders,LIU ,Away,L,2,3,2,0,12,9,0,0,3,2,0,0,NA,3,5,0,0,NA,NA,2,1,1,3,2,15,8,0,0,0,1,0,0,NA,2,7,0,0,NA,NA,4,NA,NA
 2023-08-25,Indiana Hoosiers,Duke,Away,L,2,3,2,2,8,3,0,0,1,0,0,0,NA,3,8,0,0,NA,NA,5,NA,1,3,5,15,11,0,0,1,1,0,0,NA,2,1,0,0,NA,NA,6,NA,NA
 2023-08-27,Indiana Hoosiers,Liberty,Away,L,1,2,1,1,9,4,0,0,2,2,0,0,NA,2,8,0,0,NA,NA,5,NA,NA,2,1,18,10,0,0,0,0,0,0,NA,1,3,0,0,NA,NA,6,1,1
 2023-09-03,Indiana Hoosiers,Saint Francis (PA) ,Away,W,3,1,3,2,6,5,0,0,0,1,0,0,NA,1,3,0,0,NA,NA,3,NA,NA,1,1,10,4,0,0,0,2,0,0,NA,3,2,0,0,NA,NA,4,NA,NA
-2023-09-04,Indiana Hoosiers,Miami (OH),Away,W,2,0,2,2,6,6,0,0,0,2,0,0,NA,0,5,1,0,NA,NA,1,1,2,0,0,11,5,0,0,0,2,0,0,NA,2,4,0,0,NA,NA,9,NA,NA
+2023-09-04,Indiana Hoosiers,Miami (OH),Away,W,2,0,2,2,6,6,0,0,0,2,0,0,NA,0,6,1,0,NA,1,1,1,2,0,0,11,6,0,0,0,2,0,0,NA,2,4,0,0,NA,NA,9,NA,NA
+2023-09-10,Indiana Hoosiers,Ohio,Away,L,2,3,2,1,21,17,13,0,0,1,0,0,NA,3,0,0,0,NA,NA,12,NA,NA,3,3,6,3,6,0,0,0,0,0,NA,2,14,0,0,NA,1,1,NA,NA
 2023-08-25,Iowa Hawkeyes,Wake Forest ,Away,W,4,0,4,2,11,10,0,0,3,1,0,0,NA,0,1,1,0,NA,NA,3,NA,NA,0,0,4,1,0,0,2,0,0,0,NA,4,6,0,0,NA,NA,2,NA,NA
 2023-08-27,Iowa Hawkeyes,North Carolina,Away,W,3,2,3,1,13,8,0,0,0,1,0,0,NA,2,6,0,0,NA,NA,6,NA,NA,2,2,18,8,0,0,0,3,0,0,NA,3,5,0,0,NA,NA,6,NA,NA
 2023-09-01,Iowa Hawkeyes,"Fairfield Albany, N.Y.",Away,W,3,0,3,1,20,10,0,0,0,0,0,0,NA,0,0,1,0,NA,NA,15,NA,NA,0,0,2,0,0,0,0,1,0,0,NA,3,7,0,0,NA,NA,2,NA,NA
 2023-09-03,Iowa Hawkeyes,UAlbany,Away,W,3,0,3,2,9,7,0,0,0,2,0,0,NA,0,3,1,0,NA,NA,2,1,2,0,0,7,3,0,0,0,1,0,0,NA,3,4,0,0,NA,1,5,NA,NA
+2023-09-08,Iowa Hawkeyes,Central Mich.,Home,W,8,0,8,5,27,16,0,0,0,0,0,0,NA,0,0,1,0,NA,NA,9,NA,NA,0,0,0,0,0,0,0,0,0,0,NA,8,8,0,0,NA,1,NA,NA,NA
+2023-09-10,Iowa Hawkeyes,UMass Lowell,Home,W,5,1,5,4,19,13,0,0,0,2,0,0,NA,1,4,0,0,NA,NA,10,NA,NA,1,2,8,5,0,0,0,0,0,0,NA,5,8,0,0,NA,NA,6,NA,NA
 2023-08-25,James Madison Dukes,William & Mary,Away,W,4,2,4,5,10,7,0,0,1,1,0,0,NA,2,16,0,0,NA,NA,3,NA,NA,2,1,24,18,0,0,1,0,0,0,NA,4,3,0,0,NA,1,11,NA,NA
 2023-08-27,James Madison Dukes,Richmond,Away,L,0,3,0,0,7,5,6,0,0,3,0,0,NA,3,2,0,0,NA,NA,2,NA,NA,3,4,7,5,3,0,1,2,0,0,NA,0,5,1,0,NA,NA,2,NA,NA
 2023-09-01,James Madison Dukes,Columbia,Home,W,3,2,3,3,22,10,37,0,0,1,0,0,NA,2,1,0,0,NA,NA,6,NA,NA,2,2,10,3,33,0,0,0,0,0,NA,3,7,0,0,NA,NA,9,NA,NA
 2023-09-03,James Madison Dukes,Wake Forest,Away,L,0,1,0,0,3,3,0,0,1,4,0,0,NA,1,6,0,0,NA,NA,NA,NA,NA,1,1,17,7,0,0,0,0,0,0,NA,0,3,1,0,NA,NA,7,NA,NA
+2023-09-08,James Madison Dukes,App State,Home,L,1,2,1,0,8,4,35,0,0,0,0,0,NA,2,2,0,0,NA,NA,1,NA,NA,2,1,8,4,28,0,0,1,0,0,NA,1,3,0,0,NA,NA,1,NA,NA
+2023-09-10,James Madison Dukes,Temple,Home,L,1,2,1,1,8,4,34,0,0,0,0,0,NA,2,4,0,0,NA,NA,5,NA,NA,2,3,11,6,28,0,0,1,0,0,NA,1,3,0,0,NA,NA,7,NA,NA
 2023-08-25,Kent St. Golden Flashes,Liberty,Away,L,0,2,0,0,8,5,0,0,0,2,0,0,NA,2,6,0,0,NA,NA,7,NA,NA,2,3,12,8,0,0,0,1,0,0,NA,0,5,1,0,NA,2,10,NA,1
 2023-08-27,Kent St. Golden Flashes,VCU,Away,L,0,1,0,0,8,4,32,0,0,1,0,0,NA,1,5,0,0,NA,NA,7,NA,NA,1,1,7,6,32,0,0,0,0,0,NA,0,4,1,0,NA,NA,3,NA,NA
 2023-09-01,Kent St. Golden Flashes,Michigan St.,Home,W,1,0,1,0,8,4,0,0,0,0,0,0,NA,0,4,1,0,NA,NA,10,NA,NA,0,0,5,4,0,0,0,0,0,0,NA,1,3,0,0,NA,NA,1,NA,NA
 2023-09-03,Kent St. Golden Flashes,UC Davis,Home,L,4,5,4,4,25,17,0,0,0,1,0,0,NA,5,8,0,0,NA,1,8,NA,NA,5,3,23,13,0,0,0,2,0,0,NA,4,13,0,0,NA,NA,9,1,2
+2023-09-08,Kent St. Golden Flashes,Penn St.,Away,L,0,5,0,0,2,2,0,0,0,0,0,0,NA,5,6,0,0,NA,NA,1,NA,NA,5,4,17,11,0,0,0,0,0,0,NA,0,2,1,0,NA,NA,4,NA,NA
+2023-09-10,Kent St. Golden Flashes,Bucknell,Away,L,1,2,1,1,7,5,0,0,2,2,0,0,NA,2,10,0,0,NA,1,4,NA,NA,2,2,17,12,0,0,1,1,0,0,NA,1,4,0,0,NA,NA,13,NA,NA
 2023-08-25,LIU Sharks,UMass Lowell,Away,L,1,5,1,1,5,3,0,0,0,0,0,0,NA,5,10,0,0,NA,NA,3,NA,NA,5,4,31,15,0,0,0,1,0,0,NA,1,2,0,0,NA,NA,13,NA,NA
 2023-09-01,LIU Sharks,Brown,Away,L,0,3,0,0,3,2,19,0,0,1,0,0,NA,3,10,0,0,NA,NA,1,NA,NA,3,2,20,13,28,0,0,0,0,0,NA,0,2,1,0,NA,NA,4,NA,NA
 2023-09-03,LIU Sharks,Providence,Away,L,0,1,0,0,4,2,0,0,0,0,0,0,NA,1,3,0,0,NA,NA,NA,NA,NA,1,0,8,4,0,0,0,1,0,0,NA,0,2,1,0,NA,NA,6,NA,NA
+2023-09-07,LIU Sharks,Temple,Away,L,0,1,0,0,6,4,36,0,0,1,0,0,NA,1,7,0,0,NA,NA,3,NA,NA,1,1,18,8,40,0,0,1,0,0,NA,0,4,1,0,NA,NA,15,NA,NA
+2023-09-08,LIU Sharks,California,Home,L,1,2,1,1,8,4,20,0,0,0,0,0,NA,2,4,0,0,NA,NA,5,NA,1,2,2,13,6,30,0,0,1,0,0,NA,1,3,0,0,NA,NA,11,NA,NA
+2023-09-10,LIU Sharks,Holy Cross ,Away,W,3,2,3,2,15,8,0,0,0,1,0,0,NA,2,7,0,0,NA,NA,4,NA,NA,2,0,12,9,0,0,3,2,0,0,NA,3,5,0,0,NA,NA,2,1,1
 2023-08-25,La Salle Explorers,Temple,Away,L,1,2,1,1,9,6,26,0,0,3,0,0,NA,2,4,0,0,NA,NA,4,NA,1,2,3,12,6,33,0,0,2,0,0,NA,1,5,0,0,NA,1,8,NA,NA
 2023-08-27,La Salle Explorers,Drexel,Away,W,2,1,2,0,7,5,43,0,0,0,0,0,NA,1,6,0,0,NA,1,1,NA,NA,1,1,10,7,20,0,0,1,0,0,NA,2,3,0,0,NA,NA,11,NA,NA
 2023-09-01,La Salle Explorers,Longwood,Home,W,4,2,4,2,15,13,33,0,2,0,0,0,NA,2,0,0,0,NA,NA,10,1,1,2,1,4,2,30,0,0,0,0,0,NA,4,9,0,0,NA,NA,3,1,1
 2023-09-03,La Salle Explorers,Rider,Home,W,3,0,3,0,17,8,15,0,1,0,0,0,NA,0,3,1,0,NA,NA,4,NA,NA,0,0,12,3,22,0,0,2,0,0,NA,3,5,0,0,NA,NA,9,NA,1
+2023-09-08,La Salle Explorers,Fairfield,Home,L,1,2,1,1,6,4,36,0,1,0,0,0,NA,2,1,0,0,NA,NA,3,NA,NA,2,0,10,3,27,0,0,2,0,0,NA,1,3,0,0,NA,NA,3,NA,NA
+2023-09-10,La Salle Explorers,Villanova,Away,W,4,3,4,1,18,10,31,0,2,1,0,0,NA,3,9,0,0,NA,NA,4,1,2,3,4,23,12,25,0,0,1,0,0,NA,4,6,0,0,NA,NA,16,NA,NA
 2023-08-25,Lafayette Leopards,Wagner,Home,W,5,0,5,4,15,11,31,0,0,1,0,0,NA,0,2,1,0,NA,NA,5,NA,NA,0,0,4,2,27,0,0,2,0,0,NA,5,6,0,0,NA,NA,1,NA,NA
 2023-08-27,Lafayette Leopards,Ohio St.,Home,L,1,4,1,0,8,6,28,0,0,2,0,0,NA,4,5,0,0,NA,NA,2,NA,NA,4,1,16,9,22,0,0,1,0,0,NA,1,5,0,0,NA,NA,7,NA,NA
 2023-09-01,Lafayette Leopards,Vermont,Away,L,2,3,2,4,11,5,40,0,0,1,0,0,NA,3,4,0,0,NA,NA,7,NA,NA,3,3,13,7,34,0,0,1,0,0,NA,2,3,0,0,NA,NA,8,NA,NA
 2023-09-03,Lafayette Leopards,Massachusetts,Away,L,0,1,0,0,7,4,0,0,0,1,0,0,NA,1,2,0,0,NA,NA,5,NA,NA,1,1,8,3,0,0,0,1,0,0,NA,0,4,1,0,NA,NA,3,NA,NA
+2023-09-10,Lafayette Leopards,Columbia,Away,L,2,3,2,4,21,11,31,0,0,1,0,0,NA,3,4,0,0,NA,NA,8,NA,NA,3,3,9,7,19,0,1,2,0,0,NA,2,9,0,0,NA,NA,3,NA,NA
 2023-08-25,Lehigh Mountain Hawks,Ohio St.,Home,L,2,5,2,0,10,7,0,0,0,0,0,0,NA,5,7,0,0,NA,2,9,NA,1,5,4,18,12,0,0,1,2,0,0,NA,2,5,0,0,NA,NA,9,NA,NA
 2023-08-27,Lehigh Mountain Hawks,Ball St.,Home,W,4,3,4,3,23,15,0,0,0,1,0,0,NA,3,3,0,0,NA,NA,11,1,1,3,4,12,6,0,0,0,0,0,0,NA,4,11,0,0,NA,NA,7,NA,NA
 2023-09-01,Lehigh Mountain Hawks,Lock Haven,Away,W,2,1,2,1,10,8,0,0,0,0,0,0,NA,1,2,0,0,NA,1,7,1,1,1,0,6,3,0,0,0,3,0,0,NA,2,6,0,0,NA,1,1,NA,NA
 2023-09-03,Lehigh Mountain Hawks,Hofstra,Away,W,3,1,3,3,15,11,24,0,0,0,0,0,NA,1,3,0,0,NA,NA,9,NA,NA,1,0,6,4,30,0,1,1,0,0,NA,3,8,0,0,NA,NA,2,NA,NA
+2023-09-10,Lehigh Mountain Hawks,Sacred Heart,Home,W,5,2,5,4,23,14,0,0,0,0,0,0,NA,2,1,0,0,NA,1,13,NA,NA,2,1,5,3,0,0,0,0,0,0,NA,5,9,0,0,NA,2,1,NA,NA
 2023-08-25,Liberty Lady Flames,Kent St.,Home,W,2,0,2,3,12,8,0,0,0,1,0,0,NA,0,5,1,0,NA,2,10,NA,1,0,0,8,5,0,0,0,2,0,0,NA,2,6,0,0,NA,NA,7,NA,NA
 2023-08-27,Liberty Lady Flames,Indiana,Home,W,2,1,2,1,18,10,0,0,0,0,0,0,NA,1,3,0,0,NA,NA,6,1,1,1,1,9,4,0,0,2,2,0,0,NA,2,8,0,0,NA,NA,5,NA,NA
 2023-08-29,Liberty Lady Flames,Virginia,Away,W,3,1,3,3,9,6,0,0,0,2,0,0,NA,1,6,0,0,NA,1,8,NA,NA,1,0,13,7,0,0,0,2,0,0,NA,3,3,0,0,NA,NA,4,NA,NA
 2023-09-03,Liberty Lady Flames,American,Home,W,1,0,0,0,17,5,0,0,0,1,0,0,NA,0,2,1,0,NA,NA,6,NA,1,0,0,8,2,0,0,0,0,0,0,NA,0,5,1,0,NA,NA,6,NA,NA
+2023-09-08,Liberty Lady Flames,Harvard,Home,W,2,1,2,2,17,9,0,0,1,1,0,0,NA,1,3,0,0,NA,NA,9,NA,NA,1,1,9,4,0,0,0,3,0,0,NA,2,7,0,0,NA,NA,7,NA,NA
+2023-09-10,Liberty Lady Flames,Duke,Away,L,1,2,1,1,7,5,0,0,0,0,0,0,NA,2,7,0,0,NA,NA,4,NA,NA,2,0,15,9,0,0,0,0,0,0,NA,1,4,0,0,NA,NA,7,NA,NA
 2023-08-26,Lindenwood Lions,Bryant,Home,L,1,3,1,1,13,7,0,0,2,2,0,0,NA,3,8,0,0,NA,1,6,NA,NA,3,2,14,11,0,0,1,2,0,0,NA,1,6,0,0,NA,NA,4,1,1
 2023-09-04,Lindenwood Lions,Saint Louis,Away,L,1,2,1,1,9,6,0,0,0,0,0,0,NA,2,8,0,0,NA,NA,3,NA,NA,2,3,24,10,0,0,0,1,0,0,NA,1,5,0,0,NA,NA,18,NA,NA
+2023-09-08,Lindenwood Lions,Colgate,Home,L,1,2,1,1,7,5,0,0,0,1,0,0,NA,2,6,0,0,NA,NA,4,NA,NA,2,0,16,8,0,0,0,2,0,0,NA,1,4,0,0,NA,NA,8,NA,NA
 2023-08-27,Lock Haven Bald Eagles,Queens (NC),Home,W,7,0,7,6,20,14,0,0,2,0,0,0,NA,0,1,1,0,NA,NA,8,NA,NA,0,0,3,1,0,0,1,1,0,0,NA,7,7,0,0,NA,NA,3,NA,NA
 2023-09-01,Lock Haven Bald Eagles,Lehigh,Home,L,1,2,1,0,6,3,0,0,0,3,0,0,NA,2,6,0,0,NA,1,1,NA,NA,2,1,10,8,0,0,0,0,0,0,NA,1,2,0,0,NA,1,7,1,1
 2023-09-03,Lock Haven Bald Eagles,Colgate,Away,W,2,1,2,2,7,6,32,0,0,2,0,0,NA,1,5,0,0,NA,NA,7,NA,NA,1,1,9,6,34,0,0,0,0,0,NA,2,4,0,0,NA,1,4,NA,NA
 2023-09-06,Lock Haven Bald Eagles,Saint Francis (PA),Away,L,1,2,1,1,4,2,44,0,1,1,0,0,NA,2,7,0,0,NA,NA,3,NA,NA,2,1,13,9,30,0,1,1,0,0,NA,1,1,0,0,NA,NA,5,NA,NA
+2023-09-10,Lock Haven Bald Eagles,Ball St.,Home,L,1,2,1,0,8,5,0,0,0,4,0,0,NA,1,9,0,0,NA,NA,4,1,1,1,1,18,10,0,0,0,2,0,0,NA,1,4,0,0,NA,1,9,NA,NA
 2023-08-25,Longwood Lancers,Richmond,Away,W,2,1,2,2,10,6,4,0,0,1,0,0,NA,1,5,0,0,NA,1,5,NA,NA,1,0,13,6,8,0,1,2,0,0,NA,2,4,0,0,NA,NA,6,NA,NA
 2023-08-27,Longwood Lancers,Saint Francis (PA),Home,L,0,1,0,0,5,4,30,0,2,1,0,0,NA,1,3,0,0,NA,NA,1,NA,NA,1,1,8,4,31,0,1,2,0,0,NA,0,4,1,0,NA,NA,3,NA,NA
 2023-09-01,Longwood Lancers,La Salle,Away,L,2,4,2,1,4,2,30,0,0,0,0,0,NA,4,9,0,0,NA,NA,3,1,1,4,2,15,13,33,0,2,0,0,0,NA,2,0,0,0,NA,NA,10,1,1
 2023-09-03,Longwood Lancers,Villanova,Away,L,0,7,0,0,7,5,19,0,0,0,0,0,NA,7,9,0,0,NA,NA,2,NA,NA,7,6,22,16,24,0,0,1,0,0,NA,0,5,1,0,NA,NA,5,NA,NA
+2023-09-08,Longwood Lancers,Duke,Away,L,0,9,0,0,4,2,0,0,0,0,0,0,NA,9,18,0,0,NA,1,3,NA,NA,9,8,39,27,0,0,0,0,0,0,NA,0,2,1,0,NA,NA,15,NA,1
+2023-09-10,Longwood Lancers,Queens (NC),Home,W,5,1,5,4,18,15,32,0,0,0,0,0,NA,1,4,0,0,NA,NA,8,NA,1,1,0,8,5,21,0,0,0,0,0,NA,5,10,0,0,NA,NA,4,NA,NA
 2023-08-26,Louisville Cardinals,Northeastern,Home,W,3,1,3,5,21,11,0,0,0,0,0,0,NA,1,2,0,0,NA,NA,12,NA,NA,1,0,4,3,0,0,0,0,0,0,NA,3,8,0,0,NA,NA,1,NA,NA
 2023-08-27,Louisville Cardinals,Northwestern,Away,W,1,0,1,2,3,1,0,0,0,2,0,0,NA,0,10,1,0,NA,1,2,NA,NA,0,0,21,10,0,0,0,0,0,0,NA,1,0,0,0,NA,NA,8,NA,NA
 2023-09-01,Louisville Cardinals,"Princeton Philadelphia, Pa.",Away,W,2,1,2,2,13,6,0,0,1,1,0,0,NA,1,3,0,0,NA,NA,6,NA,NA,1,1,7,4,0,0,2,2,0,0,NA,2,4,0,0,NA,NA,2,NA,NA
 2023-09-03,Louisville Cardinals,Penn,Away,W,2,1,2,1,15,7,0,0,0,2,0,0,NA,1,1,0,0,NA,NA,12,NA,NA,1,0,3,2,0,0,0,1,0,0,NA,2,5,0,0,NA,NA,NA,NA,NA
+2023-09-08,Louisville Cardinals,Ohio St.,Home,W,2,1,2,1,3,2,0,0,0,1,0,0,NA,1,6,0,0,NA,1,NA,1,1,1,1,15,7,0,0,1,3,0,0,NA,2,0,0,0,NA,NA,10,NA,NA
+2023-09-10,Louisville Cardinals,VCU,Home,W,2,1,2,3,12,6,0,0,0,0,0,0,NA,1,0,0,0,NA,NA,7,NA,NA,1,1,1,1,0,0,0,1,0,0,NA,2,4,0,0,NA,NA,1,NA,NA
 2023-08-25,Maine Black Bears,Boston College,Home,L,1,3,1,1,4,3,23,0,0,1,0,0,NA,3,3,0,0,NA,1,3,NA,NA,3,4,12,6,30,0,0,0,0,0,NA,1,2,0,0,NA,NA,8,NA,NA
 2023-08-27,Maine Black Bears,Providence,Home,W,2,0,2,1,14,9,40,0,1,2,0,0,NA,0,2,1,0,NA,NA,13,1,1,0,0,4,2,44,0,2,3,0,0,NA,2,7,0,0,NA,NA,9,NA,1
 2023-09-01,Maine Black Bears,Boston U.,Home,L,2,3,2,2,11,8,39,0,0,1,0,0,NA,3,1,0,0,NA,NA,4,NA,NA,3,3,8,4,45,0,1,0,0,0,NA,2,6,0,0,NA,NA,4,NA,NA
 2023-09-03,Maine Black Bears,Ohio,Home,W,5,3,5,4,12,7,39,0,0,0,0,0,NA,3,2,0,0,NA,1,7,NA,NA,3,4,9,5,41,0,2,0,0,0,NA,5,2,0,0,NA,NA,4,NA,NA
+2023-09-08,Maine Black Bears,Northwestern,Home,L,0,3,0,0,5,2,26,0,0,0,0,0,NA,3,15,0,0,NA,NA,4,NA,NA,3,2,26,18,36,0,0,0,0,0,NA,0,2,1,0,NA,NA,11,NA,1
+2023-09-10,Maine Black Bears,Massachusetts,Home,L,2,3,2,2,6,5,21,0,0,1,0,0,NA,3,2,0,0,NA,NA,4,1,2,3,2,7,5,37,0,1,2,0,0,NA,2,3,0,0,NA,NA,1,NA,1
 2023-08-25,"Maryland Terrapins, Terps",Stanford,Away,W,4,0,4,4,12,8,0,0,0,0,0,0,NA,0,2,1,0,NA,NA,7,NA,NA,0,0,4,2,0,0,0,1,0,0,NA,4,4,0,0,NA,NA,1,NA,NA
 2023-08-27,"Maryland Terrapins, Terps",California,Away,W,4,1,4,3,13,9,0,0,0,2,0,0,NA,1,3,0,0,NA,NA,7,NA,NA,1,1,9,4,0,0,0,2,0,0,NA,4,5,0,0,NA,NA,5,NA,NA
 2023-08-28,"Maryland Terrapins, Terps",UC Davis,Away,W,6,0,6,4,19,13,0,0,0,1,0,0,NA,0,4,1,0,NA,NA,6,NA,NA,0,0,8,4,0,0,0,2,0,0,NA,6,7,0,0,NA,NA,4,NA,NA
 2023-09-01,"Maryland Terrapins, Terps",Duke,Home,L,1,2,1,1,6,4,0,0,0,2,0,0,NA,2,6,0,0,NA,NA,6,NA,NA,2,0,11,8,0,0,0,2,0,0,NA,1,3,0,0,NA,NA,5,NA,NA
 2023-09-03,"Maryland Terrapins, Terps",Boston College,Home,W,1,0,1,1,13,9,0,0,0,2,0,0,NA,0,3,1,0,NA,NA,3,NA,NA,0,0,8,3,0,0,0,3,0,0,NA,1,8,0,0,NA,1,3,NA,NA
+2023-09-08,"Maryland Terrapins, Terps",Miami (OH),Home,W,3,1,3,2,20,13,0,0,0,1,0,0,NA,1,1,0,0,NA,NA,5,1,1,1,0,4,2,0,0,1,1,0,0,NA,3,10,0,0,NA,1,3,NA,1
+2023-09-10,"Maryland Terrapins, Terps",Yale,Home,W,3,1,3,3,18,11,0,0,0,0,0,0,NA,1,3,0,0,NA,NA,10,NA,NA,1,0,13,4,0,0,0,0,0,0,NA,3,8,0,0,NA,NA,6,NA,NA
 2023-08-25,Massachusetts Minutewomen,UAlbany,Away,W,3,2,3,0,12,7,0,0,0,1,0,0,NA,2,2,0,0,NA,NA,2,NA,NA,2,2,9,4,0,0,1,1,0,0,NA,3,4,0,0,NA,NA,5,NA,NA
 2023-08-27,Massachusetts Minutewomen,Quinnipiac,Away,W,2,1,2,2,16,9,31,0,0,1,0,0,NA,1,2,0,0,NA,NA,9,1,1,1,2,5,3,22,0,0,0,0,0,NA,2,7,0,0,NA,NA,5,NA,NA
-2023-09-01,Massachusetts Minutewomen,Harvard,Home,L,1,2,1,1,2,1,0,0,0,1,0,0,NA,2,4,0,0,NA,NA,2,NA,NA,2,0,10,6,0,0,0,2,0,0,NA,1,0,0,0,NA,NA,2,NA,NA
+2023-09-01,Massachusetts Minutewomen,Harvard,Home,L,1,2,1,1,2,1,0,0,0,1,0,0,NA,2,4,0,0,NA,NA,2,NA,NA,2,1,10,6,0,0,0,2,0,0,NA,1,0,0,0,NA,NA,2,NA,NA
 2023-09-03,Massachusetts Minutewomen,Lafayette,Home,W,1,0,1,1,8,3,0,0,0,1,0,0,NA,0,4,1,0,NA,NA,3,NA,NA,0,0,7,4,0,0,0,1,0,0,NA,1,2,0,0,NA,NA,5,NA,NA
+2023-09-09,Massachusetts Minutewomen,Northwestern ,Away,L,0,3,0,0,5,4,21,0,0,1,0,0,NA,3,9,0,0,NA,NA,5,NA,NA,3,2,19,12,32,0,0,3,0,0,NA,0,4,1,0,NA,NA,6,2,2
+2023-09-10,Massachusetts Minutewomen,Maine,Away,W,3,2,3,2,7,5,37,0,1,2,0,0,NA,2,3,0,0,NA,NA,1,NA,1,2,2,6,5,21,0,0,1,0,0,NA,3,2,0,0,NA,NA,4,1,2
 2023-08-26,Merrimack Warriors,Hofstra,Away,L,0,8,0,0,6,4,21,0,0,0,0,0,NA,8,2,0,0,NA,NA,2,NA,NA,8,9,19,10,26,0,0,1,0,0,NA,0,4,1,0,NA,NA,12,NA,NA
 2023-09-01,Merrimack Warriors,UMass Lowell,Away,L,0,9,0,0,0,0,0,0,0,0,0,0,NA,9,17,0,0,NA,NA,1,NA,NA,9,4,43,26,0,0,0,1,0,0,NA,0,0,1,0,NA,NA,20,NA,NA
 2023-09-03,Merrimack Warriors,Northeastern,Away,L,1,5,1,1,7,4,26,0,0,0,0,0,NA,5,7,0,0,NA,NA,3,NA,NA,5,8,27,12,28,0,0,1,0,0,NA,1,3,0,0,NA,NA,11,NA,NA
+2023-09-08,Merrimack Warriors,Bryant,Away,L,1,3,1,1,7,4,4,0,2,0,0,0,NA,3,8,0,0,NA,NA,5,NA,NA,3,2,20,11,4,0,0,1,0,0,NA,1,3,0,0,NA,NA,14,NA,NA
+2023-09-10,Merrimack Warriors,Dartmouth,Away,L,3,4,3,2,8,7,0,0,0,1,0,0,NA,4,30,0,0,NA,1,6,NA,NA,4,5,55,34,0,0,0,0,0,0,NA,3,4,0,0,NA,1,21,NA,2
 2023-08-25,Miami (OH) RedHawks,California,Away,W,2,0,2,1,3,3,0,0,1,2,0,0,NA,0,6,1,0,NA,NA,NA,NA,NA,0,0,11,6,0,0,0,0,0,0,NA,2,1,0,0,NA,NA,11,NA,NA
 2023-08-26,Miami (OH) RedHawks,UC Davis,Away,W,2,1,2,1,13,8,0,0,0,1,0,0,NA,1,1,0,0,NA,NA,10,NA,NA,1,1,5,2,0,0,0,2,0,0,NA,2,6,0,0,NA,NA,1,NA,NA
 2023-09-02,Miami (OH) RedHawks,Saint Francis (PA),Home,W,3,1,3,4,12,9,0,0,0,0,0,0,NA,1,1,0,0,NA,NA,10,NA,NA,1,1,3,2,0,0,0,1,0,0,NA,3,6,0,0,NA,1,4,NA,NA
-2023-09-04,Miami (OH) RedHawks,Indiana,Home,L,0,2,0,0,11,5,0,0,0,2,0,0,NA,2,4,0,0,NA,NA,9,NA,NA,2,2,6,6,0,0,0,2,0,0,NA,0,5,1,0,NA,NA,1,1,2
+2023-09-04,Miami (OH) RedHawks,Indiana,Home,L,0,2,0,0,11,6,0,0,0,2,0,0,NA,2,4,0,0,NA,NA,9,NA,NA,2,2,6,6,0,0,0,2,0,0,NA,0,6,1,0,NA,1,1,1,2
+2023-09-08,Miami (OH) RedHawks,Maryland,Away,L,1,3,1,0,4,2,0,0,1,1,0,0,NA,3,10,0,0,NA,1,3,NA,1,3,2,20,13,0,0,0,1,0,0,NA,1,1,0,0,NA,NA,5,1,1
+2023-09-10,Miami (OH) RedHawks,American ,Away,W,2,1,2,1,9,5,0,0,1,1,0,0,NA,1,6,0,0,NA,NA,11,NA,NA,1,0,10,7,0,0,1,2,0,0,NA,2,3,0,0,NA,NA,4,1,1
 2023-08-25,Michigan Wolverines,North Carolina,Away,L,2,3,2,3,6,4,0,0,0,0,0,0,NA,3,8,0,0,NA,NA,3,NA,NA,3,3,12,11,0,0,0,2,0,0,NA,2,2,0,0,NA,NA,9,NA,NA
 2023-08-27,Michigan Wolverines,"Wake Forest Chapel Hill, N.C.",Away,L,0,1,0,0,12,6,0,0,2,1,0,0,NA,1,8,0,0,NA,NA,8,NA,NA,1,0,17,9,0,0,2,0,0,0,NA,0,6,1,0,NA,NA,4,1,1
 2023-09-01,Michigan Wolverines,UC Davis,Home,W,5,1,5,3,31,16,0,0,0,0,0,0,NA,1,1,0,0,NA,NA,10,NA,NA,1,0,4,2,0,0,0,1,0,0,NA,5,11,0,0,NA,NA,1,NA,NA
 2023-09-03,Michigan Wolverines,Old Dominion,Home,W,1,0,1,1,12,8,0,0,0,1,0,0,NA,0,2,1,0,NA,NA,5,NA,NA,0,0,3,2,0,0,0,0,0,0,NA,1,7,0,0,NA,NA,2,NA,NA
+2023-09-08,Michigan Wolverines,Davidson,Home,W,7,0,7,9,34,16,0,0,0,1,0,0,NA,0,1,1,0,NA,NA,18,NA,NA,0,0,3,1,0,0,1,3,0,0,NA,7,9,0,0,NA,NA,2,NA,NA
+2023-09-10,Michigan Wolverines,Saint Joseph's,Home,W,2,0,2,4,12,7,0,0,5,4,0,0,NA,0,3,1,0,NA,NA,8,NA,NA,0,0,6,3,0,0,2,1,0,0,NA,2,5,0,0,NA,NA,4,NA,NA
 2023-08-25,Michigan St. Spartans,Boston U.,Away,W,3,1,3,2,11,8,0,0,0,1,0,0,NA,1,5,0,0,NA,NA,7,NA,NA,1,0,12,6,0,0,0,0,0,0,NA,3,5,0,0,NA,NA,3,NA,NA
 2023-08-27,Michigan St. Spartans,New Hampshire,Away,L,0,4,0,0,24,8,0,0,0,1,0,0,NA,4,5,0,0,NA,NA,13,NA,NA,4,3,18,9,0,0,0,1,0,0,NA,0,8,1,0,NA,NA,5,NA,NA
 2023-09-01,Michigan St. Spartans,Kent St.,Away,L,0,1,0,0,5,4,0,0,0,0,0,0,NA,1,3,0,0,NA,NA,1,NA,NA,1,0,8,4,0,0,0,0,0,0,NA,0,4,1,0,NA,NA,10,NA,NA
+2023-09-08,Michigan St. Spartans,Saint Joseph's,Home,L,0,2,0,0,2,1,0,0,1,4,0,0,NA,2,5,0,0,NA,NA,1,NA,NA,2,1,9,7,0,0,2,1,0,0,NA,0,1,1,0,NA,NA,4,NA,NA
 2023-08-27,Monmouth Hawks,UConn,Home,L,1,2,1,0,15,12,0,0,1,1,0,0,NA,2,5,0,0,NA,NA,2,NA,NA,2,1,17,7,0,0,0,0,0,0,NA,1,11,0,0,NA,1,8,NA,NA
 2023-08-30,Monmouth Hawks,Rider,Home,W,4,1,4,5,19,13,0,0,0,0,0,0,NA,1,1,0,0,NA,NA,4,NA,NA,1,1,4,2,0,0,0,1,0,0,NA,4,9,0,0,NA,NA,3,NA,NA
 2023-09-01,Monmouth Hawks,Syracuse,Away,L,1,5,1,1,2,2,23,0,0,0,0,0,NA,5,8,0,0,NA,NA,NA,NA,NA,5,5,17,13,22,0,0,0,0,0,NA,1,1,0,0,NA,NA,11,NA,NA
 2023-09-03,Monmouth Hawks,Sacred Heart,Away,W,6,1,6,6,21,13,0,0,1,2,0,0,NA,1,3,0,0,NA,NA,13,NA,NA,1,1,9,4,0,0,0,1,0,0,NA,6,6,0,0,NA,1,5,NA,NA
+2023-09-09,Monmouth Hawks,Columbia,Home,L,1,2,1,0,18,10,0,0,1,1,0,0,NA,2,7,0,0,NA,NA,8,NA,NA,2,1,12,9,0,0,0,0,0,0,NA,1,9,0,0,NA,NA,4,NA,NA
 2023-08-25,New Hampshire Wildcats,Quinnipiac,Home,W,4,3,4,5,26,17,0,0,1,2,0,0,NA,3,3,0,0,NA,NA,10,NA,NA,3,2,11,6,0,0,0,2,0,0,NA,4,12,0,0,NA,1,4,NA,NA
 2023-08-27,New Hampshire Wildcats,Michigan St.,Home,W,4,0,4,3,18,9,0,0,0,1,0,0,NA,0,8,1,0,NA,NA,5,NA,NA,0,0,24,8,0,0,0,1,0,0,NA,4,5,0,0,NA,NA,13,NA,NA
 2023-09-01,New Hampshire Wildcats,Ohio St.,Away,L,1,4,1,0,10,5,0,0,0,1,0,0,NA,4,8,0,0,NA,NA,4,NA,NA,4,4,16,12,0,0,0,1,0,0,NA,1,4,0,0,NA,NA,11,NA,NA
 2023-09-03,New Hampshire Wildcats,"Ball St. Columbus, Ohio",Away,W,4,1,4,2,18,12,0,0,0,0,0,0,NA,1,3,0,0,NA,NA,2,1,1,1,0,13,4,0,0,0,1,0,0,NA,4,8,0,0,NA,1,1,NA,NA
+2023-09-08,New Hampshire Wildcats,Providence,Away,L,3,5,3,1,9,6,0,0,0,1,0,0,NA,5,5,0,0,NA,NA,8,NA,NA,5,5,12,10,0,0,0,3,0,0,NA,3,3,0,0,NA,NA,3,NA,NA
 2023-08-25,North Carolina Tar Heels,Michigan,Home,W,3,2,3,3,12,11,0,0,0,2,0,0,NA,2,2,0,0,NA,NA,9,NA,NA,2,3,6,4,0,0,0,0,0,0,NA,3,8,0,0,NA,NA,3,NA,NA
 2023-08-27,North Carolina Tar Heels,Iowa,Home,L,2,3,2,2,18,8,0,0,0,3,0,0,NA,3,5,0,0,NA,NA,6,NA,NA,3,1,13,8,0,0,0,1,0,0,NA,2,6,0,0,NA,NA,6,NA,NA
 2023-09-01,North Carolina Tar Heels,Penn,Away,W,4,0,4,5,14,7,0,0,0,1,0,0,NA,0,1,1,0,NA,NA,5,NA,NA,0,0,3,1,0,0,0,0,0,0,NA,4,3,0,0,NA,1,1,NA,NA
 2023-09-03,North Carolina Tar Heels,"Princeton Philadelphia, Pa.",Away,W,2,1,2,1,23,12,0,0,0,1,0,0,NA,1,2,0,0,NA,NA,10,1,1,1,0,5,3,0,0,0,1,0,0,NA,2,10,0,0,NA,NA,1,NA,NA
+2023-09-10,North Carolina Tar Heels,Old Dominion,Away,W,2,1,2,2,16,12,0,0,0,0,0,0,NA,1,7,0,0,NA,NA,7,NA,NA,1,1,10,8,0,0,0,3,0,0,NA,2,10,0,0,NA,NA,5,NA,NA
 2023-08-26,Northeastern Huskies,Louisville,Away,L,1,3,1,0,4,3,0,0,0,0,0,0,NA,3,8,0,0,NA,NA,1,NA,NA,3,5,21,11,0,0,0,0,0,0,NA,1,2,0,0,NA,NA,12,NA,NA
 2023-08-27,Northeastern Huskies,Bellarmine,Away,W,3,1,3,2,24,13,0,0,0,0,0,0,NA,1,5,0,0,NA,NA,11,NA,NA,1,0,7,6,0,0,1,2,0,0,NA,3,10,0,0,NA,NA,5,NA,NA
 2023-09-01,Northeastern Huskies,Holy Cross,Home,W,8,2,8,12,26,20,11,0,1,0,0,0,NA,2,4,0,0,NA,NA,11,NA,NA,2,3,9,6,8,0,0,0,0,0,NA,8,12,0,0,NA,1,4,NA,NA
 2023-09-03,Northeastern Huskies,Merrimack,Home,W,5,1,5,8,27,12,28,0,0,1,0,0,NA,1,3,0,0,NA,NA,11,NA,NA,1,1,7,4,26,0,0,0,0,0,NA,5,7,0,0,NA,NA,3,NA,NA
+2023-09-08,Northeastern Huskies,Brown,Home,W,3,2,3,4,12,9,24,0,1,2,0,0,NA,2,7,0,0,NA,NA,5,1,1,2,3,12,9,25,0,0,0,0,0,NA,3,6,0,0,NA,NA,6,NA,NA
 2023-08-27,Northwestern Wildcats,Louisville,Home,L,0,1,0,0,21,10,0,0,0,0,0,0,NA,1,0,0,0,NA,NA,8,NA,NA,1,2,3,1,0,0,0,2,0,0,NA,0,10,1,0,NA,1,2,NA,NA
 2023-09-01,Northwestern Wildcats,Boston College ,Away,W,1,0,1,1,13,5,0,0,0,1,0,0,NA,0,5,1,0,NA,NA,7,NA,NA,0,0,8,5,0,0,0,1,0,0,NA,1,4,0,0,NA,NA,5,NA,NA
 2023-09-03,Northwestern Wildcats,Duke ,Away,W,3,2,3,1,7,5,0,0,2,2,0,0,NA,2,6,0,0,NA,NA,3,NA,NA,2,3,17,8,0,0,1,0,0,0,NA,3,2,0,0,NA,NA,8,NA,1
 2023-09-05,Northwestern Wildcats,Vermont,Away,W,2,0,2,3,22,12,30,0,0,0,0,0,NA,0,2,1,0,NA,NA,15,NA,NA,0,0,2,2,34,0,0,1,0,0,NA,2,10,0,0,NA,NA,1,NA,NA
+2023-09-08,Northwestern Wildcats,Maine,Away,W,3,0,3,2,26,18,36,0,0,0,0,0,NA,0,2,1,0,NA,NA,11,NA,1,0,0,5,2,26,0,0,0,0,0,NA,3,15,0,0,NA,NA,4,NA,NA
+2023-09-09,Northwestern Wildcats,Massachusetts ,Away,W,3,0,3,2,19,12,32,0,0,3,0,0,NA,0,4,1,0,NA,NA,6,2,2,0,0,5,4,21,0,0,1,0,0,NA,3,9,0,0,NA,NA,5,NA,NA
 2023-08-25,Ohio Bobcats,American,Away,L,1,5,1,1,11,8,0,0,0,0,0,0,NA,5,1,0,0,NA,NA,7,NA,NA,5,4,11,6,0,0,0,0,0,0,NA,1,7,0,0,NA,NA,5,NA,NA
 2023-09-02,Ohio Bobcats,Boston U. ,Away,W,2,1,2,2,8,4,38,0,1,1,0,0,NA,1,3,0,0,NA,NA,6,NA,NA,1,0,9,4,34,0,0,2,0,0,NA,2,2,0,0,NA,NA,7,NA,NA
 2023-09-03,Ohio Bobcats,Maine,Away,L,3,5,3,4,9,5,41,0,2,0,0,0,NA,5,2,0,0,NA,NA,4,NA,NA,5,4,12,7,39,0,0,0,0,0,NA,3,2,0,0,NA,1,7,NA,NA
+2023-09-10,Ohio Bobcats,Indiana,Home,W,3,2,3,3,6,3,6,0,0,0,0,0,NA,2,14,0,0,NA,1,1,NA,NA,2,1,21,17,13,0,0,1,0,0,NA,3,0,0,0,NA,NA,12,NA,NA
 2023-08-25,Ohio St. Buckeyes,Lehigh,Away,W,5,2,5,4,18,12,0,0,1,2,0,0,NA,2,5,0,0,NA,NA,9,NA,NA,2,0,10,7,0,0,0,0,0,0,NA,5,7,0,0,NA,2,9,NA,1
 2023-08-27,Ohio St. Buckeyes,Lafayette,Away,W,4,1,4,1,16,9,22,0,0,1,0,0,NA,1,5,0,0,NA,NA,7,NA,NA,1,0,8,6,28,0,0,2,0,0,NA,4,5,0,0,NA,NA,2,NA,NA
 2023-09-01,Ohio St. Buckeyes,New Hampshire,Home,W,4,1,4,4,16,12,0,0,0,1,0,0,NA,1,4,0,0,NA,NA,11,NA,NA,1,0,10,5,0,0,0,1,0,0,NA,4,8,0,0,NA,NA,4,NA,NA
 2023-09-03,Ohio St. Buckeyes,Bucknell,Home,W,2,1,2,1,14,8,0,0,1,2,0,0,NA,1,3,0,0,NA,NA,11,NA,NA,1,1,9,4,0,0,2,2,0,0,NA,2,6,0,0,NA,NA,4,NA,NA
 2023-09-04,Ohio St. Buckeyes,UC Davis,Home,W,5,0,5,1,32,23,0,0,1,2,0,0,NA,0,3,1,0,NA,NA,7,NA,NA,0,0,4,3,0,0,0,2,0,0,NA,5,18,0,0,NA,1,3,NA,NA
+2023-09-08,Ohio St. Buckeyes,Louisville,Away,L,1,2,1,1,15,7,0,0,1,3,0,0,NA,2,0,0,0,NA,NA,10,NA,NA,2,1,3,2,0,0,0,1,0,0,NA,1,6,0,0,NA,1,NA,1,1
+2023-09-10,Ohio St. Buckeyes,Stanford,Home,W,6,0,6,4,20,13,0,0,0,0,0,0,NA,0,3,1,0,NA,1,10,NA,NA,0,0,4,3,0,0,0,0,0,0,NA,6,7,0,0,NA,NA,NA,NA,NA
 2023-08-27,Old Dominion Monarchs,Delaware,Home,L,2,4,2,2,18,12,1,0,0,3,0,0,NA,4,1,0,0,NA,NA,10,NA,NA,4,2,9,5,0,0,0,1,0,0,NA,2,10,0,0,NA,NA,3,NA,NA
 2023-09-01,Old Dominion Monarchs,Central Mich.,Away,W,3,0,3,2,29,17,1,0,0,0,0,0,NA,0,0,1,0,NA,NA,17,NA,NA,0,0,0,0,1,0,0,0,0,0,NA,3,14,0,0,NA,NA,NA,NA,NA
 2023-09-03,Old Dominion Monarchs,Michigan,Away,L,0,1,0,0,3,2,0,0,0,0,0,0,NA,1,7,0,0,NA,NA,2,NA,NA,1,1,12,8,0,0,0,1,0,0,NA,0,2,1,0,NA,NA,5,NA,NA
+2023-09-08,Old Dominion Monarchs,Queens (NC),Home,W,8,0,8,7,30,19,0,0,0,1,0,0,NA,0,3,1,0,NA,NA,10,NA,NA,0,0,3,3,0,0,0,0,0,0,NA,8,11,0,0,NA,NA,1,NA,1
+2023-09-10,Old Dominion Monarchs,North Carolina,Home,L,1,2,1,1,10,8,0,0,0,3,0,0,NA,2,10,0,0,NA,NA,5,NA,NA,2,2,16,12,0,0,0,0,0,0,NA,1,7,0,0,NA,NA,7,NA,NA
 2023-09-01,Penn Quakers,North Carolina,Home,L,0,4,0,0,3,1,0,0,0,0,0,0,NA,4,3,0,0,NA,1,1,NA,NA,4,5,14,7,0,0,0,1,0,0,NA,0,1,1,0,NA,NA,5,NA,NA
 2023-09-03,Penn Quakers,Louisville,Home,L,1,2,1,0,3,2,0,0,0,1,0,0,NA,2,5,0,0,NA,NA,NA,NA,NA,2,1,15,7,0,0,0,2,0,0,NA,1,1,0,0,NA,NA,12,NA,NA
+2023-09-08,Penn Quakers,Georgetown,Home,W,8,1,8,8,26,12,0,0,0,1,0,0,NA,1,1,0,0,NA,NA,15,NA,NA,1,2,5,2,0,0,1,3,0,0,NA,8,4,0,0,NA,NA,1,NA,NA
+2023-09-10,Penn Quakers,Drexel,Home,W,2,1,2,1,9,5,0,0,0,0,0,0,NA,1,5,0,0,NA,NA,3,NA,NA,1,2,13,6,0,0,0,2,0,0,NA,2,3,0,0,NA,NA,7,NA,NA
 2023-08-25,Penn St. Nittany Lions,Virginia,Away,L,1,2,1,0,14,9,0,0,0,1,0,0,NA,2,8,0,0,NA,NA,6,NA,NA,2,2,18,10,0,0,1,2,0,0,NA,1,8,0,0,NA,2,3,NA,NA
 2023-08-27,Penn St. Nittany Lions,American,Away,W,3,2,3,0,27,14,0,0,0,4,0,0,NA,2,5,0,0,NA,NA,13,NA,NA,2,1,9,7,0,0,0,0,0,0,NA,3,11,0,0,NA,NA,3,NA,NA
 2023-09-01,Penn St. Nittany Lions,California,Away,L,2,3,2,0,12,7,0,0,0,0,0,0,NA,3,9,0,0,NA,NA,4,NA,NA,3,3,19,12,0,0,1,1,0,0,NA,2,5,0,0,NA,NA,7,NA,NA
 2023-09-03,Penn St. Nittany Lions,Stanford,Away,W,5,1,5,2,21,16,0,0,0,1,0,0,NA,1,5,0,0,NA,NA,5,NA,NA,1,1,14,6,0,0,0,1,0,0,NA,5,11,0,0,NA,NA,4,NA,NA
+2023-09-08,Penn St. Nittany Lions,Kent St.,Home,W,5,0,5,4,17,11,0,0,0,0,0,0,NA,0,2,1,0,NA,NA,4,NA,NA,0,0,2,2,0,0,0,0,0,0,NA,5,6,0,0,NA,NA,1,NA,NA
+2023-09-10,Penn St. Nittany Lions,Delaware,Home,W,4,1,4,3,13,10,0,0,0,0,0,0,NA,1,7,0,0,NA,NA,7,NA,NA,1,0,14,8,0,0,0,2,0,0,NA,4,6,0,0,NA,1,7,NA,NA
 2023-09-01,Princeton Tigers,"Louisville Philadelphia, Pa.",Away,L,1,2,1,1,7,4,0,0,2,2,0,0,NA,2,4,0,0,NA,NA,2,NA,NA,2,2,13,6,0,0,1,1,0,0,NA,1,3,0,0,NA,NA,6,NA,NA
 2023-09-03,Princeton Tigers,"North Carolina Philadelphia, Pa.",Away,L,1,2,1,0,5,3,0,0,0,1,0,0,NA,2,10,0,0,NA,NA,1,NA,NA,2,1,23,12,0,0,0,1,0,0,NA,1,2,0,0,NA,NA,10,1,1
+2023-09-10,Princeton Tigers,Rutgers,Home,L,1,2,1,1,2,1,0,0,0,1,0,0,NA,2,6,0,0,NA,NA,3,NA,NA,2,2,15,8,0,0,0,2,0,0,NA,1,0,0,0,NA,NA,5,NA,NA
 2023-08-26,Providence Friars,Boston College ,Away,L,0,3,0,0,1,0,28,0,0,0,0,0,NA,3,13,0,0,NA,NA,1,NA,NA,3,4,20,16,29,0,0,1,0,0,NA,0,0,1,0,NA,NA,8,1,1
 2023-08-27,Providence Friars,Maine,Away,L,0,2,0,0,4,2,44,0,2,3,0,0,NA,2,7,0,0,NA,NA,9,NA,1,2,1,14,9,40,0,1,2,0,0,NA,0,2,1,0,NA,NA,13,1,1
 2023-09-01,Providence Friars,Bryant,Home,W,1,0,1,0,9,4,0,0,0,1,0,0,NA,0,2,1,0,NA,NA,7,NA,NA,0,0,2,2,0,0,0,0,0,0,NA,1,3,0,0,NA,NA,3,NA,NA
 2023-09-03,Providence Friars,LIU,Home,W,1,0,1,0,8,4,0,0,0,1,0,0,NA,0,2,1,0,NA,NA,6,NA,NA,0,0,4,2,0,0,0,0,0,0,NA,1,3,0,0,NA,NA,NA,NA,NA
+2023-09-08,Providence Friars,New Hampshire,Home,W,5,3,5,5,12,10,0,0,0,3,0,0,NA,3,3,0,0,NA,NA,3,NA,NA,3,1,9,6,0,0,0,1,0,0,NA,5,5,0,0,NA,NA,8,NA,NA
 2023-08-25,Queens (NC) Royals,Saint Francis (PA),Away,L,0,6,0,0,2,2,44,0,0,0,0,0,NA,6,12,0,0,NA,NA,NA,NA,NA,6,5,21,18,36,0,0,1,0,0,NA,0,2,1,0,NA,NA,8,NA,NA
 2023-08-27,Queens (NC) Royals,Lock Haven,Away,L,0,7,0,0,3,1,0,0,1,1,0,0,NA,7,7,0,0,NA,NA,3,NA,NA,7,6,20,14,0,0,2,0,0,0,NA,0,1,1,0,NA,NA,8,NA,NA
 2023-09-01,Queens (NC) Royals,Davidson,Away,L,1,7,1,0,3,1,0,0,0,0,0,0,NA,7,10,0,0,NA,NA,1,NA,NA,7,4,25,17,0,0,0,1,0,0,NA,1,0,0,0,NA,NA,14,NA,NA
 2023-09-03,Queens (NC) Royals,"Drexel Boone, N.C.",Away,L,0,8,0,0,6,2,0,0,0,1,0,0,NA,8,24,0,0,NA,NA,5,NA,NA,8,9,42,32,0,0,0,2,0,0,NA,0,2,1,0,NA,NA,18,NA,NA
+2023-09-08,Queens (NC) Royals,Old Dominion,Away,L,0,8,0,0,3,3,0,0,0,0,0,0,NA,8,11,0,0,NA,NA,1,NA,1,8,7,30,19,0,0,0,1,0,0,NA,0,3,1,0,NA,NA,10,NA,NA
+2023-09-10,Queens (NC) Royals,Longwood,Away,L,1,5,1,0,8,5,21,0,0,0,0,0,NA,5,10,0,0,NA,NA,4,NA,NA,5,4,18,15,32,0,0,0,0,0,NA,1,4,0,0,NA,NA,8,NA,1
 2023-08-25,Quinnipiac Bobcats,New Hampshire,Away,L,3,4,3,2,11,6,0,0,0,2,0,0,NA,4,12,0,0,NA,1,4,NA,NA,4,5,26,17,0,0,1,2,0,0,NA,3,3,0,0,NA,NA,10,NA,NA
 2023-08-27,Quinnipiac Bobcats,Massachusetts,Home,L,1,2,1,2,5,3,22,0,0,0,0,0,NA,2,7,0,0,NA,NA,5,NA,NA,2,2,16,9,31,0,0,1,0,0,NA,1,2,0,0,NA,NA,9,1,1
+2023-09-08,Quinnipiac Bobcats,Dartmouth,Away,W,2,1,2,1,21,9,0,0,0,1,0,0,NA,1,3,0,0,NA,NA,10,NA,NA,1,0,11,4,0,0,0,0,0,0,NA,2,7,0,0,NA,NA,11,NA,NA
 2023-08-25,Richmond Spiders,Longwood,Home,L,1,2,1,0,13,6,8,0,1,2,0,0,NA,2,4,0,0,NA,NA,6,NA,NA,2,2,10,6,4,0,0,1,0,0,NA,1,5,0,0,NA,1,5,NA,NA
 2023-08-27,Richmond Spiders,James Madison,Home,W,3,0,3,4,7,5,3,0,1,2,0,0,NA,0,5,1,0,NA,NA,2,NA,NA,0,0,7,5,6,0,0,3,0,0,NA,3,2,0,0,NA,NA,2,NA,NA
 2023-09-01,Richmond Spiders,American,Home,L,1,2,1,1,11,5,23,0,0,1,0,0,NA,2,2,0,0,NA,NA,5,NA,NA,2,2,5,4,17,0,0,1,0,0,NA,1,4,0,0,NA,NA,3,NA,NA
 2023-09-03,Richmond Spiders,Georgetown,Home,W,4,1,4,4,21,10,29,0,0,2,0,0,NA,1,8,0,0,NA,1,15,NA,NA,1,0,12,9,26,0,0,3,0,0,NA,4,6,0,0,NA,NA,6,NA,NA
+2023-09-08,Richmond Spiders,Stanford,Away,L,3,6,3,2,9,7,0,0,1,1,0,0,NA,6,6,0,0,NA,NA,7,1,1,6,4,14,12,0,0,0,2,0,0,NA,3,4,0,0,NA,1,3,NA,NA
 2023-08-26,Rider Broncs,"Central Mich. Hamilton, N.Y.",Away,W,4,3,4,1,21,13,12,0,0,0,0,0,NA,3,3,0,0,NA,NA,13,NA,NA,3,2,10,6,21,0,0,1,0,0,NA,4,9,0,0,NA,1,8,NA,NA
 2023-08-27,Rider Broncs,Colgate,Away,L,1,2,1,1,17,6,36,0,0,0,0,0,NA,2,4,0,0,NA,2,9,NA,NA,2,2,13,6,34,0,0,1,0,0,NA,1,5,0,0,NA,2,9,NA,NA
 2023-08-30,Rider Broncs,Monmouth,Away,L,1,4,1,1,4,2,0,0,0,1,0,0,NA,4,9,0,0,NA,NA,3,NA,NA,4,5,19,13,0,0,0,0,0,0,NA,1,1,0,0,NA,NA,4,NA,NA
 2023-09-03,Rider Broncs,La Salle,Away,L,0,3,0,0,12,3,22,0,0,2,0,0,NA,3,5,0,0,NA,NA,9,NA,1,3,0,17,8,15,0,1,0,0,0,NA,0,3,1,0,NA,NA,4,NA,NA
+2023-09-08,Rider Broncs,Drexel,Away,L,1,3,1,0,3,3,31,0,0,0,0,0,NA,3,7,0,0,NA,1,1,NA,NA,3,3,21,10,20,0,0,1,0,0,NA,1,2,0,0,NA,NA,12,NA,NA
+2023-09-10,Rider Broncs,Georgetown,Home,W,1,0,1,1,13,9,46,0,0,0,0,0,NA,0,5,1,0,NA,2,7,NA,NA,0,0,9,5,50,0,0,0,0,0,NA,1,8,0,0,NA,NA,10,NA,NA
 2023-08-25,Rutgers Scarlet Knights,UC Davis,Away,W,2,0,2,2,16,8,0,0,0,0,0,0,NA,0,2,1,0,NA,NA,7,NA,NA,0,0,5,2,0,0,0,0,0,0,NA,2,6,0,0,NA,1,1,NA,NA
 2023-08-27,Rutgers Scarlet Knights,Stanford,Away,W,2,0,2,2,16,8,0,0,0,2,0,0,NA,0,1,1,0,NA,NA,6,1,1,0,0,4,1,0,0,0,1,0,0,NA,2,6,0,0,NA,NA,3,NA,NA
 2023-08-28,Rutgers Scarlet Knights,California,Away,W,2,1,2,2,15,9,0,0,0,1,0,0,NA,1,5,0,0,NA,NA,4,NA,1,1,0,10,6,0,0,0,1,0,0,NA,2,7,0,0,NA,2,8,NA,NA
 2023-09-01,Rutgers Scarlet Knights,UConn,Away,W,2,1,1,0,17,9,0,0,1,2,0,0,NA,1,9,0,0,NA,NA,7,NA,1,1,1,21,10,0,0,1,0,0,0,NA,1,8,0,0,NA,NA,9,NA,NA
+2023-09-08,Rutgers Scarlet Knights,Villanova,Away,W,6,2,6,9,16,10,30,0,0,2,0,0,NA,2,3,0,0,NA,NA,4,NA,NA,2,4,7,5,23,0,0,1,0,0,NA,6,4,0,0,NA,NA,4,NA,NA
+2023-09-10,Rutgers Scarlet Knights,Princeton,Away,W,2,1,2,2,15,8,0,0,0,2,0,0,NA,1,0,0,0,NA,NA,5,NA,NA,1,1,2,1,0,0,0,1,0,0,NA,2,6,0,0,NA,NA,3,NA,NA
 2023-08-25,Sacred Heart Pioneers,Vermont,Away,L,2,6,2,2,6,5,41,0,0,0,0,0,NA,6,4,0,0,NA,NA,7,NA,NA,6,8,13,10,52,0,1,2,0,0,NA,2,3,0,0,NA,NA,5,NA,NA
 2023-08-26,Sacred Heart Pioneers,"Syracuse Burlington, Vt.",Away,L,1,6,1,1,3,3,38,0,0,4,0,0,NA,6,15,0,0,NA,1,5,NA,NA,6,4,31,21,46,0,0,3,0,0,NA,1,2,0,0,NA,NA,13,NA,NA
 2023-09-01,Sacred Heart Pioneers,Colgate,Away,W,4,2,4,3,10,8,25,0,0,0,0,0,NA,2,10,0,0,NA,3,5,NA,NA,2,2,15,12,31,0,1,1,0,0,NA,4,4,0,0,NA,NA,7,NA,NA
 2023-09-03,Sacred Heart Pioneers,Monmouth,Home,L,1,6,1,1,9,4,0,0,0,1,0,0,NA,6,6,0,0,NA,1,5,NA,NA,6,6,21,13,0,0,1,2,0,0,NA,1,3,0,0,NA,NA,13,NA,NA
+2023-09-10,Sacred Heart Pioneers,Lehigh,Away,L,2,5,2,1,5,3,0,0,0,0,0,0,NA,5,9,0,0,NA,2,1,NA,NA,5,4,23,14,0,0,0,0,0,0,NA,2,1,0,0,NA,1,13,NA,NA
 2023-08-25,Saint Francis (PA) The Red Flash,Queens (NC),Home,W,6,0,6,5,21,18,36,0,0,1,0,0,NA,0,2,1,0,NA,NA,8,NA,NA,0,0,2,2,44,0,0,0,0,0,NA,6,12,0,0,NA,NA,NA,NA,NA
 2023-08-27,Saint Francis (PA) The Red Flash,Longwood,Away,W,1,0,1,1,8,4,31,0,1,2,0,0,NA,0,4,1,0,NA,NA,3,NA,NA,0,0,5,4,30,0,2,1,0,0,NA,1,3,0,0,NA,NA,1,NA,NA
 2023-08-31,Saint Francis (PA) The Red Flash,Bellarmine,Away,W,3,1,3,2,12,6,0,0,1,2,0,0,NA,1,7,0,0,NA,NA,11,NA,NA,1,1,14,8,0,0,0,2,0,0,NA,3,3,0,0,NA,NA,12,NA,NA
@@ -229,31 +331,44 @@ date,team,opponent,home_away,result,team_score,opponent_score,goals,ast,sh_att,s
 2023-08-27,Saint Joseph's Hawks,UMass Lowell,Home,W,4,0,4,2,15,8,0,0,0,2,0,0,NA,0,3,1,0,NA,NA,9,NA,NA,0,0,5,3,0,0,2,2,0,0,NA,4,4,0,0,NA,NA,2,NA,NA
 2023-09-01,Saint Joseph's Hawks,Virginia,Home,L,1,2,1,2,6,4,0,0,0,0,0,0,NA,2,4,0,0,NA,1,5,NA,NA,2,2,8,6,0,0,0,1,0,0,NA,1,3,0,0,NA,NA,3,1,1
 2023-09-03,Saint Joseph's Hawks,Yale,Home,W,6,1,6,6,31,19,0,0,0,1,0,0,NA,1,2,0,0,NA,NA,17,NA,NA,1,2,4,3,0,0,2,1,0,0,NA,6,13,0,0,NA,2,4,NA,NA
+2023-09-08,Saint Joseph's Hawks,Michigan St.,Away,W,2,0,2,1,9,7,0,0,2,1,0,0,NA,0,1,1,0,NA,NA,4,NA,NA,0,0,2,1,0,0,1,4,0,0,NA,2,5,0,0,NA,NA,1,NA,NA
+2023-09-10,Saint Joseph's Hawks,Michigan,Away,L,0,2,0,0,6,3,0,0,2,1,0,0,NA,2,5,0,0,NA,NA,4,NA,NA,2,4,12,7,0,0,5,4,0,0,NA,0,3,1,0,NA,NA,8,NA,NA
 2023-08-25,Saint Louis Billikens,Bellarmine,Away,L,1,3,1,1,10,5,0,0,0,1,0,0,NA,3,3,0,0,NA,1,8,NA,NA,3,2,11,6,0,0,0,1,0,0,NA,1,4,0,0,NA,NA,5,NA,NA
 2023-08-27,Saint Louis Billikens,Bryant,Home,L,2,3,2,1,10,8,0,0,1,0,0,0,NA,2,9,0,0,NA,NA,5,1,1,2,1,17,11,0,0,2,2,0,0,NA,2,6,0,0,NA,NA,5,1,1
 2023-09-01,Saint Louis Billikens,Towson,Home,L,2,3,2,1,8,5,0,0,0,1,0,0,NA,3,8,0,0,NA,NA,3,NA,NA,3,2,15,11,0,0,2,1,0,0,NA,2,3,0,0,NA,NA,7,NA,NA
 2023-09-04,Saint Louis Billikens,Lindenwood,Home,W,2,1,2,3,24,10,0,0,0,1,0,0,NA,1,5,0,0,NA,NA,18,NA,NA,1,1,9,6,0,0,0,0,0,0,NA,2,8,0,0,NA,NA,3,NA,NA
+2023-09-10,Saint Louis Billikens,Colgate,Home,L,2,3,2,2,15,10,0,0,0,2,0,0,NA,3,1,0,0,NA,NA,4,NA,NA,3,4,9,4,0,0,0,0,0,0,NA,2,8,0,0,NA,NA,2,NA,NA
 2023-08-25,Stanford Cardinal,Maryland,Home,L,0,4,0,0,4,2,0,0,0,1,0,0,NA,4,4,0,0,NA,NA,1,NA,NA,4,4,12,8,0,0,0,0,0,0,NA,0,2,1,0,NA,NA,7,NA,NA
 2023-08-27,Stanford Cardinal,Rutgers,Home,L,0,2,0,0,4,1,0,0,0,1,0,0,NA,2,6,0,0,NA,NA,3,NA,NA,2,2,16,8,0,0,0,2,0,0,NA,0,1,1,0,NA,NA,6,1,1
 2023-09-03,Stanford Cardinal,Penn St.,Home,L,1,5,1,1,14,6,0,0,0,1,0,0,NA,5,11,0,0,NA,NA,4,NA,NA,5,2,21,16,0,0,0,1,0,0,NA,1,5,0,0,NA,NA,5,NA,NA
+2023-09-08,Stanford Cardinal,Richmond,Home,W,6,3,6,4,14,12,0,0,0,2,0,0,NA,3,4,0,0,NA,1,3,NA,NA,3,2,9,7,0,0,1,1,0,0,NA,6,6,0,0,NA,NA,7,1,1
+2023-09-10,Stanford Cardinal,Ohio St.,Away,L,0,6,0,0,4,3,0,0,0,0,0,0,NA,6,7,0,0,NA,NA,NA,NA,NA,6,4,20,13,0,0,0,0,0,0,NA,0,3,1,0,NA,1,10,NA,NA
 2023-08-25,Stonehill Skyhawks,Holy Cross,Away,L,0,1,0,0,12,11,0,0,0,1,0,0,NA,1,9,0,0,NA,NA,7,NA,1,1,1,14,10,0,0,0,2,0,0,NA,0,11,1,0,NA,1,7,NA,NA
 2023-08-27,Stonehill Skyhawks,UAlbany,Away,L,0,5,0,0,1,0,0,0,0,1,0,0,NA,5,7,0,0,NA,NA,2,NA,NA,5,5,19,12,0,0,0,1,0,0,NA,0,0,1,0,NA,NA,4,NA,NA
 2023-09-03,Stonehill Skyhawks,Dartmouth,Away,L,1,6,1,1,7,3,0,0,0,0,0,0,NA,6,11,0,0,NA,NA,4,NA,NA,6,5,24,17,0,0,0,0,0,0,NA,1,2,0,0,NA,NA,3,NA,NA
+2023-09-09,Stonehill Skyhawks,California ,Away,L,1,9,1,1,6,5,23,0,0,1,0,0,NA,9,14,0,0,NA,NA,2,NA,NA,9,9,30,23,40,0,0,0,0,0,NA,1,4,0,0,NA,NA,9,NA,NA
+2023-09-10,Stonehill Skyhawks,Hofstra,Away,L,1,4,1,0,6,5,34,0,1,0,0,0,NA,4,9,0,0,NA,NA,3,NA,NA,4,5,20,13,32,0,0,1,0,0,NA,1,4,0,0,NA,NA,11,NA,NA
 2023-08-26,Syracuse Orange,"Sacred Heart Burlington, Vt.",Away,W,6,1,6,4,31,21,46,0,0,3,0,0,NA,1,2,0,0,NA,NA,13,NA,NA,1,1,3,3,38,0,0,4,0,0,NA,6,15,0,0,NA,1,5,NA,NA
 2023-08-27,Syracuse Orange,Vermont,Away,W,9,1,9,8,27,16,46,0,0,1,0,0,NA,1,1,0,0,NA,NA,11,1,1,1,1,5,2,37,0,0,1,0,0,NA,9,7,0,0,NA,2,5,NA,NA
 2023-09-01,Syracuse Orange,Monmouth,Home,W,5,1,5,5,17,13,22,0,0,0,0,0,NA,1,1,0,0,NA,NA,11,NA,NA,1,1,2,2,23,0,0,0,0,0,NA,5,8,0,0,NA,NA,NA,NA,NA
 2023-09-06,Syracuse Orange,Cornell,Home,W,4,2,4,4,19,14,19,0,0,0,0,0,NA,2,1,0,0,NA,NA,13,1,1,2,4,4,3,27,0,0,0,0,0,NA,4,10,0,0,NA,NA,2,NA,NA
+2023-09-10,Syracuse Orange,UConn,Home,W,3,0,3,3,19,13,0,0,1,2,0,0,NA,0,2,1,0,NA,NA,9,NA,NA,0,0,5,2,0,0,0,0,0,0,NA,3,10,0,0,NA,1,4,NA,NA
 2023-08-25,Temple Owls,La Salle,Home,W,2,1,2,3,12,6,33,0,0,2,0,0,NA,1,5,0,0,NA,1,8,NA,NA,1,1,9,6,26,0,0,3,0,0,NA,2,4,0,0,NA,NA,4,NA,1
 2023-08-27,Temple Owls,Bucknell,Home,W,2,1,2,2,8,6,35,0,0,0,0,0,NA,1,8,0,0,NA,NA,4,NA,NA,1,0,11,9,24,0,1,2,0,0,NA,2,4,0,0,NA,NA,4,NA,NA
 2023-09-01,Temple Owls,Yale,Home,L,0,1,0,0,16,8,39,0,0,1,0,0,NA,1,1,0,0,NA,NA,13,NA,NA,1,2,3,2,28,0,0,1,0,0,NA,0,8,1,0,NA,NA,2,NA,NA
 2023-09-03,Temple Owls,Virginia,Home,L,0,6,0,0,0,0,35,0,0,0,0,0,NA,6,1,0,0,NA,NA,NA,NA,NA,6,5,13,7,38,0,0,0,0,0,NA,0,0,1,0,NA,NA,4,NA,NA
+2023-09-07,Temple Owls,LIU,Home,W,1,0,1,1,18,8,40,0,0,1,0,0,NA,0,4,1,0,NA,NA,15,NA,NA,0,0,6,4,36,0,0,1,0,0,NA,1,7,0,0,NA,NA,3,NA,NA
+2023-09-10,Temple Owls,James Madison,Away,W,2,1,2,3,11,6,28,0,0,1,0,0,NA,1,3,0,0,NA,NA,7,NA,NA,1,1,8,4,34,0,0,0,0,0,NA,2,4,0,0,NA,NA,5,NA,NA
 2023-08-25,Towson Tigers,App State,Home,L,1,3,1,1,14,6,0,0,0,1,0,0,NA,3,2,0,0,NA,NA,6,NA,NA,3,3,15,5,0,0,0,0,0,0,NA,1,5,0,0,NA,NA,3,NA,NA
 2023-08-27,Towson Tigers,Davidson,Home,W,3,2,3,3,13,7,0,0,0,3,0,0,NA,2,12,0,0,NA,1,8,NA,NA,2,1,17,14,0,0,0,2,0,0,NA,3,4,0,0,NA,1,9,NA,NA
 2023-09-01,Towson Tigers,Saint Louis,Away,W,3,2,3,2,15,11,0,0,2,1,0,0,NA,2,3,0,0,NA,NA,7,NA,NA,2,1,8,5,0,0,0,1,0,0,NA,3,8,0,0,NA,NA,3,NA,NA
 2023-09-03,Towson Tigers,Bellarmine,Away,W,2,1,2,1,14,10,0,0,0,0,0,0,NA,1,1,0,0,NA,NA,6,NA,NA,1,1,7,2,0,0,0,0,0,0,NA,2,8,0,0,NA,1,4,NA,NA
+2023-09-08,Towson Tigers,Bucknell,Away,L,4,7,4,2,8,7,0,0,0,0,0,0,NA,7,8,0,0,NA,NA,6,NA,NA,7,3,19,15,0,0,0,1,0,0,NA,4,3,0,0,NA,1,9,NA,1
 2023-08-25,UAlbany Great Danes,Massachusetts,Home,L,2,3,2,2,9,4,0,0,1,1,0,0,NA,3,4,0,0,NA,NA,5,NA,NA,3,0,12,7,0,0,0,1,0,0,NA,2,2,0,0,NA,NA,2,NA,NA
 2023-08-27,UAlbany Great Danes,Stonehill,Home,W,5,0,5,5,19,12,0,0,0,1,0,0,NA,0,0,1,0,NA,NA,4,NA,NA,0,0,1,0,0,0,0,1,0,0,NA,5,7,0,0,NA,NA,2,NA,NA
 2023-09-03,UAlbany Great Danes,Iowa,Home,L,0,3,0,0,7,3,0,0,0,1,0,0,NA,3,4,0,0,NA,1,5,NA,NA,3,2,9,7,0,0,0,2,0,0,NA,0,3,1,0,NA,NA,2,1,2
+2023-09-08,UAlbany Great Danes,Hofstra,Home,W,3,0,3,3,18,14,0,0,0,2,0,0,NA,0,3,1,0,NA,NA,7,NA,NA,0,0,7,3,0,0,0,0,0,0,NA,3,11,0,0,NA,NA,5,NA,NA
+2023-09-10,UAlbany Great Danes,Cornell,Away,W,3,2,2,2,11,6,66,0,0,5,0,0,NA,2,8,0,0,NA,1,10,NA,NA,2,2,17,10,57,0,0,1,0,0,NA,2,4,0,0,NA,NA,8,NA,NA
 2023-08-25,UC Davis Aggies,Rutgers,Home,L,0,2,0,0,5,2,0,0,0,0,0,0,NA,2,6,0,0,NA,1,1,NA,NA,2,2,16,8,0,0,0,0,0,0,NA,0,2,1,0,NA,NA,7,NA,NA
 2023-08-26,UC Davis Aggies,Miami (OH),Home,L,1,2,1,1,5,2,0,0,0,2,0,0,NA,2,6,0,0,NA,NA,1,NA,NA,2,1,13,8,0,0,0,1,0,0,NA,1,1,0,0,NA,NA,10,NA,NA
 2023-08-28,UC Davis Aggies,Maryland,Home,L,0,6,0,0,8,4,0,0,0,2,0,0,NA,6,7,0,0,NA,NA,4,NA,NA,6,4,19,13,0,0,0,1,0,0,NA,0,4,1,0,NA,NA,6,NA,NA
@@ -264,30 +379,45 @@ date,team,opponent,home_away,result,team_score,opponent_score,goals,ast,sh_att,s
 2023-08-27,UConn Huskies,Monmouth,Away,W,2,1,2,1,17,7,0,0,0,0,0,0,NA,1,11,0,0,NA,1,8,NA,NA,1,0,15,12,0,0,1,1,0,0,NA,2,5,0,0,NA,NA,2,NA,NA
 2023-09-01,UConn Huskies,Rutgers,Home,L,1,2,1,1,21,10,0,0,1,0,0,0,NA,1,8,0,0,NA,NA,9,NA,NA,1,0,17,9,0,0,1,2,0,0,NA,1,9,0,0,NA,NA,7,NA,1
 2023-09-03,UConn Huskies,Harvard,Home,L,2,3,2,2,11,6,0,0,0,0,0,0,NA,3,5,0,0,NA,NA,4,NA,NA,3,0,13,8,0,0,0,1,0,0,NA,2,4,0,0,NA,NA,7,NA,NA
+2023-09-08,UConn Huskies,Cornell,Away,L,1,2,1,1,9,3,30,0,0,2,0,0,NA,2,3,0,0,NA,NA,7,NA,NA,2,4,7,5,48,0,0,3,0,0,NA,1,2,0,0,NA,1,3,NA,NA
+2023-09-10,UConn Huskies,Syracuse,Away,L,0,3,0,0,5,2,0,0,0,0,0,0,NA,3,10,0,0,NA,1,4,NA,NA,3,3,19,13,0,0,1,2,0,0,NA,0,2,1,0,NA,NA,9,NA,NA
 2023-08-25,UMass Lowell River Hawks,LIU,Home,W,5,1,5,4,31,15,0,0,0,1,0,0,NA,1,2,0,0,NA,NA,13,NA,NA,1,1,5,3,0,0,0,0,0,0,NA,5,10,0,0,NA,NA,3,NA,NA
 2023-08-27,UMass Lowell River Hawks,Saint Joseph's,Away,L,0,4,0,0,5,3,0,0,2,2,0,0,NA,4,4,0,0,NA,NA,2,NA,NA,4,2,15,8,0,0,0,2,0,0,NA,0,3,1,0,NA,NA,9,NA,NA
 2023-09-01,UMass Lowell River Hawks,Merrimack,Home,W,9,0,9,4,43,26,0,0,0,1,0,0,NA,0,0,1,0,NA,NA,20,NA,NA,0,0,0,0,0,0,0,0,0,0,NA,9,17,0,0,NA,NA,1,NA,NA
+2023-09-09,UMass Lowell River Hawks,"Central Mich. Iowa City, Iowa",Away,W,9,0,9,4,29,17,0,0,1,2,0,0,NA,0,1,1,0,NA,NA,7,1,1,0,0,3,1,0,0,0,2,0,0,NA,9,8,0,0,NA,NA,2,NA,NA
+2023-09-10,UMass Lowell River Hawks,Iowa,Away,L,1,5,1,2,8,5,0,0,0,0,0,0,NA,5,8,0,0,NA,NA,6,NA,NA,5,4,19,13,0,0,0,2,0,0,NA,1,4,0,0,NA,NA,10,NA,NA
 2023-08-25,VCU Rams,Delaware,Home,W,4,3,4,4,10,8,49,0,0,1,0,0,NA,3,8,0,0,NA,1,3,NA,NA,3,3,16,11,31,0,0,0,0,0,NA,4,4,0,0,NA,NA,14,NA,1
 2023-08-27,VCU Rams,Kent St.,Home,W,1,0,1,1,7,6,32,0,0,0,0,0,NA,0,4,1,0,NA,NA,3,NA,NA,0,0,8,4,32,0,0,1,0,0,NA,1,5,0,0,NA,NA,7,NA,NA
 2023-09-01,VCU Rams,Georgetown,Home,W,4,2,4,4,11,9,32,0,0,1,0,0,NA,2,4,0,0,NA,NA,4,NA,NA,2,1,6,6,22,0,0,1,0,0,NA,4,5,0,0,NA,NA,3,NA,NA
+2023-09-08,VCU Rams,Bellarmine,Away,W,1,0,1,1,23,14,0,0,0,2,0,0,NA,0,5,1,0,NA,NA,10,NA,NA,0,0,7,5,0,0,0,1,0,0,NA,1,13,0,0,NA,1,4,NA,NA
+2023-09-10,VCU Rams,Louisville,Away,L,1,2,1,1,1,1,0,0,0,1,0,0,NA,2,4,0,0,NA,NA,1,NA,NA,2,3,12,6,0,0,0,0,0,0,NA,1,0,0,0,NA,NA,7,NA,NA
 2023-08-25,Vermont Catamounts,Sacred Heart,Home,W,6,2,6,8,13,10,52,0,1,2,0,0,NA,2,3,0,0,NA,NA,5,NA,NA,2,2,6,5,41,0,0,0,0,0,NA,6,4,0,0,NA,NA,7,NA,NA
 2023-08-27,Vermont Catamounts,Syracuse,Home,L,1,9,1,1,5,2,37,0,0,1,0,0,NA,9,7,0,0,NA,2,5,NA,NA,9,8,27,16,46,0,0,1,0,0,NA,1,1,0,0,NA,NA,11,1,1
 2023-09-01,Vermont Catamounts,Lafayette,Home,W,3,2,3,3,13,7,34,0,0,1,0,0,NA,2,3,0,0,NA,NA,8,NA,NA,2,4,11,5,40,0,0,1,0,0,NA,3,4,0,0,NA,NA,7,NA,NA
 2023-09-05,Vermont Catamounts,Northwestern,Home,L,0,2,0,0,2,2,34,0,0,1,0,0,NA,2,10,0,0,NA,NA,1,NA,NA,2,3,22,12,30,0,0,0,0,0,NA,0,2,1,0,NA,NA,15,NA,NA
+2023-09-10,Vermont Catamounts,Boston U.,Home,L,3,4,3,3,22,15,38,0,3,2,0,0,NA,4,6,0,0,NA,NA,16,NA,NA,4,7,15,10,41,0,4,2,0,0,NA,3,12,0,0,NA,NA,11,NA,NA
 2023-08-25,Villanova Wildcats,Ball St.,Home,W,4,3,4,2,31,20,24,0,1,1,0,0,NA,3,3,0,0,NA,NA,13,NA,1,3,1,16,6,15,0,1,1,0,0,NA,4,16,0,0,NA,NA,8,NA,NA
 2023-09-01,Villanova Wildcats,Delaware,Away,L,0,8,0,0,4,2,25,0,0,2,0,0,NA,8,9,0,0,NA,1,4,NA,NA,8,6,22,17,23,0,0,1,0,0,NA,0,2,1,0,NA,NA,7,NA,NA
 2023-09-03,Villanova Wildcats,Longwood,Home,W,7,0,7,6,22,16,24,0,0,1,0,0,NA,0,5,1,0,NA,NA,5,NA,NA,0,0,7,5,19,0,0,0,0,0,NA,7,9,0,0,NA,NA,2,NA,NA
+2023-09-08,Villanova Wildcats,Rutgers,Home,L,2,6,2,4,7,5,23,0,0,1,0,0,NA,6,4,0,0,NA,NA,4,NA,NA,6,9,16,10,30,0,0,2,0,0,NA,2,3,0,0,NA,NA,4,NA,NA
+2023-09-10,Villanova Wildcats,La Salle,Home,L,3,4,3,4,23,12,25,0,0,1,0,0,NA,4,6,0,0,NA,NA,16,NA,NA,4,1,18,10,31,0,2,1,0,0,NA,3,9,0,0,NA,NA,4,1,2
 2023-08-25,Virginia Cavaliers,Penn St.,Home,W,2,1,2,2,18,10,0,0,1,2,0,0,NA,1,8,0,0,NA,2,3,NA,NA,1,0,14,9,0,0,0,1,0,0,NA,2,8,0,0,NA,NA,6,NA,NA
 2023-08-29,Virginia Cavaliers,Liberty,Home,L,1,3,1,0,13,7,0,0,0,2,0,0,NA,3,3,0,0,NA,NA,4,NA,NA,3,3,9,6,0,0,0,2,0,0,NA,1,6,0,0,NA,1,8,NA,NA
 2023-09-01,Virginia Cavaliers,Saint Joseph's,Away,W,2,1,2,2,8,6,0,0,0,1,0,0,NA,1,3,0,0,NA,NA,3,1,1,1,2,6,4,0,0,0,0,0,0,NA,2,4,0,0,NA,1,5,NA,NA
 2023-09-03,Virginia Cavaliers,Temple,Away,W,6,0,6,5,13,7,38,0,0,0,0,0,NA,0,0,1,0,NA,NA,4,NA,NA,0,0,0,0,35,0,0,0,0,0,NA,6,1,0,0,NA,NA,NA,NA,NA
+2023-09-08,Virginia Cavaliers,William & Mary,Away,W,6,1,6,8,12,11,0,0,1,1,0,0,NA,1,4,0,0,NA,NA,5,NA,NA,1,1,7,5,0,0,0,1,0,0,NA,6,5,0,0,NA,NA,5,NA,NA
+2023-09-10,Virginia Cavaliers,Harvard,Home,W,1,0,1,1,6,2,0,0,0,2,0,0,NA,0,4,1,0,NA,NA,5,NA,NA,0,0,10,4,0,0,0,1,0,0,NA,1,1,0,0,NA,NA,6,NA,NA
 2023-08-25,Wagner Seahawks,Lafayette,Away,L,0,5,0,0,4,2,27,0,0,2,0,0,NA,5,6,0,0,NA,NA,1,NA,NA,5,4,15,11,31,0,0,1,0,0,NA,0,2,1,0,NA,NA,5,NA,NA
 2023-09-01,Wagner Seahawks,Hofstra,Away,L,0,2,0,0,5,1,38,0,0,2,0,0,NA,2,2,0,0,NA,NA,4,NA,NA,2,4,5,4,28,0,0,0,0,0,NA,0,1,1,0,NA,NA,5,NA,NA
+2023-09-08,Wagner Seahawks,Holy Cross,Home,L,1,2,1,0,26,13,0,0,0,1,0,0,NA,2,4,0,0,NA,NA,16,NA,NA,2,1,8,6,0,0,0,1,0,0,NA,1,12,0,0,NA,NA,4,NA,NA
 2023-08-25,Wake Forest Demon Deacons,Iowa ,Away,L,0,4,0,0,4,1,0,0,2,0,0,0,NA,4,6,0,0,NA,NA,2,NA,NA,4,2,11,10,0,0,3,1,0,0,NA,0,1,1,0,NA,NA,3,NA,NA
 2023-08-27,Wake Forest Demon Deacons,"Michigan Chapel Hill, N.C.",Away,W,1,0,1,0,17,9,0,0,2,0,0,0,NA,0,6,1,0,NA,NA,4,1,1,0,0,12,6,0,0,2,1,0,0,NA,1,8,0,0,NA,NA,8,NA,NA
 2023-09-01,Wake Forest Demon Deacons,William & Mary,Home,L,1,2,1,0,12,5,0,0,0,0,0,0,NA,2,1,0,0,NA,NA,7,NA,NA,2,2,5,3,0,0,0,0,0,0,NA,1,4,0,0,NA,NA,3,NA,NA
 2023-09-03,Wake Forest Demon Deacons,James Madison,Home,W,1,0,1,1,17,7,0,0,0,0,0,0,NA,0,3,1,0,NA,NA,7,NA,NA,0,0,3,3,0,0,1,4,0,0,NA,1,6,0,0,NA,NA,NA,NA,NA
 2023-08-25,William & Mary Tribe,James Madison,Home,L,2,4,2,1,24,18,0,0,1,0,0,0,NA,4,3,0,0,NA,1,11,NA,NA,4,5,10,7,0,0,1,1,0,0,NA,2,16,0,0,NA,NA,3,NA,NA
 2023-09-01,William & Mary Tribe,Wake Forest,Away,W,2,1,2,2,5,3,0,0,0,0,0,0,NA,1,4,0,0,NA,NA,3,NA,NA,1,0,12,5,0,0,0,0,0,0,NA,2,1,0,0,NA,NA,7,NA,NA
+2023-09-08,William & Mary Tribe,Virginia,Home,L,1,6,1,1,7,5,0,0,0,1,0,0,NA,6,5,0,0,NA,NA,5,NA,NA,6,8,12,11,0,0,1,1,0,0,NA,1,4,0,0,NA,NA,5,NA,NA
 2023-09-01,Yale Bulldogs,Temple,Away,W,1,0,1,2,3,2,28,0,0,1,0,0,NA,0,8,1,0,NA,NA,2,NA,NA,0,0,16,8,39,0,0,1,0,0,NA,1,1,0,0,NA,NA,13,NA,NA
 2023-09-03,Yale Bulldogs,Saint Joseph's,Away,L,1,6,1,2,4,3,0,0,2,1,0,0,NA,6,13,0,0,NA,2,4,NA,NA,6,6,31,19,0,0,0,1,0,0,NA,1,2,0,0,NA,NA,17,NA,NA
+2023-09-09,Yale Bulldogs,American ,Away,L,0,4,0,0,7,3,0,0,1,1,0,0,NA,4,8,0,0,NA,NA,6,NA,NA,4,4,16,12,0,0,2,3,0,0,NA,0,3,1,0,NA,NA,6,NA,NA
+2023-09-10,Yale Bulldogs,Maryland,Away,L,1,3,1,0,13,4,0,0,0,0,0,0,NA,3,8,0,0,NA,NA,6,NA,NA,3,3,18,11,0,0,0,0,0,0,NA,1,3,0,0,NA,NA,10,NA,NA
