@@ -1,0 +1,16 @@
+[project]
+name = "ncaafieldhockeydata"
+version = "0.1.0"
+description = "Scrapes NCAA women's field hockey data from stats.ncaa.org"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "pandas>=2.2.0",
+    "playwright>=1.58.0",
+    "beautifulsoup4>=4.12.0",
+    "lxml>=5.0.0",
+    "ncaa_stats_py",
+]
+
+[tool.uv.sources]
+ncaa_stats_py = { git = "https://github.com/Sports-Roster-Data/ncaa_stats_py" }

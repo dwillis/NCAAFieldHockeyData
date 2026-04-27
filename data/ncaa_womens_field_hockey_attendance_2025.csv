@@ -1,0 +1,84 @@
+rank,institution,conference,accum_attendance,avg_attendance,stadium_capacity,pct_capacity,games
+1,Princeton,Ivy League,"6,077",506,"2,000",25.32,12
+2,North Carolina,ACC,"5,936",660,"1,000",65.96,9
+3,Maryland,Big Ten,"4,932",493,"1,400",35.23,10
+4,Rutgers,Big Ten,"4,770",530,0,Inf,9
+5,Michigan,Big Ten,"4,185",698,"1,500",46.50,6
+6,Penn St.,Big Ten,"3,965",496,750,66.08,8
+7,Stanford,ACC,"3,518",391,"1,000",39.09,9
+8,Virginia,ACC,"3,409",379,836,45.31,9
+9,Delaware,MPSFMWP,"3,236",324,"2,000",16.18,10
+10,Wake Forest,ACC,"3,205",321,"3,000",10.68,10
+11,Boston College,ACC,"3,092",515,"1,000",51.53,6
+12,Liberty,Big East,"3,088",309,750,41.17,10
+13,Louisville,ACC,"3,061",278,0,Inf,11
+14,Massachusetts,MAC,"3,005",301,"1,000",30.05,10
+15,Saint Joseph's,Atlantic 10,"2,987",332,200,165.94,9
+16,Fairfield,NEC,"2,978",298,500,59.56,10
+17,Lafayette,Patriot,"2,929",325,"1,000",32.54,9
+18,Ohio St.,Big Ten,"2,909",416,500,83.11,7
+19,Richmond,Atlantic 10,"2,905",242,400,60.52,12
+20,Indiana,Big Ten,"2,849",259,500,51.80,11
+21,Vermont,America East,"2,824",235,"2,000",11.77,12
+22,Harvard,Ivy League,"2,553",284,900,31.52,9
+22,Yale,Ivy League,"2,553",319,750,42.55,8
+24,Cornell,Ivy League,"2,539",254,300,84.63,10
+25,VCU,Atlantic 10,"2,291",229,"1,200",19.09,10
+26,Towson,CAA,"2,226",171,0,Inf,13
+27,Temple,Big East,"2,156",240,500,47.91,9
+28,Villanova,Big East,"2,137",305,"1,000",30.53,7
+29,Syracuse,ACC,"2,118",265,"2,700",9.81,8
+30,Lehigh,Patriot,"2,091",232,"1,000",23.23,9
+31,Bryant,America East,"2,025",184,"1,000",18.41,11
+32,American,Patriot,"2,013",224,500,44.73,9
+33,Lock Haven,Atlantic 10,"2,006",251,"3,500",7.16,8
+34,Brown,Ivy League,"2,004",251,500,50.10,8
+35,UMass Lowell,America East,"1,943",177,"1,000",17.66,11
+36,Hofstra,CAA,"1,886",210,500,41.91,9
+37,Old Dominion,Big East,"1,842",205,"1,500",13.64,9
+38,Columbia,Ivy League,"1,838",204,500,40.84,9
+39,Iowa,Big Ten,"1,827",203,"1,000",20.30,9
+40,William & Mary,CAA,"1,802",200,"2,271",8.82,9
+41,La Salle,Atlantic 10,"1,787",199,"1,000",19.86,9
+42,Maine,America East,"1,776",197,500,39.47,9
+43,Davidson,Atlantic 10,"1,699",189,500,37.76,9
+44,Duke,ACC,"1,686",211,"1,000",21.08,8
+45,Northwestern,Big Ten,"1,655",331,300,110.33,5
+46,Providence,Big East,"1,616",147,"1,000",14.69,11
+47,Rider,NEC,"1,613",323,"1,000",32.26,5
+48,App State,MAC,"1,530",191,450,42.50,8
+49,Holy Cross,Patriot,"1,511",151,"1,000",15.11,10
+50,Wagner,NEC,"1,465",183,0,Inf,8
+51,Boston U.,Patriot,"1,444",144,500,28.88,10
+52,Monmouth,CAA,"1,440",131,500,26.18,11
+53,Colgate,Patriot,"1,259",114,"1,000",11.45,11
+54,Michigan St.,Big Ten,"1,258",157,"1,500",10.48,8
+55,Longwood,MAC,"1,254",179,350,51.18,7
+56,Quinnipiac,Big East,"1,188",132,500,26.40,9
+57,Kent St.,MAC,"1,151",230,"2,000",11.51,5
+58,Northeastern,CAA,"1,142",127,"3,000",4.23,9
+59,New Hampshire,America East,"1,127",161,"2,000",8.05,7
+60,Saint Francis,NEC,"1,101",184,"3,500",5.24,6
+61,UAlbany,America East,"1,077",108,500,21.54,10
+62,Sacred Heart,NEC,"1,045",149,0,Inf,7
+63,Drexel,CAA,"1,034",115,"1,000",11.49,9
+64,James Madison,MAC,982,109,"1,000",10.91,9
+65,Georgetown,Big East,915,153,500,30.50,6
+66,California,ACC,900,113,500,22.50,8
+67,Penn,Ivy League,878,176,"1,000",17.56,5
+68,Saint Louis,Atlantic 10,870,145,300,48.33,6
+69,New Haven,NEC,850,170,"4,500",3.78,5
+70,Queens (NC),DI Independent,794,72,0,Inf,11
+71,Bucknell,Patriot,725,104,"1,000",10.36,7
+72,UConn,Big East,700,88,"2,000",4.38,8
+73,Stonehill,NEC,698,140,"2,400",5.82,5
+74,Ball St.,MAC,665,83,"1,100",7.56,8
+75,Dartmouth,Ivy League,652,93,600,15.52,7
+76,Bellarmine,MAC,545,68,"1,500",4.54,8
+77,Central Mich.,MAC,508,73,"1,000",7.26,7
+78,Mercyhurst,NEC,477,95,"2,300",4.15,5
+78,Merrimack,NEC,477,119,"3,500",3.41,4
+80,Ohio,MAC,461,77,"1,000",7.68,6
+81,Miami (OH),MAC,324,32,500,6.48,10
+82,LIU,NEC,320,80,0,Inf,4
+83,UC Davis,MPSFMWP,295,74,300,24.58,4
