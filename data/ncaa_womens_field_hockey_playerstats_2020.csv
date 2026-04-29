@@ -1,0 +1,1008 @@
+ncaa_id,team,season,jersey,full_name,roster_name,last_name,first_name,yr,pos,feet,inches,gp,gs,goals,fouls,rc,yc,gc,player_ncaa_id,ast,shatt
+23,American,2020,20,Noor Coenen,Noor Coenen,Coenen,Noor,Sr,M,,,6.0,6.0,3.0,,,,2.0,,4.0,39.0
+23,American,2020,22,Maura Phelan,Maura Phelan,Phelan,Maura,Jr,M,,,6.0,6.0,1.0,,,,,,,1.0
+23,American,2020,21,Aidan Rossman,Aidan Rossman,Rossman,Aidan,Jr,F,,,6.0,6.0,2.0,,,,1.0,,,8.0
+23,American,2020,7,Georgia Davies,Georgia Davies,Davies,Georgia,Jr,M,,,6.0,6.0,,,,,,,,3.0
+23,American,2020,6,Hannah Moser,Hannah Moser,Moser,Hannah,Jr,F,,,6.0,6.0,,,,,,,,8.0
+23,American,2020,17,Josie Formica,Josie Formica,Formica,Josie,Jr,M,,,6.0,6.0,1.0,,,,,,,4.0
+23,American,2020,4,Charllene Boshoff,Charllene Boshoff,Boshoff,Charllene,So,B,,,6.0,6.0,,,,,1.0,,,11.0
+23,American,2020,18,Megan Hoffman,Megan Hoffman,Hoffman,Megan,So,F,,,6.0,5.0,,,,,,,,4.0
+23,American,2020,26,Abby Kreider,Abby Kreider,Kreider,Abby,So,B,,,6.0,,1.0,,,,,,1.0,1.0
+23,American,2020,11,Gaby De Kock,Gaby De Kock,Kock,Gaby,Sr,F,,,6.0,6.0,2.0,,,,1.0,,,5.0
+23,American,2020,8,Ashlyn Campagna,Ashlyn Campagna,Campagna,Ashlyn,So,M,,,5.0,,,,,,1.0,,,
+23,American,2020,9,Merel Dupont,Merel Dupont,Dupont,Merel,So,M,,,6.0,6.0,1.0,,,,,,,2.0
+23,American,2020,1,Bella Hite,Bella Hite,Hite,Bella,So,M,,,2.0,,,,,,1.0,,,6.0
+23,American,2020,3,Julia Kraft,Julia Kraft,Kraft,Julia,So,F,,,6.0,,2.0,,,,,,,2.0
+23,American,2020,12,Imogen Hatton,Imogen Hatton,Hatton,Imogen,Fr,M,,,6.0,,,,,1.0,1.0,,,8.0
+27,App State,2020,13,Meghan Smart,Meghan Smart,Smart,Meghan,Sr,M,,,14.0,14.0,12.0,,,1.0,1.0,,4.0,42.0
+27,App State,2020,24,Veerle van Heertum,Veerle van Heertum,Heertum,Veerle,Sr,M,,,14.0,14.0,5.0,,,,1.0,,3.0,46.0
+27,App State,2020,34,Chloe Bell,Chloe Bell,Bell,Chloe,Sr,F,,,14.0,1.0,1.0,,,,,,2.0,6.0
+27,App State,2020,11,Jillian Ulery,Jillian Ulery,Ulery,Jillian,Jr,F,,,16.0,,,,,,,,,4.0
+27,App State,2020,22,Annette Jarosz,Annette Jarosz,Jarosz,Annette,Sr,M,,,14.0,14.0,,,,,,,1.0,
+27,App State,2020,8,Abby Merrill,Abby Merrill,Merrill,Abby,Sr,F,,,12.0,2.0,,,,,,,1.0,1.0
+27,App State,2020,7,Friederike Stegen,Friederike Stegen,Stegen,Friederike,Jr,M,,,14.0,14.0,2.0,,,,4.0,,3.0,34.0
+27,App State,2020,10,Sydney Lee,Sydney Lee,Lee,Sydney,Jr,F,,,14.0,,,,,,,,,5.0
+27,App State,2020,23,Brenna Schoenbachler,Brenna Schoenbachler,Schoenbachler,Brenna,Jr,M,,,14.0,14.0,,,,,1.0,,,
+27,App State,2020,4,Anna Smarrelli,Anna Smarrelli,Smarrelli,Anna,Jr,M,,,14.0,13.0,1.0,,,,1.0,,1.0,12.0
+27,App State,2020,3,Allison Corey,Allison Corey,Corey,Allison,So,M,,,14.0,13.0,,,,,,,,4.0
+27,App State,2020,2,Sarah Farrell,Sarah Farrell,Farrell,Sarah,So,F,,,14.0,12.0,2.0,,,,,,1.0,15.0
+27,App State,2020,16,Pauline Mangold,Pauline Mangold,Mangold,Pauline,So,M,,,14.0,13.0,4.0,,,,,,2.0,17.0
+27,App State,2020,15,Rachel Fleig,Rachel Fleig,Fleig,Rachel,So,F,,,14.0,2.0,1.0,,,,,,2.0,8.0
+27,App State,2020,31,Carli Ciocco,Carli Ciocco,Ciocco,Carli,So,F,,,11.0,8.0,3.0,,,,,,,14.0
+27,App State,2020,26,Leah Hurwitz,Leah Hurwitz,Hurwitz,Leah,Fr,F,,,10.0,,,,,,,,,2.0
+27,App State,2020,1,Peyton Ritchey,Peyton Ritchey,Ritchey,Peyton,Fr,F,,,8.0,,1.0,,,,,,,3.0
+27,App State,2020,32,Lucy Bliss,Lucy Bliss,Bliss,Lucy,Fr,B,,,8.0,1.0,,,,,,,,1.0
+27,App State,2020,18,Grace Ball,Grace Ball,Ball,Grace,Fr,M,,,14.0,4.0,3.0,,,,,,1.0,6.0
+47,Ball St.,2020,13,Maureen Donegan,Maureen Donegan,Donegan,Maureen,Fr,F,,,16.0,,3.0,,,,1.0,,1.0,10.0
+47,Ball St.,2020,19,Rachel Bohn,Rachel Bohn,Bohn,Rachel,Fr,F,,,16.0,,,,,,,,,5.0
+47,Ball St.,2020,2,Alex Conrad,Alex Conrad,Conrad,Alex,Jr,B,,,15.0,,,,,1.0,,,,
+47,Ball St.,2020,26,Callie Rumbaugh,Callie Rumbaugh,Rumbaugh,Callie,Jr,M,,,16.0,16.0,,,,1.0,1.0,,,1.0
+47,Ball St.,2020,10,Libby Kraus,Libby Kraus,Kraus,Libby,So,M,,,16.0,16.0,,,,,,,,1.0
+47,Ball St.,2020,18,Gina Caravaglia,Gina Caravaglia,Caravaglia,Gina,So,B,,,15.0,1.0,,,,,,,,1.0
+47,Ball St.,2020,11,Caitlyn Grodzicki,Caitlyn Grodzicki,Grodzicki,Caitlyn,So,F,,,10.0,,,,,,,,,2.0
+47,Ball St.,2020,16,Angel Nkosi,Angel Nkosi,Nkosi,Angel,So,M,,,16.0,13.0,1.0,,,1.0,,,,7.0
+47,Ball St.,2020,9,Lexi Kansky,Lexi Kansky,Kansky,Lexi,So,F,,,11.0,,,,,1.0,1.0,,,
+47,Ball St.,2020,3,Rachel Pereira,Rachel Pereira,Pereira,Rachel,Sr,B,,,16.0,16.0,4.0,,,3.0,3.0,,1.0,26.0
+47,Ball St.,2020,23,Audrey Tabor,Audrey Tabor,Tabor,Audrey,Sr,F,,,16.0,16.0,,,,1.0,2.0,,,2.0
+47,Ball St.,2020,12,Abby Ferenczy,Abby Ferenczy,Ferenczy,Abby,Sr,F,,,16.0,6.0,,,,1.0,,,,9.0
+47,Ball St.,2020,5,Sierra Jefferson,Sierra Jefferson,Jefferson,Sierra,Sr,F,,,15.0,15.0,,,,,,,2.0,3.0
+47,Ball St.,2020,7,Jenna McKune,Jenna McKune,McKune,Jenna,Sr,M,,,16.0,16.0,,,,,,,3.0,8.0
+47,Ball St.,2020,4,Emma Hilton,Emma Hilton,Hilton,Emma,Fr,M,,,16.0,1.0,1.0,,,,1.0,,2.0,20.0
+47,Ball St.,2020,6,Elyse Horner,Elyse Horner,Horner,Elyse,Fr,B,,,6.0,,,,,,,,,1.0
+47,Ball St.,2020,14,Paloma Gomez Rengifo,Paloma Gomez Rengifo,Rengifo,Paloma,Fr,F,,,16.0,12.0,,,,,2.0,,2.0,15.0
+47,Ball St.,2020,17,Michaela Graney,Michaela Graney,Graney,Michaela,Fr,B,,,16.0,16.0,2.0,,,,,,,9.0
+47,Ball St.,2020,22,Kerrianne McClay,Kerrianne McClay,McClay,Kerrianne,So,M,,,16.0,16.0,3.0,,,3.0,1.0,,,16.0
+47,Ball St.,2020,8,Halle Baisas,Halle Baisas,Baisas,Halle,Fr,F,,,14.0,,,,,,2.0,,,2.0
+52,Bellarmine,2020,4,Lindsay Sturgeon,Lindsay Sturgeon,Sturgeon,Lindsay,So,M,,,13.0,13.0,1.0,,,,,,1.0,6.0
+52,Bellarmine,2020,24,Kara Guess,Kara Guess,Guess,Kara,Sr,B,,,13.0,12.0,,,,,,,1.0,
+52,Bellarmine,2020,3,Cassidy Sweeney,Cassidy Sweeney,Sweeney,Cassidy,Jr,M,,,13.0,13.0,,,,,3.0,,,3.0
+52,Bellarmine,2020,17,Teresa Schmidt,Teresa Schmidt,Schmidt,Teresa,So,M,,,13.0,13.0,1.0,,,,2.0,,1.0,4.0
+52,Bellarmine,2020,7,Alexa Rastigue,Alexa Rastigue,Rastigue,Alexa,So,B,,,13.0,10.0,,,,,1.0,,1.0,1.0
+52,Bellarmine,2020,9,Amber Hofenk Jerembo,Amber Hofenk Jerembo,Jerembo,Amber,So,F,,,13.0,9.0,6.0,,,,,,1.0,26.0
+52,Bellarmine,2020,13,Lauren Marshall,Lauren Marshall,Marshall,Lauren,Fr,F,,,13.0,1.0,,,,,,,,3.0
+52,Bellarmine,2020,2,Peyton Hobson,Peyton Hobson,Hobson,Peyton,Fr,M,,,13.0,13.0,,,,,,,2.0,2.0
+52,Bellarmine,2020,10,Jensen Kitrel,Jensen Kitrel,Kitrel,Jensen,Fr,M,,,11.0,,,,,,1.0,,,1.0
+52,Bellarmine,2020,5,Grace Dukes,Grace Dukes,Dukes,Grace,So,M,,,13.0,13.0,2.0,,,,,,,4.0
+52,Bellarmine,2020,19,Anna Crump,Anna Crump,Crump,Anna,Fr,M,,,11.0,11.0,2.0,,,,2.0,,2.0,13.0
+52,Bellarmine,2020,21,Hannah Brown,Hannah Brown,Brown,Hannah,Fr,M,,,9.0,7.0,,,,,1.0,,,1.0
+67,Boston College,2020,12,Elizabeth Warner,Elizabeth Warner,Warner,Elizabeth,Sr,F,,,14.0,14.0,8.0,,,,,,3.0,26.0
+67,Boston College,2020,4,Jaime Natale,Jaime Natale,Natale,Jaime,Sr,M,,,14.0,14.0,5.0,,,,,,2.0,28.0
+67,Boston College,2020,15,Fusine Govaert,Fusine Govaert,Govaert,Fusine,Sr,M,,,14.0,14.0,2.0,,,1.0,1.0,,,33.0
+67,Boston College,2020,25,Maddy Dorn,Maddy Dorn,Dorn,Maddy,Sr,M,,,11.0,10.0,,,,,1.0,,,2.0
+67,Boston College,2020,6,Caroline McGovern,Caroline McGovern,McGovern,Caroline,Sr,M,,,11.0,2.0,2.0,,,,,,,3.0
+67,Boston College,2020,5,Sky Caron,Sky Caron,Caron,Sky,Jr,B,,,13.0,13.0,4.0,,,1.0,3.0,,,24.0
+67,Boston College,2020,13,Nell Webber,Nell Webber,Webber,Nell,Jr,F,,,5.0,5.0,1.0,,,,,,1.0,4.0
+67,Boston College,2020,10,Fran Hsu,Fran Hsu,Hsu,Fran,So,,,,7.0,,,,,1.0,,,1.0,
+67,Boston College,2020,7,Darcy Clement,Darcy Clement,Clement,Darcy,So,,,,14.0,13.0,,,,,,,,4.0
+67,Boston College,2020,24,Margo Carlin,Margo Carlin,Carlin,Margo,So,,,,14.0,14.0,6.0,,,2.0,2.0,,7.0,41.0
+67,Boston College,2020,9,Kendall Hanlon,Kendall Hanlon,Hanlon,Kendall,So,,,,14.0,11.0,,,,,,,1.0,5.0
+67,Boston College,2020,21,Lois Lekawael,Lois Lekawael,Lekawael,Lois,So,,,,12.0,3.0,2.0,,,1.0,1.0,,,8.0
+67,Boston College,2020,14,Juliette Hijdra,Juliette Hijdra,Hijdra,Juliette,Fr,M,,,13.0,13.0,,,,,,,2.0,3.0
+67,Boston College,2020,17,Peyton Hale,Peyton Hale,Hale,Peyton,Fr,M,,,3.0,3.0,,,,,,,,1.0
+67,Boston College,2020,20,Olivia Hahn,Olivia Hahn,Hahn,Olivia,Fr,M,,,14.0,10.0,1.0,,,,,,,7.0
+67,Boston College,2020,22,Emily Hauck,Emily Hauck,Hauck,Emily,Fr,M,,,5.0,,1.0,,,,1.0,,,3.0
+68,Boston U.,2020,13,Alexis Pettisani,Alexis Pettisani,Pettisani,Alexis,Sr,B,,,6.0,6.0,1.0,,,,1.0,,2.0,12.0
+68,Boston U.,2020,5,Miya Denison,Miya Denison,Denison,Miya,Sr,F,,,3.0,3.0,,,,,2.0,,,7.0
+68,Boston U.,2020,7,Kathryn Scheerer,Kathryn Scheerer,Scheerer,Kathryn,Sr,B,,,6.0,6.0,5.0,,,,1.0,,1.0,14.0
+68,Boston U.,2020,14,Molly Rottinghaus,Molly Rottinghaus,Rottinghaus,Molly,Jr,F,,,2.0,,,,,,,,,1.0
+68,Boston U.,2020,16,Rebecca Janes,Rebecca Janes,Janes,Rebecca,Jr,M,,,5.0,5.0,4.0,,,,,,3.0,6.0
+68,Boston U.,2020,23,Casey Thompson,Casey Thompson,Thompson,Casey,Jr,F,,,5.0,5.0,,,,,,,2.0,6.0
+68,Boston U.,2020,4,Gianna Pantaleo,Gianna Pantaleo,Pantaleo,Gianna,So,M,,,5.0,1.0,1.0,,,,1.0,,,3.0
+68,Boston U.,2020,10,Rachel Borzymowski,Rachel Borzymowski,Borzymowski,Rachel,So,B,,,5.0,5.0,,,,,,,,2.0
+68,Boston U.,2020,22,Ellie McIntyre,Ellie McIntyre,McIntyre,Ellie,So,F,,,6.0,4.0,2.0,,,,1.0,,1.0,5.0
+68,Boston U.,2020,15,Liz Ryan,Liz Ryan,Ryan,Liz,Sr,F,,,6.0,6.0,3.0,,,,,,,7.0
+68,Boston U.,2020,8,Madison DiPietro,Madison DiPietro,DiPietro,Madison,Fr,M,,,5.0,4.0,,,,,,,1.0,3.0
+68,Boston U.,2020,18,Tess Csejka,Tess Csejka,Csejka,Tess,Fr,F,,,2.0,1.0,1.0,,,,,,,3.0
+68,Boston U.,2020,24,Thalia Steenssens,Thalia Steenssens,Steenssens,Thalia,Fr,M,,,4.0,4.0,,,,,1.0,,3.0,4.0
+81,Bryant,2020,11,Madison Demand,Madison Demand,Demand,Madison,Sr,M,,,8.0,8.0,1.0,1.0,,,1.0,,1.0,5.0
+81,Bryant,2020,2,Kathryn Doorley,Kathryn Doorley,Doorley,Kathryn,Sr,M,,,8.0,6.0,1.0,,,,2.0,,,2.0
+81,Bryant,2020,26,Kylie Nelson,Kylie Nelson,Nelson,Kylie,Sr,F,,,8.0,8.0,2.0,,,,,,,9.0
+81,Bryant,2020,18,Victoria Wypych,Victoria Wypych,Wypych,Victoria,Jr,M,,,7.0,5.0,,1.0,,,,,,
+81,Bryant,2020,9,Grayson Green,Grayson Green,Green,Grayson,So,M,,,6.0,3.0,,,,,,,,4.0
+81,Bryant,2020,14,Phoebe Johnson,Phoebe Johnson,Johnson,Phoebe,So,F,,,8.0,2.0,,,,,1.0,,,
+81,Bryant,2020,21,Ellie Morrison,Ellie Morrison,Morrison,Ellie,So,B,,,8.0,8.0,,,,,,,,10.0
+81,Bryant,2020,12,Taryn Rauff,Taryn Rauff,Rauff,Taryn,So,F,,,4.0,3.0,,,,1.0,,,,4.0
+81,Bryant,2020,23,Ashley Barron,Ashley Barron,Barron,Ashley,Fr,F,,,8.0,8.0,2.0,,,,,,,7.0
+81,Bryant,2020,3,Lotte Guitink,Lotte Guitink,Guitink,Lotte,Fr,B,,,8.0,8.0,,1.0,,,,,,3.0
+83,Bucknell,2020,2,Olivia Bush,Olivia Bush,Bush,Olivia,Fr,F,,,8.0,1.0,1.0,,,,,,,4.0
+83,Bucknell,2020,6,Kari Melberger,Kari Melberger,Melberger,Kari,Fr,M,,,10.0,8.0,2.0,,,,1.0,,,10.0
+83,Bucknell,2020,9,Gugulethu Sibanda,Gugulethu Sibanda,Sibanda,Gugulethu,Fr,M,,,4.0,,,,,,,,1.0,3.0
+83,Bucknell,2020,11,Rachel Apa,Rachel Apa,Apa,Rachel,Fr,F,,,10.0,3.0,2.0,,,,,,3.0,7.0
+83,Bucknell,2020,23,Leah Fogelsanger,Leah Fogelsanger,Fogelsanger,Leah,Sr,M,,,10.0,10.0,1.0,,,,2.0,,,12.0
+83,Bucknell,2020,12,Megan Keeney,Megan Keeney,Keeney,Megan,Sr,M,,,10.0,10.0,1.0,,,,2.0,,,5.0
+83,Bucknell,2020,19,Kaelyn Long,Kaelyn Long,Long,Kaelyn,Sr,B,,,9.0,9.0,2.0,,,,1.0,,2.0,30.0
+83,Bucknell,2020,24,Sarah Dimock,Sarah Dimock,Dimock,Sarah,Sr,M,,,10.0,10.0,,,,,2.0,,1.0,8.0
+83,Bucknell,2020,20,Grace McEvoy,Grace McEvoy,McEvoy,Grace,Jr,B,,,8.0,7.0,,,,,1.0,,,1.0
+83,Bucknell,2020,28,Erin Zielinski,Erin Zielinski,Zielinski,Erin,Jr,B,,,10.0,10.0,,,,,,,1.0,
+83,Bucknell,2020,8,Emily Doyle,Emily Doyle,Doyle,Emily,Jr,F,,,9.0,2.0,,,,,,,1.0,2.0
+83,Bucknell,2020,5,Payton Kenney,Payton Kenney,Kenney,Payton,Jr,M,,,4.0,,,,,,,,,2.0
+83,Bucknell,2020,10,Mary Kate Stefanowicz,Mary Kate Stefanowicz,Stefanowicz,Mary,Jr,M,,,8.0,6.0,2.0,,,,1.0,,,4.0
+83,Bucknell,2020,18,Noor Kaur,Noor Kaur,Kaur,Noor,So,M,,,10.0,,,,,,,,2.0,3.0
+83,Bucknell,2020,21,Mackenzie Kile,Mackenzie Kile,Kile,Mackenzie,So,F,,,10.0,10.0,1.0,,,,1.0,,2.0,7.0
+83,Bucknell,2020,29,Clara McCormick,Clara McCormick,McCormick,Clara,So,GK,,,9.0,8.0,,,,,1.0,,,
+83,Bucknell,2020,3,Madison Hatcher,Madison Hatcher,Hatcher,Madison,Jr,B,,,7.0,1.0,,,,,,,,1.0
+83,Bucknell,2020,7,Kayla Kisthardt,Kayla Kisthardt,Kisthardt,Kayla,So,M,,,10.0,10.0,,,,,,,1.0,1.0
+83,Bucknell,2020,13,Sydney Panagos,Sydney Panagos,Panagos,Sydney,Fr,F,,,1.0,,,,,,,,,1.0
+83,Bucknell,2020,25,Mia Fields,Mia Fields,Fields,Mia,Fr,B,,,9.0,3.0,,,,,,,,1.0
+107,California,2020,1,Kiki de Bruijne,Kiki de Bruijne,Bruijne,Kiki,Fr,M,,,10.0,10.0,3.0,,,1.0,,,,9.0
+107,California,2020,17,Maddie Cleat,Maddie Cleat,Cleat,Maddie,Sr,M,,,10.0,10.0,4.0,,,,,,1.0,30.0
+107,California,2020,2,Yvie Lock,Yvie Lock,Lock,Yvie,Sr,M,,,10.0,10.0,1.0,,,,,,1.0,2.0
+107,California,2020,3,Brynn Zorilla,Brynn Zorilla,Zorilla,Brynn,Jr,M,,,10.0,10.0,4.0,,,,1.0,,2.0,18.0
+107,California,2020,21,Monica Arteaga,Monica Arteaga,Arteaga,Monica,So,F,,,10.0,1.0,,,,,,,,2.0
+107,California,2020,18,Rachel Buttinger,Rachel Buttinger,Buttinger,Rachel,So,M,,,10.0,6.0,1.0,,,,2.0,,1.0,5.0
+107,California,2020,5,Megan Connors,Megan Connors,Connors,Megan,So,B,,,10.0,9.0,1.0,,,,,,1.0,11.0
+107,California,2020,22,Jane Onners,Jane Onners,Onners,Jane,So,B,,,10.0,10.0,,,,,1.0,,1.0,11.0
+107,California,2020,10,Sara Stone,Sara Stone,Stone,Sara,Fr,M,,,10.0,9.0,1.0,,,,,,3.0,10.0
+107,California,2020,16,Kaiden Stanley,Kaiden Stanley,Stanley,Kaiden,Fr,M,,,10.0,4.0,,,,,,,,5.0
+129,Central Mich.,2020,20,Alli Huddleson,Alli Huddleson,Huddleson,Alli,Sr,B,,,12.0,12.0,,,,1.0,,,1.0,
+129,Central Mich.,2020,10,Callie Quinn,Callie Quinn,Quinn,Callie,Sr,M,,,12.0,12.0,2.0,,,,,,1.0,16.0
+129,Central Mich.,2020,17,Anna Riesenberg,Anna Riesenberg,Riesenberg,Anna,Jr,B,,,9.0,9.0,2.0,,,,,,2.0,2.0
+129,Central Mich.,2020,6,Taryn Damm,Taryn Damm,Damm,Taryn,Sr,B,,,12.0,12.0,2.0,,,,,,3.0,14.0
+129,Central Mich.,2020,2,BobbiMarie Parker,BobbiMarie Parker,Parker,BobbiMarie,So,F,,,12.0,12.0,1.0,,,,,,,4.0
+129,Central Mich.,2020,4,Rachel Ruttenberg,Rachel Ruttenberg,Ruttenberg,Rachel,So,B,,,12.0,2.0,2.0,,,,,,2.0,12.0
+129,Central Mich.,2020,7,Lauren Buffington,Lauren Buffington,Buffington,Lauren,So,M,,,12.0,11.0,3.0,,,,3.0,,,7.0
+129,Central Mich.,2020,15,Alice O'Hagan,Alice O'Hagan,O'Hagan,Alice,So,M,,,12.0,12.0,5.0,,,,,,4.0,18.0
+129,Central Mich.,2020,3,Hannah Havrilla,Hannah Havrilla,Havrilla,Hannah,Fr,M,,,12.0,11.0,,,,,,,1.0,3.0
+129,Central Mich.,2020,5,Katie Biglin,Katie Biglin,Biglin,Katie,Fr,F,,,12.0,12.0,4.0,,,,,,,10.0
+129,Central Mich.,2020,13,Caroline Beairsto,Caroline Beairsto,Beairsto,Caroline,Fr,M,,,12.0,12.0,,,,,,,3.0,
+153,Colgate,2020,23,Carter Leahy,Carter Leahy,Leahy,Carter,Jr,F,,,4.0,,,,,,,,,2.0
+153,Colgate,2020,7,Campbell Matheis,Campbell Matheis,Matheis,Campbell,Sr,B,,,5.0,5.0,,,,,,,1.0,
+153,Colgate,2020,22,Blair Boyles,Blair Boyles,Boyles,Blair,Sr,F,,,5.0,1.0,,,,,2.0,,,1.0
+153,Colgate,2020,14,Meghan Minturn,Meghan Minturn,Minturn,Meghan,Sr,F,,,5.0,5.0,2.0,,,,,,,21.0
+153,Colgate,2020,26,Taylor Casamassa,Taylor Casamassa,Casamassa,Taylor,Sr,F,,,5.0,5.0,2.0,,,,,,,11.0
+153,Colgate,2020,15,Kali Williams,Kali Williams,Williams,Kali,Jr,M,,,4.0,4.0,,,,,,,,1.0
+153,Colgate,2020,3,Nikki Potter,Nikki Potter,Potter,Nikki,Jr,F,,,4.0,,,,,,,,,1.0
+153,Colgate,2020,6,Julia Jamesley,Julia Jamesley,Jamesley,Julia,So,F,,,5.0,,,,,,,,,1.0
+153,Colgate,2020,25,Mari Kniezewski,Mari Kniezewski,Kniezewski,Mari,So,M,,,5.0,5.0,1.0,,,,,,1.0,5.0
+153,Colgate,2020,19,Ella Corbett,Ella Corbett,Corbett,Ella,Fr,F,,,5.0,,,,,,1.0,,,1.0
+153,Colgate,2020,10,Aaliyah Linfoot,Aaliyah Linfoot,Linfoot,Aaliyah,Fr,F,,,5.0,5.0,,,,,1.0,,,
+153,Colgate,2020,12,Bronwen Rees-Wiedemann,Bronwen Rees-Wiedemann,Rees-Wiedemann,Bronwen,Fr,M,,,5.0,,,,,,,,,1.0
+153,Colgate,2020,17,Ella Murphy,Ella Murphy,Murphy,Ella,Fr,M,,,5.0,5.0,,,,,,,2.0,9.0
+153,Colgate,2020,2,Rachel Alderfer,Rachel Alderfer,Alderfer,Rachel,Fr,B,,,5.0,5.0,,,,,,,,1.0
+173,Davidson,2020,20,Mcgee Roman,Mcgee Roman,Roman,Mcgee,Sr,M,,,10.0,10.0,1.0,,,,1.0,,,2.0
+173,Davidson,2020,2,Nellie Turnage,Nellie Turnage,Turnage,Nellie,Sr,M,,,11.0,11.0,3.0,,,,1.0,,1.0,11.0
+173,Davidson,2020,14,Caitlyn Gund,Caitlyn Gund,Gund,Caitlyn,Sr,M,,,11.0,11.0,,,,,,,1.0,4.0
+173,Davidson,2020,6,Valerie Hajek,Valerie Hajek,Hajek,Valerie,Sr,M,,,11.0,11.0,3.0,,,,,,1.0,11.0
+173,Davidson,2020,10,Julia Smith,Julia Smith,Smith,Julia,Jr,M,,,9.0,6.0,1.0,,,,,,1.0,11.0
+173,Davidson,2020,11,Izzy Moody,Izzy Moody,Moody,Izzy,Jr,B,,,11.0,1.0,1.0,,,,2.0,,1.0,2.0
+173,Davidson,2020,3,Emma Coleman,Emma Coleman,Coleman,Emma,So,M,,,10.0,5.0,,,,,1.0,,,
+173,Davidson,2020,7,Caroline Wack,Caroline Wack,Wack,Caroline,So,M,,,11.0,11.0,,,,,,,,1.0
+173,Davidson,2020,16,Amy Worscheh,Amy Worscheh,Worscheh,Amy,So,B,,,11.0,6.0,2.0,,,,,,1.0,5.0
+173,Davidson,2020,8,Anna Sharp,Anna Sharp,Sharp,Anna,So,M,,,10.0,3.0,1.0,,,,,,1.0,5.0
+173,Davidson,2020,5,Natalie Naticchia,Natalie Naticchia,Naticchia,Natalie,So,F,,,9.0,1.0,,,,,,,2.0,3.0
+173,Davidson,2020,9,Susannah Armstrong,Susannah Armstrong,Armstrong,Susannah,Fr,F,,,5.0,,,,,,,,,1.0
+173,Davidson,2020,28,Ellie Taylor,Ellie Taylor,Taylor,Ellie,Fr,B,,,4.0,,,,,,1.0,,,
+173,Davidson,2020,19,Corynne Hammit,Corynne Hammit,Hammit,Corynne,Sr,M,,,11.0,4.0,4.0,,,1.0,,,2.0,17.0
+173,Davidson,2020,17,Evie Lake,Evie Lake,Lake,Evie,Fr,M,,,10.0,2.0,1.0,,,2.0,1.0,,,2.0
+173,Davidson,2020,4,Annie Hirshman,Annie Hirshman,Hirshman,Annie,Fr,F,,,6.0,,,,,,1.0,,,1.0
+173,Davidson,2020,13,Charlie Kabelac,Charlie Kabelac,Kabelac,Charlie,Fr,M,,,11.0,11.0,,,,1.0,,,,8.0
+173,Davidson,2020,15,Lena Stiebing,Lena Stiebing,Stiebing,Lena,Fr,M,,,11.0,11.0,2.0,,,,1.0,,3.0,7.0
+180,Delaware,2020,1,Kathryn Hoffman,Kathryn Hoffman,Hoffman,Kathryn,Fr,B,,,4.0,2.0,,,,,,,,1.0
+180,Delaware,2020,10,Ellie Schepens,Ellie Schepens,Schepens,Ellie,Sr,M,,,6.0,5.0,1.0,,,,,,,5.0
+180,Delaware,2020,9,Emily Kresho,Emily Kresho,Kresho,Emily,Sr,B,,,6.0,6.0,,,,1.0,1.0,,7.0,3.0
+180,Delaware,2020,18,Femke Strien,Femke Strien,Strien,Femke,Sr,B,,,6.0,6.0,3.0,,,,,,5.0,27.0
+180,Delaware,2020,2,Grace Miller,Grace Miller,Miller,Grace,Jr,F,,,10.0,9.0,2.0,,,,1.0,,1.0,9.0
+180,Delaware,2020,4,Ashley Iannuzzi,Ashley Iannuzzi,Iannuzzi,Ashley,Jr,F,,,10.0,4.0,3.0,,,,,,,7.0
+180,Delaware,2020,16,Grace Hoepfner,Grace Hoepfner,Hoepfner,Grace,Jr,B,,,10.0,10.0,4.0,,,,,,1.0,5.0
+180,Delaware,2020,3,Sarah Iannuzzi,Sarah Iannuzzi,Iannuzzi,Sarah,Jr,B,,,10.0,5.0,2.0,,,,,,,6.0
+180,Delaware,2020,15,Morgan Rigual,Morgan Rigual,Rigual,Morgan,So,M,,,10.0,5.0,1.0,,,,,,,4.0
+180,Delaware,2020,17,Ashlyn Carr,Ashlyn Carr,Carr,Ashlyn,So,M,,,10.0,10.0,3.0,,,,1.0,,7.0,22.0
+180,Delaware,2020,7,Berber Bakermans,Berber Bakermans,Bakermans,Berber,Fr,M,,,10.0,10.0,1.0,,,,1.0,,4.0,10.0
+180,Delaware,2020,12,Julia Duffhuis,Julia Duffhuis,Duffhuis,Julia,Fr,B,,,10.0,10.0,5.0,,,1.0,1.0,,,26.0
+180,Delaware,2020,5,Martina Carrazzoni,Martina Carrazzoni,Carrazzoni,Martina,Fr,M,,,9.0,9.0,,,,,,,,2.0
+180,Delaware,2020,13,Riley McDonald,Riley McDonald,McDonald,Riley,Fr,F,,,4.0,,,,,,1.0,,,2.0
+180,Delaware,2020,6,Emma Gladstein,Emma Gladstein,Gladstein,Emma,Fr,F,,,10.0,9.0,,,,1.0,,,1.0,5.0
+191,Drexel,2020,55,Chandler McFeeley,Chandler McFeeley,McFeeley,Chandler,Sr,F,,,11.0,11.0,4.0,,,,1.0,,3.0,15.0
+191,Drexel,2020,18,Reilly Finegan,Reilly Finegan,Finegan,Reilly,Sr,B,,,8.0,1.0,,,,,1.0,,,1.0
+191,Drexel,2020,44,Avery Powell,Avery Powell,Powell,Avery,Jr,F,,,11.0,11.0,2.0,,,1.0,2.0,,,8.0
+191,Drexel,2020,34,Emily Owens,Emily Owens,Owens,Emily,Jr,F,,,10.0,7.0,2.0,,,1.0,1.0,,1.0,5.0
+191,Drexel,2020,26,Puk Thewessen,Puk Thewessen,Thewessen,Puk,Jr,B,,,9.0,9.0,1.0,,,,1.0,,2.0,12.0
+191,Drexel,2020,32,Gabriella Martina,Gabriella Martina,Martina,Gabriella,So,F,,,9.0,2.0,2.0,,,,,,,6.0
+191,Drexel,2020,20,Cailey Lever,Cailey Lever,Lever,Cailey,So,F,,,11.0,11.0,,,,,,,1.0,1.0
+191,Drexel,2020,5,Amber Brouwer,Amber Brouwer,Brouwer,Amber,So,M,,,9.0,3.0,1.0,,,,,,,5.0
+191,Drexel,2020,6,Isabel Jacobs,Isabel Jacobs,Jacobs,Isabel,So,M,,,10.0,10.0,,,,,,,,8.0
+191,Drexel,2020,9,Eline Di Leva,Eline Di Leva,Leva,Eline,Fr,F,,,11.0,11.0,6.0,,,,4.0,,7.0,22.0
+191,Drexel,2020,24,Stephanie Oleykowski,Stephanie Oleykowski,Oleykowski,Stephanie,Fr,M,,,11.0,11.0,,,,,,,2.0,1.0
+191,Drexel,2020,19,Shannon Tringola,Shannon Tringola,Tringola,Shannon,Fr,F,,,10.0,,3.0,,,,,,,12.0
+191,Drexel,2020,23,Liz Chipman,Liz Chipman,Chipman,Liz,Fr,M,,,11.0,11.0,,,,1.0,1.0,,2.0,9.0
+193,Duke,2020,5,Libby Thompson,Libby Thompson,Thompson,Libby,Sr,F,,,16.0,5.0,2.0,,,,3.0,,,5.0
+193,Duke,2020,9,Lily Posternak,Lily Posternak,Posternak,Lily,Sr,M,,,16.0,16.0,2.0,,,1.0,2.0,,4.0,9.0
+193,Duke,2020,14,Lexi Davidson,Lexi Davidson,Davidson,Lexi,Sr,B,,,16.0,16.0,2.0,,,,,,4.0,4.0
+193,Duke,2020,4,Leah Crouse,Leah Crouse,Crouse,Leah,Jr,F,,,10.0,9.0,2.0,,,,,,1.0,5.0
+193,Duke,2020,2,Caroline Hanan,Caroline Hanan,Hanan,Caroline,Jr,B,,,16.0,16.0,,,,1.0,1.0,,,2.0
+193,Duke,2020,6,Olivia Sahaydak,Olivia Sahaydak,Sahaydak,Olivia,Jr,F,,,10.0,,,,,,,,,2.0
+193,Duke,2020,8,Noor Van de Laar,Noor Van de Laar,Laar,Noor,Jr,M,,,16.0,10.0,3.0,,,,1.0,,,11.0
+193,Duke,2020,1,Mary Harkins,Mary Harkins,Harkins,Mary,So,B,,,16.0,3.0,,,,,,,3.0,
+193,Duke,2020,22,Kelsey Reznick,Kelsey Reznick,Reznick,Kelsey,So,M,,,15.0,5.0,,,,1.0,1.0,,1.0,7.0
+193,Duke,2020,15,Josie Varney,Josie Varney,Varney,Josie,So,M,,,16.0,10.0,1.0,,,,4.0,,,9.0
+193,Duke,2020,3,Hannah Miller,Hannah Miller,Miller,Hannah,So,F,,,16.0,16.0,3.0,,,1.0,5.0,,6.0,21.0
+193,Duke,2020,10,Eva Nunnink,Eva Nunnink,Nunnink,Eva,Sr,M,,,16.0,16.0,3.0,,,,1.0,,2.0,43.0
+193,Duke,2020,7,Darcy Bourne,Darcy Bourne,Bourne,Darcy,Fr,M,,,16.0,16.0,8.0,,,1.0,2.0,,1.0,46.0
+193,Duke,2020,26,Barbara Civitella,Barbara Civitella,Civitella,Barbara,Fr,M,,,15.0,,,,,,,,1.0,1.0
+193,Duke,2020,33,Alayna Burns,Alayna Burns,Burns,Alayna,Fr,F,,,16.0,10.0,2.0,,,,,,1.0,5.0
+220,Fairfield,2020,16,Michaela Harrington,Michaela Harrington,Harrington,Michaela,Jr,F,,,4.0,,,,,,,,,1.0
+220,Fairfield,2020,4,Gabby Saxon,Gabby Saxon,Saxon,Gabby,Jr,M,,,7.0,1.0,,,,,,,,1.0
+220,Fairfield,2020,1,Danielle Profita,Danielle Profita,Profita,Danielle,Sr,F,,,7.0,7.0,1.0,,,,1.0,,1.0,6.0
+220,Fairfield,2020,11,Emma Matlach,Emma Matlach,Matlach,Emma,Sr,F,,,6.0,6.0,2.0,,,,2.0,,1.0,14.0
+220,Fairfield,2020,3,Meghann Maguire,Meghann Maguire,Maguire,Meghann,Sr,M,,,6.0,3.0,1.0,,,,,,1.0,5.0
+220,Fairfield,2020,7,Kelly Buckley,Kelly Buckley,Buckley,Kelly,Sr,B,,,7.0,7.0,2.0,,,1.0,,,,9.0
+220,Fairfield,2020,10,Faith Spaziano,Faith Spaziano,Spaziano,Faith,Jr,F,,,7.0,3.0,2.0,,,,,,,7.0
+220,Fairfield,2020,17,Luzi Persiehl,Luzi Persiehl,Persiehl,Luzi,Jr,B,,,7.0,7.0,,,,,1.0,,5.0,12.0
+220,Fairfield,2020,19,Malen Iglesias,Malen Iglesias,Iglesias,Malen,Jr,M,,,7.0,7.0,2.0,,,,,,1.0,14.0
+220,Fairfield,2020,23,Ymke Huisman,Ymke Huisman,Huisman,Ymke,Jr,M,,,7.0,6.0,,,,,1.0,,,4.0
+220,Fairfield,2020,18,Jolanda Richter,Jolanda Richter,Richter,Jolanda,Jr,F,,,5.0,,,,,,,,1.0,2.0
+220,Fairfield,2020,2,Julianna KRATZ,Julianna KRATZ,KRATZ,Julianna,So,F,,,7.0,3.0,4.0,,,,,,1.0,11.0
+220,Fairfield,2020,20,Madison HOSKINS,Madison HOSKINS,HOSKINS,Madison,So,,,,7.0,6.0,,,,,,,1.0,4.0
+220,Fairfield,2020,14,Page LOWRY,Page LOWRY,LOWRY,Page,So,,,,5.0,,,,,,1.0,,,2.0
+220,Fairfield,2020,15,Katie KEANE,Katie KEANE,KEANE,Katie,So,,,,4.0,,,,,,,,,1.0
+220,Fairfield,2020,8,McKenna DOLAN,McKenna DOLAN,DOLAN,McKenna,So,F,,,2.0,,,,,,,,,1.0
+220,Fairfield,2020,27,Carmel Van Dijk,Carmel Van Dijk,Dijk,Carmel,Fr,F,,,7.0,,,,,,,,1.0,2.0
+220,Fairfield,2020,6,Emily Halderson,Emily Halderson,Halderson,Emily,Sr,B,,,7.0,7.0,2.0,,,,,,1.0,2.0
+220,Fairfield,2020,21,Anna Grace Whitaker,Anna Grace Whitaker,Whitaker,Anna,Fr,F,,,2.0,,,,,,,,,1.0
+283,Hofstra,2020,6,Meredith Pfennig,Meredith Pfennig,Pfennig,Meredith,Sr,F,,,12.0,12.0,,,,,2.0,,,
+283,Hofstra,2020,17,Jordan Thompson,Jordan Thompson,Thompson,Jordan,Sr,M,,,5.0,1.0,,,,,,,,1.0
+283,Hofstra,2020,19,Colette Euksuzian,Colette Euksuzian,Euksuzian,Colette,Sr,F,,,3.0,1.0,,,,,,,,1.0
+283,Hofstra,2020,3,Frankie O'Brien,Frankie O'Brien,O'Brien,Frankie,Sr,D,,,12.0,12.0,1.0,,,,,,1.0,4.0
+283,Hofstra,2020,16,Haley Carter,Haley Carter,Carter,Haley,Jr,B,,,12.0,,,,,2.0,,,,1.0
+283,Hofstra,2020,8,Djuna Slort,Djuna Slort,Slort,Djuna,Jr,B,,,12.0,12.0,2.0,,,1.0,,,1.0,17.0
+283,Hofstra,2020,5,Mercy Jasterzenski,Mercy Jasterzenski,Jasterzenski,Mercy,Jr,F,,,12.0,,1.0,,,,,,,1.0
+283,Hofstra,2020,13,Camila Larsson,Camila Larsson,Larsson,Camila,Jr,B,,,12.0,12.0,2.0,,,1.0,1.0,,2.0,11.0
+283,Hofstra,2020,20,Mercedes Currie,Mercedes Currie,Currie,Mercedes,So,M,,,12.0,11.0,3.0,,,,1.0,,,5.0
+283,Hofstra,2020,27,Sydney LeGuillow,Sydney LeGuillow,LeGuillow,Sydney,So,F,,,12.0,1.0,,,,,1.0,,,3.0
+283,Hofstra,2020,28,Samantha Spera,Samantha Spera,Spera,Samantha,So,M,,,10.0,1.0,,,,,,,,1.0
+283,Hofstra,2020,23,Jasmijn Verdoes,Jasmijn Verdoes,Verdoes,Jasmijn,Fr,F,,,12.0,12.0,5.0,,,,,,5.0,26.0
+283,Hofstra,2020,22,Cami Valor,Cami Valor,Valor,Cami,Fr,F,,,12.0,10.0,1.0,,,,1.0,,,5.0
+283,Hofstra,2020,24,Esmee Verdoes,Esmee Verdoes,Verdoes,Esmee,Fr,M,,,12.0,11.0,,,,,,,1.0,2.0
+283,Hofstra,2020,4,Karissa Hough,Karissa Hough,Hough,Karissa,Fr,M,,,12.0,12.0,,,,,,,2.0,
+283,Hofstra,2020,21,Gabriela Espinoza,Gabriela Espinoza,Espinoza,Gabriela,Fr,M,,,12.0,12.0,1.0,,,1.0,3.0,,,2.0
+285,Holy Cross,2020,10,Emily Devine,Emily Devine,Devine,Emily,Sr,M,,,5.0,5.0,,,,,,,,3.0
+285,Holy Cross,2020,24,Kristen Weber,Kristen Weber,Weber,Kristen,Sr,M,,,6.0,6.0,1.0,,,,2.0,,1.0,18.0
+285,Holy Cross,2020,21,Minke Koomen,Minke Koomen,Koomen,Minke,Sr,M,,,6.0,2.0,,,,,1.0,,1.0,4.0
+285,Holy Cross,2020,3,Courtney McMullen,Courtney McMullen,McMullen,Courtney,Sr,M,,,6.0,3.0,,,,,,,1.0,2.0
+285,Holy Cross,2020,9,Olivia Venezia,Olivia Venezia,Venezia,Olivia,Sr,B,,,6.0,6.0,,,,,,,,3.0
+285,Holy Cross,2020,2,Keely Smith,Keely Smith,Smith,Keely,Jr,F,,,6.0,3.0,,,,,,,1.0,3.0
+285,Holy Cross,2020,8,Caitlin Little,Caitlin Little,Little,Caitlin,Jr,B,,,5.0,5.0,1.0,,,,2.0,,,8.0
+285,Holy Cross,2020,11,Anna Vrountas,Anna Vrountas,Vrountas,Anna,Jr,M,,,1.0,,,,,,1.0,,,
+285,Holy Cross,2020,5,Lily Watson,Lily Watson,Watson,Lily,Jr,M,,,6.0,6.0,1.0,,,,1.0,,1.0,1.0
+285,Holy Cross,2020,6,Gabby Venezia,Gabby Venezia,Venezia,Gabby,So,M,,,6.0,6.0,,,,,,,2.0,5.0
+285,Holy Cross,2020,1,Rachel Perry,Rachel Perry,Perry,Rachel,So,F,,,5.0,2.0,3.0,,,,,,,4.0
+285,Holy Cross,2020,16,Sinead Walsh,Sinead Walsh,Walsh,Sinead,So,M,,,6.0,6.0,,,,,,,,14.0
+285,Holy Cross,2020,18,Emily Dionne,Emily Dionne,Dionne,Emily,So,M,,,6.0,,,,,,,,,1.0
+285,Holy Cross,2020,14,Katie Guden,Katie Guden,Guden,Katie,Fr,M,,,6.0,1.0,,,,,,,,1.0
+285,Holy Cross,2020,15,Allie McDonough,Allie McDonough,McDonough,Allie,Fr,F,,,6.0,2.0,1.0,,,,1.0,,,8.0
+285,Holy Cross,2020,22,Meaghan Noone,Meaghan Noone,Noone,Meaghan,Fr,B,,,2.0,,,,,,,,,1.0
+306,Indiana,2020,17,Sofia Keen,Sofia Keen,Keen,Sofia,Sr,B,,,15.0,15.0,,,,,1.0,,,
+306,Indiana,2020,12,Mary Kate Kesler,Mary Kate Kesler,Kesler,Mary,Jr,M,,,15.0,15.0,3.0,,,1.0,,,,15.0
+306,Indiana,2020,20,Maddie Boehm,Maddie Boehm,Boehm,Maddie,Jr,F,,,15.0,15.0,,,,,1.0,,,4.0
+306,Indiana,2020,21,Peyton Becker,Peyton Becker,Becker,Peyton,Jr,F,,,15.0,15.0,1.0,,,,,,,4.0
+306,Indiana,2020,26,Jessica McGivern,Jessica McGivern,McGivern,Jessica,Jr,M,,,13.0,11.0,,,,,,,,1.0
+306,Indiana,2020,16,Kennedy Reardon,Kennedy Reardon,Reardon,Kennedy,So,M,,,15.0,15.0,1.0,,,,,,,5.0
+306,Indiana,2020,9,Madison Guyer,Madison Guyer,Guyer,Madison,So,B,,,13.0,6.0,,,,,,,,2.0
+306,Indiana,2020,4,Sydney Keld,Sydney Keld,Keld,Sydney,So,B,,,2.0,1.0,,,,,,,,1.0
+306,Indiana,2020,14,Anna Gwiazdzinkski,Anna Gwiazdzinkski,Gwiazdzinkski,Anna,Fr,M,,,13.0,13.0,1.0,,,,1.0,,,16.0
+306,Indiana,2020,8,Emma Martin,Emma Martin,Martin,Emma,Fr,B,,,15.0,12.0,1.0,,,,1.0,,3.0,1.0
+306,Indiana,2020,6,Meghan Dillon,Meghan Dillon,Dillon,Meghan,Fr,F,,,15.0,15.0,,,,,1.0,,2.0,9.0
+306,Indiana,2020,11,Sophie Giltrap,Sophie Giltrap,Giltrap,Sophie,Fr,M,,,14.0,13.0,,,,,,,,5.0
+306,Indiana,2020,19,Taylor Etling,Taylor Etling,Etling,Taylor,Fr,B,,,15.0,,,,,,,,,1.0
+306,Indiana,2020,1,Jemima Cookson,Jemima Cookson,Cookson,Jemima,Fr,F,,,4.0,4.0,,,,,,,1.0,
+312,Iowa,2020,2,Emily Deuell,Emily Deuell,Deuell,Emily,Sr,,,,1.0,,,,,,,,,1.0
+312,Iowa,2020,26,Maddy Murphy,Maddy Murphy,Murphy,Maddy,Sr,,,,17.0,17.0,8.0,,,1.0,,,2.0,38.0
+312,Iowa,2020,7,Ellie Holley,Ellie Holley,Holley,Ellie,Sr,,,,18.0,18.0,3.0,,,1.0,2.0,,7.0,28.0
+312,Iowa,2020,8,Nikki Freeman,Nikki Freeman,Freeman,Nikki,Sr,,,,18.0,18.0,1.0,,,,1.0,,,7.0
+312,Iowa,2020,21,Makenna Maguire,Makenna Maguire,Maguire,Makenna,Jr,M,,,18.0,5.0,1.0,,,,,,,4.0
+312,Iowa,2020,13,Leah Zellner,Leah Zellner,Zellner,Leah,Jr,F,,,18.0,18.0,,,,,,,3.0,17.0
+312,Iowa,2020,6,Anthe Nijziel,Anthe Nijziel,Nijziel,Anthe,Jr,B,,,18.0,18.0,2.0,,,,,,3.0,25.0
+312,Iowa,2020,14,Lokke Stribos,Lokke Stribos,Stribos,Lokke,Sr,B,,,18.0,18.0,2.0,,,,,,2.0,28.0
+312,Iowa,2020,17,Ciara Smith,Ciara Smith,Smith,Ciara,Jr,F,,,18.0,7.0,2.0,,,1.0,2.0,,,15.0
+312,Iowa,2020,9,Sofie Stribos,Sofie Stribos,Stribos,Sofie,So,,,,18.0,18.0,2.0,,,,1.0,,1.0,15.0
+312,Iowa,2020,22,Ellie Flynn,Ellie Flynn,Flynn,Ellie,So,,,,17.0,2.0,,,,,,,,2.0
+312,Iowa,2020,15,Esme Gibson,Esme Gibson,Gibson,Esme,So,,,,18.0,17.0,2.0,,,,1.0,,2.0,14.0
+312,Iowa,2020,4,Alex Wesneski,Alex Wesneski,Wesneski,Alex,Fr,,,,18.0,6.0,3.0,,,,1.0,,2.0,12.0
+312,Iowa,2020,23,Harper Dunne,Harper Dunne,Dunne,Harper,Fr,,,,18.0,18.0,,,,,,,,3.0
+317,James Madison,2020,24,Rachel Yeager,Rachel Yeager,Yeager,Rachel,Sr,M,,,8.0,8.0,1.0,,,,,,3.0,5.0
+317,James Madison,2020,8,Phoebe Large,Phoebe Large,Large,Phoebe,Sr,M,,,8.0,7.0,,,,,,,,6.0
+317,James Madison,2020,22,Aubrey Scott King,Aubrey Scott King,King,Aubrey,Jr,M,,,7.0,,,,,,1.0,,,
+317,James Madison,2020,7,Kara McClure,Kara McClure,McClure,Kara,Jr,M,,,8.0,8.0,1.0,,,,,,1.0,2.0
+317,James Madison,2020,10,Caroline Cahill,Caroline Cahill,Cahill,Caroline,Jr,M,,,8.0,8.0,4.0,,,,2.0,,1.0,23.0
+317,James Madison,2020,14,Courtney Lynch,Courtney Lynch,Lynch,Courtney,Jr,M,,,7.0,3.0,2.0,,,,,,3.0,4.0
+317,James Madison,2020,9,Eveline Zwager,Eveline Zwager,Zwager,Eveline,So,F,,,7.0,7.0,5.0,,,,,,4.0,27.0
+317,James Madison,2020,13,Biz Van Scoten,Biz Van Scoten,Scoten,Biz,So,M,,,1.0,,,,,,,,,1.0
+317,James Madison,2020,21,Emily Harrison,Emily Harrison,Harrison,Emily,So,M,,,8.0,7.0,4.0,,,1.0,2.0,,1.0,7.0
+317,James Madison,2020,11,Diede Remijnse,Diede Remijnse,Remijnse,Diede,So,M,,,7.0,6.0,,,,,,,,1.0
+317,James Madison,2020,23,Mikenna Allen,Mikenna Allen,Allen,Mikenna,So,F,,,6.0,1.0,,,,,,,,1.0
+317,James Madison,2020,25,Morgan Merritt,Morgan Merritt,Merritt,Morgan,So,M,,,8.0,8.0,1.0,,,,,,1.0,15.0
+317,James Madison,2020,12,Sarah Beers,Sarah Beers,Beers,Sarah,Fr,d,,,8.0,8.0,,,,,,,1.0,2.0
+317,James Madison,2020,19,Mia Julian,Mia Julian,Julian,Mia,Fr,,,,6.0,,,,,,,,,2.0
+317,James Madison,2020,2,Tori Carawan,Tori Carawan,Carawan,Tori,Fr,f,,,7.0,6.0,2.0,,,,,,,8.0
+317,James Madison,2020,20,Lauren Satchell,Lauren Satchell,Satchell,Lauren,Fr,,,,5.0,1.0,2.0,,,,,,,4.0
+317,James Madison,2020,4,Zoe Campisi,Zoe Campisi,Campisi,Zoe,Fr,,,,4.0,,,,,,1.0,,1.0,
+331,Kent St.,2020,24,Emma Bressler,Emma Bressler,Bressler,Emma,Sr,B,,,14.0,14.0,6.0,,,,,,5.0,35.0
+331,Kent St.,2020,15,Ashley Bonetz,Ashley Bonetz,Bonetz,Ashley,Sr,M,,,14.0,14.0,1.0,,,,,,5.0,4.0
+331,Kent St.,2020,26,Clara Rodriguez Seto,Clara Rodriguez Seto,Seto,Clara,Sr,B,,,14.0,14.0,6.0,,,,2.0,,8.0,19.0
+331,Kent St.,2020,7,Sydney Carr,Sydney Carr,Carr,Sydney,Jr,F,,,14.0,5.0,2.0,,,,1.0,,2.0,9.0
+331,Kent St.,2020,19,Luisa Knapp,Luisa Knapp,Knapp,Luisa,Jr,F,,,14.0,13.0,3.0,,,,,,2.0,14.0
+331,Kent St.,2020,22,Helena Cambra Soler,Helena Cambra Soler,Soler,Helena,Jr,M,,,14.0,14.0,5.0,,,1.0,1.0,,5.0,9.0
+331,Kent St.,2020,9,Maria Cambra Soler,Maria Cambra Soler,Soler,Maria,So,B,,,14.0,14.0,1.0,,,,,,5.0,29.0
+331,Kent St.,2020,16,Sydney Washburn,Sydney Washburn,Washburn,Sydney,So,F,,,14.0,14.0,8.0,,,,,,2.0,22.0
+331,Kent St.,2020,21,Claudia Ortiz,Claudia Ortiz,Ortiz,Claudia,So,F,,,7.0,1.0,1.0,,,1.0,,,,2.0
+331,Kent St.,2020,25,Larissa Balachick,Larissa Balachick,Balachick,Larissa,So,M,,,10.0,6.0,1.0,,,,,,2.0,10.0
+331,Kent St.,2020,12,Caitlin Holland,Caitlin Holland,Holland,Caitlin,So,M,,,14.0,7.0,2.0,,,,,,,6.0
+331,Kent St.,2020,5,Victoria Tinghitella,Victoria Tinghitella,Tinghitella,Victoria,Fr,M,,,14.0,,1.0,,,,,,,2.0
+331,Kent St.,2020,14,Jenna McCrudden,Jenna McCrudden,McCrudden,Jenna,Fr,M,,,14.0,5.0,2.0,,,,1.0,,1.0,13.0
+331,Kent St.,2020,11,Katie Wuerstle,Katie Wuerstle,Wuerstle,Katie,Fr,F,,,14.0,5.0,7.0,,,,2.0,,1.0,28.0
+361,LIU,2020,23,Alyssa Hunt,Alyssa Hunt,Hunt,Alyssa,So,M,,,5.0,3.0,,,,,,,,1.0
+361,LIU,2020,22,Maddie Leitner,Maddie Leitner,Leitner,Maddie,Jr,F,,,6.0,,,,,,,,,2.0
+361,LIU,2020,3,Michaela Zabicki,Michaela Zabicki,Zabicki,Michaela,Jr,B,,,6.0,6.0,,,,,,,3.0,2.0
+361,LIU,2020,9,Sammy Bell,Sammy Bell,Bell,Sammy,Sr,F,,,5.0,5.0,1.0,,,,,,1.0,12.0
+361,LIU,2020,24,Emma Braeckmans,Emma Braeckmans,Braeckmans,Emma,Jr,F,,,6.0,6.0,1.0,,,,1.0,,,1.0
+361,LIU,2020,1,Alexis Ruiz,Alexis Ruiz,Ruiz,Alexis,So,M,,,6.0,5.0,1.0,,,,3.0,,,3.0
+361,LIU,2020,7,Emilce Paez,Emilce Paez,Paez,Emilce,Fr,F,,,6.0,6.0,,,,1.0,2.0,,1.0,6.0
+361,LIU,2020,12,Sol Espona,Sol Espona,Espona,Sol,Fr,F,,,6.0,6.0,4.0,,,,1.0,,,18.0
+361,LIU,2020,20,Micaela Skibski,Micaela Skibski,Skibski,Micaela,Fr,B,,,6.0,6.0,,,,,,,,2.0
+361,LIU,2020,27,Paula Palacio,Paula Palacio,Palacio,Paula,Fr,M,,,6.0,3.0,,,,,3.0,,,
+340,La Salle,2020,20,Rialee Allen,Rialee Allen,Allen,Rialee,Sr,F,,,11.0,11.0,1.0,,,,,,,8.0
+340,La Salle,2020,17,Tori Wright,Tori Wright,Wright,Tori,Jr,M,,,11.0,11.0,,,,,,,2.0,4.0
+340,La Salle,2020,42,Casey Reilly,Casey Reilly,Reilly,Casey,So,F,,,11.0,,,,,,,,,2.0
+340,La Salle,2020,14,Samie Hackman,Samie Hackman,Hackman,Samie,So,F,,,11.0,11.0,2.0,,,,,,,7.0
+340,La Salle,2020,1,Hannah Yanovich,Hannah Yanovich,Yanovich,Hannah,So,F,,,11.0,11.0,1.0,,,,,,,4.0
+340,La Salle,2020,12,Kelsey Jones,Kelsey Jones,Jones,Kelsey,So,M,,,11.0,11.0,1.0,,,,,,,3.0
+340,La Salle,2020,21,Natalie Biliunas,Natalie Biliunas,Biliunas,Natalie,So,F,,,11.0,6.0,1.0,,,,2.0,,1.0,4.0
+340,La Salle,2020,25,Nanouk Heersma,Nanouk Heersma,Heersma,Nanouk,Fr,B,,,11.0,11.0,1.0,,,1.0,2.0,,,6.0
+340,La Salle,2020,2,Paige Doyle,Paige Doyle,Doyle,Paige,Fr,M,,,11.0,7.0,,,,,2.0,,,6.0
+340,La Salle,2020,3,Tatum Johnson,Tatum Johnson,Johnson,Tatum,Fr,F,,,11.0,10.0,1.0,,,1.0,1.0,,3.0,10.0
+340,La Salle,2020,19,Cat McFadden,Cat McFadden,McFadden,Cat,Fr,M,,,7.0,4.0,,,,,2.0,,,5.0
+342,Lafayette,2020,12,Tara Hamilton,Tara Hamilton,Hamilton,Tara,So,F,,,6.0,2.0,2.0,,,,1.0,,,4.0
+342,Lafayette,2020,21,Grace Angelella,Grace Angelella,Angelella,Grace,Sr,F,,,6.0,6.0,1.0,,,,,,,3.0
+342,Lafayette,2020,25,Anna Steps,Anna Steps,Steps,Anna,Sr,M,,,6.0,6.0,,,,,1.0,,2.0,2.0
+342,Lafayette,2020,16,Audrey Sawers,Audrey Sawers,Sawers,Audrey,Sr,M,,,6.0,6.0,4.0,,,,1.0,,2.0,18.0
+342,Lafayette,2020,20,Sophie Carr,Sophie Carr,Carr,Sophie,Sr,F,,,6.0,4.0,,,,,,,1.0,1.0
+342,Lafayette,2020,7,Alix Talkow,Alix Talkow,Talkow,Alix,Jr,F,,,6.0,2.0,,,,,1.0,,,4.0
+342,Lafayette,2020,1,Molly McAndrew,Molly McAndrew,McAndrew,Molly,Jr,F,,,6.0,6.0,,,,1.0,,,,13.0
+342,Lafayette,2020,23,Simone Hefting,Simone Hefting,Hefting,Simone,So,B,,,4.0,4.0,1.0,,,,,,,4.0
+342,Lafayette,2020,15,Felicitas Hannes,Felicitas Hannes,Hannes,Felicitas,So,F,,,6.0,6.0,,,,,,,,5.0
+342,Lafayette,2020,4,Sydney Woolston,Sydney Woolston,Woolston,Sydney,So,B,,,6.0,6.0,,,,,1.0,,,
+352,Lehigh,2020,8,Lenke Havas,Lenke Havas,Havas,Lenke,Sr,M,,,5.0,5.0,3.0,,,,,,,14.0
+352,Lehigh,2020,17,Drew Pecora,Drew Pecora,Pecora,Drew,Sr,M,,,5.0,5.0,,,,,,,1.0,9.0
+352,Lehigh,2020,10,Olivia Perrone,Olivia Perrone,Perrone,Olivia,Jr,M,,,5.0,5.0,,,,,1.0,,1.0,10.0
+352,Lehigh,2020,3,Leah Mullery,Leah Mullery,Mullery,Leah,Jr,M,,,3.0,2.0,,,,,,,,2.0
+352,Lehigh,2020,9,Sam Nason,Sam Nason,Nason,Sam,Jr,M,,,3.0,2.0,,,,,,,1.0,1.0
+352,Lehigh,2020,12,MJ Schwab,MJ Schwab,Schwab,MJ,So,B,,,5.0,3.0,2.0,,,,,,,5.0
+352,Lehigh,2020,1,Sydney White,Sydney White,White,Sydney,So,M,,,5.0,5.0,,,,,1.0,,1.0,
+352,Lehigh,2020,23,Cece Slaughter,Cece Slaughter,Slaughter,Cece,So,M,,,5.0,,,,,,,,,4.0
+352,Lehigh,2020,20,Sarah Bonthuis,Sarah Bonthuis,Bonthuis,Sarah,So,M,,,5.0,5.0,,,,,,,1.0,2.0
+352,Lehigh,2020,7,Anna Piecuch,Anna Piecuch,Piecuch,Anna,So,F,,,5.0,,,,,,,,,1.0
+352,Lehigh,2020,4,Abbie Brown,Abbie Brown,Brown,Abbie,Fr,M,,,5.0,5.0,,,,,,,,1.0
+352,Lehigh,2020,21,Julia Gatelein,Julia Gatelein,Gatelein,Julia,Fr,M,,,5.0,5.0,3.0,,,,,,,10.0
+352,Lehigh,2020,13,Lotte Smorenburg,Lotte Smorenburg,Smorenburg,Lotte,Fr,F,,,5.0,5.0,,,,,,,,5.0
+355,Liberty,2020,25,Jill Bolton,Jill Bolton,Bolton,Jill,Sr,F,,,16.0,16.0,14.0,,,2.0,1.0,,13.0,65.0
+355,Liberty,2020,19,Alexis Paone,Alexis Paone,Paone,Alexis,Sr,M,,,16.0,16.0,,,,,2.0,,,1.0
+355,Liberty,2020,7,Kendra Jones,Kendra Jones,Jones,Kendra,Sr,M,,,16.0,16.0,,,,,,,7.0,8.0
+355,Liberty,2020,30,Darby Brennan,Darby Brennan,Brennan,Darby,Jr,F,,,16.0,,,,,1.0,,,,
+355,Liberty,2020,16,Maddie Hosler,Maddie Hosler,Hosler,Maddie,Jr,M,,,16.0,16.0,,,,,1.0,,,4.0
+355,Liberty,2020,1,Lizzie Hamlett,Lizzie Hamlett,Hamlett,Lizzie,Jr,M,,,16.0,16.0,1.0,,,1.0,,,6.0,16.0
+355,Liberty,2020,9,Charlotte Vaanhold,Charlotte Vaanhold,Vaanhold,Charlotte,Jr,F,,,16.0,16.0,10.0,,,1.0,1.0,,2.0,28.0
+355,Liberty,2020,10,Daniella Rhodes,Daniella Rhodes,Rhodes,Daniella,So,F,,,16.0,16.0,16.0,,,,1.0,,6.0,53.0
+355,Liberty,2020,5,Bethany Dykema,Bethany Dykema,Dykema,Bethany,So,M,,,16.0,16.0,4.0,,,,2.0,,12.0,18.0
+355,Liberty,2020,20,Mackinzie Thompson,Mackinzie Thompson,Thompson,Mackinzie,So,F,,,16.0,,2.0,,,,,,2.0,8.0
+355,Liberty,2020,26,Julie Daels,Julie Daels,Daels,Julie,Fr,F,,,16.0,,2.0,,,1.0,,,1.0,9.0
+355,Liberty,2020,2,Reagan Underwood,Reagan Underwood,Underwood,Reagan,Fr,M,,,16.0,16.0,,,,,1.0,,2.0,7.0
+355,Liberty,2020,8,Jodie Conolly,Jodie Conolly,Conolly,Jodie,So,M,,,16.0,16.0,7.0,,,,2.0,,2.0,40.0
+355,Liberty,2020,15,Lexi Hosler,Lexi Hosler,Hosler,Lexi,Fr,M,,,16.0,,1.0,,,,,,,4.0
+360,Lock Haven,2020,10,Martina Spangenberg,Martina Spangenberg,Spangenberg,Martina,Fr,M,,,6.0,6.0,3.0,,,1.0,4.0,,,9.0
+360,Lock Haven,2020,5,Ellie Mead,Ellie Mead,Mead,Ellie,So,M,,,6.0,4.0,,,,,,,,2.0
+360,Lock Haven,2020,11,Anna May Barbusca,Anna May Barbusca,Barbusca,Anna,Fr,M,,,6.0,6.0,,,,,,,1.0,1.0
+360,Lock Haven,2020,8,Tia Judy,Tia Judy,Judy,Tia,Sr,M,,,6.0,6.0,,,,,,,1.0,1.0
+360,Lock Haven,2020,16,Niamh Sexton,Niamh Sexton,Sexton,Niamh,Sr,M,,,5.0,5.0,,,,,,,,2.0
+360,Lock Haven,2020,4,Prabhneet Basra,Prabhneet Basra,Basra,Prabhneet,Sr,M,,,6.0,6.0,1.0,,,,,,,3.0
+360,Lock Haven,2020,15,Karina Long,Karina Long,Long,Karina,Jr,M,,,6.0,6.0,,,,,,,,3.0
+360,Lock Haven,2020,12,Billie Jo Bollinger,Billie Jo Bollinger,Bollinger,Billie,Jr,M,,,6.0,6.0,,,,,,,,1.0
+360,Lock Haven,2020,27,Amy Stevens,Amy Stevens,Stevens,Amy,So,M,,,6.0,6.0,2.0,,,,,,1.0,15.0
+360,Lock Haven,2020,14,Jazmin Palma,Jazmin Palma,Palma,Jazmin,So,M,,,6.0,6.0,2.0,,,1.0,,,,17.0
+360,Lock Haven,2020,28,Allison Horton,Allison Horton,Horton,Allison,So,M,,,5.0,2.0,1.0,,,,,,,4.0
+363,Longwood,2020,11,Karly Harwood,Karly Harwood,Harwood,Karly,Sr,F,,,11.0,11.0,8.0,,,,2.0,,1.0,24.0
+363,Longwood,2020,17,Charlotte Wilm,Charlotte Wilm,Wilm,Charlotte,Sr,M,,,11.0,11.0,,,,,,,2.0,6.0
+363,Longwood,2020,23,Cammy Toddy,Cammy Toddy,Toddy,Cammy,Sr,M,,,11.0,11.0,1.0,,,,1.0,,,6.0
+363,Longwood,2020,2,Luna Lopez,Luna Lopez,Lopez,Luna,Jr,M,,,8.0,7.0,1.0,,,1.0,2.0,,4.0,11.0
+363,Longwood,2020,7,Kylie Levine,Kylie Levine,Levine,Kylie,Fr,B,,,13.0,,,,,,,,2.0,1.0
+363,Longwood,2020,12,Jamie Wright,Jamie Wright,Wright,Jamie,Jr,F,,,11.0,8.0,,,,,,,8.0,3.0
+363,Longwood,2020,6,Kolbey Donahue,Kolbey Donahue,Donahue,Kolbey,Jr,B,,,11.0,11.0,5.0,,,,1.0,,3.0,35.0
+363,Longwood,2020,14,Sophia Loscher,Sophia Loscher,Loscher,Sophia,Jr,M,,,11.0,11.0,1.0,,,,,,3.0,13.0
+363,Longwood,2020,5,Rio Weber,Rio Weber,Weber,Rio,Jr,B,,,11.0,11.0,1.0,,,,,,1.0,7.0
+363,Longwood,2020,9,Caroline Verhappen,Caroline Verhappen,Verhappen,Caroline,So,B,,,11.0,9.0,1.0,,,,1.0,,,12.0
+363,Longwood,2020,10,Floor Schouten,Floor Schouten,Schouten,Floor,So,F,,,11.0,1.0,1.0,,,,1.0,,,2.0
+363,Longwood,2020,3,Isis Vrolijks,Isis Vrolijks,Vrolijks,Isis,Fr,M,,,10.0,8.0,2.0,,,,1.0,,2.0,8.0
+363,Longwood,2020,8,Zoe Tierney,Zoe Tierney,Tierney,Zoe,Fr,M,,,11.0,,1.0,,,,,,1.0,4.0
+363,Longwood,2020,16,Sydney Paul,Sydney Paul,Paul,Sydney,Fr,F,,,1.0,,,,,,,,,1.0
+363,Longwood,2020,24,Chole Underwood,Chole Underwood,Underwood,Chole,Fr,F,,,3.0,,,,,,,,,1.0
+363,Longwood,2020,27,Ana Paula Lazaro,Ana Paula Lazaro,Lazaro,Ana,Fr,M,,,11.0,9.0,1.0,,,,1.0,,1.0,8.0
+363,Longwood,2020,28,Hunter-Paige Johnson,Hunter-Paige Johnson,Johnson,Hunter-Paige,Fr,F,,,3.0,,1.0,,,,,,,1.0
+363,Longwood,2020,21,Kate Frey,Kate Frey,Frey,Kate,Fr,F,,,11.0,2.0,1.0,,,,,,2.0,4.0
+367,Louisville,2020,20,Katie Schneider,Katie Schneider,Schneider,Katie,Jr,F,,,20.0,14.0,6.0,,,,,,1.0,21.0
+367,Louisville,2020,14,Alli Bitting,Alli Bitting,Bitting,Alli,Sr,B,,,20.0,20.0,2.0,,,,1.0,,8.0,9.0
+367,Louisville,2020,4,Biz Allgeier,Biz Allgeier,Allgeier,Biz,Jr,F,,,7.0,5.0,,,,,,,,6.0
+367,Louisville,2020,11,Mercedes Pastor,Mercedes Pastor,Pastor,Mercedes,Sr,M,,,20.0,20.0,13.0,,,1.0,6.0,,6.0,102.0
+367,Louisville,2020,5,Meghan Schneider,Meghan Schneider,Schneider,Meghan,Sr,B,,,20.0,20.0,1.0,,,2.0,1.0,,7.0,11.0
+367,Louisville,2020,24,Madison Walsh,Madison Walsh,Walsh,Madison,Sr,F,,,10.0,6.0,3.0,,,1.0,,,2.0,9.0
+367,Louisville,2020,8,Mackenzie Karl,Mackenzie Karl,Karl,Mackenzie,Jr,M,,,11.0,,,,,,,,,2.0
+367,Louisville,2020,21,Erica Cooper,Erica Cooper,Cooper,Erica,Jr,M,,,20.0,9.0,2.0,,,3.0,5.0,,,13.0
+367,Louisville,2020,10,Camryn Pichea,Camryn Pichea,Pichea,Camryn,So,M,,,19.0,1.0,,,,,4.0,,,1.0
+367,Louisville,2020,18,Minna Tremonti,Minna Tremonti,Tremonti,Minna,So,M,,,20.0,12.0,,,,1.0,1.0,,2.0,3.0
+367,Louisville,2020,28,Julia Kouijzer,Julia Kouijzer,Kouijzer,Julia,So,B,,,19.0,19.0,1.0,,,,,,1.0,6.0
+367,Louisville,2020,15,Emilia Kaczmarczyk,Emilia Kaczmarczyk,Kaczmarczyk,Emilia,So,B,,,20.0,13.0,4.0,,,,1.0,,3.0,22.0
+367,Louisville,2020,17,India Reed,India Reed,Reed,India,So,B,,,20.0,10.0,,,,,,,1.0,1.0
+367,Louisville,2020,27,Margot Lawn,Margot Lawn,Lawn,Margot,So,F,,,9.0,1.0,4.0,,,,,,,9.0
+367,Louisville,2020,23,Mattie Tabor,Mattie Tabor,Tabor,Mattie,So,M,,,3.0,2.0,,,,,,,1.0,
+367,Louisville,2020,2,Sofia Pendolino,Sofia Pendolino,Pendolino,Sofia,Fr,B,,,12.0,2.0,,,,,,,,2.0
+367,Louisville,2020,3,Charlie van Oirschot,Charlie van Oirschot,Oirschot,Charlie,Fr,M,,,20.0,20.0,4.0,,,,2.0,,2.0,14.0
+367,Louisville,2020,7,Embry Jane Imorde,Embry Jane Imorde,Imorde,Embry,Fr,F,,,14.0,,,,,,,,1.0,4.0
+367,Louisville,2020,19,Paulina Mayer,Paulina Mayer,Mayer,Paulina,Fr,B,,,15.0,9.0,,,,,,,,2.0
+367,Louisville,2020,9,Aimee Plumb,Aimee Plumb,Plumb,Aimee,Fr,M,,,19.0,17.0,6.0,,,,2.0,,3.0,26.0
+367,Louisville,2020,12,Mia Duchars,Mia Duchars,Duchars,Mia,Fr,M,,,9.0,,,,,,,,1.0,
+380,Maine,2020,4,Brittany Smith,Brittany Smith,Smith,Brittany,Sr,F,,,10.0,10.0,2.0,,,,,,2.0,4.0
+380,Maine,2020,22,Tereza Holubcova,Tereza Holubcova,Holubcova,Tereza,Fr,M,,,11.0,11.0,2.0,,,1.0,1.0,,5.0,12.0
+380,Maine,2020,14,Cassandra Mascarenhas,Cassandra Mascarenhas,Mascarenhas,Cassandra,Sr,B,,,4.0,4.0,,,,,,,1.0,3.0
+380,Maine,2020,16,Abby Webber,Abby Webber,Webber,Abby,Sr,F,,,11.0,10.0,,,,,1.0,,1.0,1.0
+380,Maine,2020,7,Hana Davis,Hana Davis,Davis,Hana,Sr,B,,,11.0,11.0,3.0,,,,1.0,,,15.0
+380,Maine,2020,6,Brooke Sulinski,Brooke Sulinski,Sulinski,Brooke,Sr,F,,,11.0,11.0,4.0,,,,,,1.0,13.0
+380,Maine,2020,15,Sydney Meader,Sydney Meader,Meader,Sydney,Jr,F,,,11.0,5.0,,,,,,,,6.0
+380,Maine,2020,3,Hannah Abbott,Hannah Abbott,Abbott,Hannah,Jr,F,,,11.0,4.0,,,,1.0,,,,
+380,Maine,2020,10,Chloe Walton,Chloe Walton,Walton,Chloe,So,F,,,11.0,11.0,6.0,,,2.0,2.0,,2.0,25.0
+380,Maine,2020,12,Julia Ross,Julia Ross,Ross,Julia,So,M,,,11.0,2.0,1.0,,,,,,1.0,8.0
+380,Maine,2020,2,Madisyn Hartley,Madisyn Hartley,Hartley,Madisyn,So,F,,,11.0,11.0,1.0,,,,,,1.0,11.0
+380,Maine,2020,8,Poppy Lambert,Poppy Lambert,Lambert,Poppy,Fr,B,,,11.0,11.0,5.0,,,,,,1.0,29.0
+392,Maryland,2020,8,Brooke DeBerdine,Brooke DeBerdine,DeBerdine,Brooke,Sr,M,,,12.0,12.0,,,,,1.0,,1.0,4.0
+392,Maryland,2020,13,Mayv Clune,Mayv Clune,Clune,Mayv,Jr,F,,,15.0,13.0,1.0,,,,2.0,,2.0,13.0
+392,Maryland,2020,7,Kyler Greenwalt,Kyler Greenwalt,Greenwalt,Kyler,Sr,M,,,15.0,15.0,3.0,,,,,,2.0,9.0
+392,Maryland,2020,22,Riley Donnelly,Riley Donnelly,Donnelly,Riley,Jr,F,,,15.0,15.0,6.0,,,,,,3.0,36.0
+392,Maryland,2020,9,Taylor Mason,Taylor Mason,Mason,Taylor,Jr,F,,,15.0,15.0,2.0,,,,3.0,,,22.0
+392,Maryland,2020,12,Bibi Donraadt,Bibi Donraadt,Donraadt,Bibi,Jr,M,,,15.0,15.0,5.0,,,,1.0,,5.0,21.0
+392,Maryland,2020,16,Emma DeBerdine,Emma DeBerdine,DeBerdine,Emma,So,M,,,15.0,15.0,3.0,,,,5.0,,2.0,17.0
+392,Maryland,2020,10,Belle Bressler,Belle Bressler,Bressler,Belle,So,M,,,13.0,6.0,,,,,,,1.0,1.0
+392,Maryland,2020,2,Sam Zywna,Sam Zywna,Zywna,Sam,So,F,,,15.0,,1.0,,,,,,,2.0
+392,Maryland,2020,5,Nathalie Fiechter,Nathalie Fiechter,Fiechter,Nathalie,So,M,,,15.0,13.0,,,,,,,2.0,2.0
+392,Maryland,2020,14,Anna Castaldo,Anna Castaldo,Castaldo,Anna,Fr,M,,,15.0,3.0,1.0,,,,,,1.0,13.0
+392,Maryland,2020,4,Maura Verleg,Maura Verleg,Verleg,Maura,Fr,B,,,15.0,15.0,3.0,,,,3.0,,5.0,8.0
+392,Maryland,2020,17,Rayne Wright,Rayne Wright,Wright,Rayne,Fr,B,,,15.0,13.0,,,,,,,,1.0
+392,Maryland,2020,11,Anoushka Chiswell,Anoushka Chiswell,Chiswell,Anoushka,Fr,F,,,2.0,,,,,,,,,1.0
+400,Massachusetts,2020,12,Georgie McTear,Georgie McTear,McTear,Georgie,Sr,M,,,10.0,9.0,7.0,,,,,,3.0,41.0
+400,Massachusetts,2020,3,Mus Defauwes,Mus Defauwes,Defauwes,Mus,Jr,M,,,11.0,,1.0,,,1.0,,,,12.0
+400,Massachusetts,2020,13,Sophie Johnson,Sophie Johnson,Johnson,Sophie,Jr,B,,,11.0,10.0,,,,2.0,,,,
+400,Massachusetts,2020,22,Katherine Furry,Katherine Furry,Furry,Katherine,Jr,F,,,7.0,,1.0,,,,,,,5.0
+400,Massachusetts,2020,4,Bella Ianni,Bella Ianni,Ianni,Bella,So,M,,,11.0,9.0,1.0,,,,,,1.0,17.0
+400,Massachusetts,2020,10,Emily Crawford,Emily Crawford,Crawford,Emily,So,F,,,11.0,8.0,1.0,,,,1.0,,1.0,7.0
+400,Massachusetts,2020,11,Emilie Keij,Emilie Keij,Keij,Emilie,So,M,,,11.0,11.0,,,,,1.0,,1.0,1.0
+400,Massachusetts,2020,47,Steph Gottwals,Steph Gottwals,Gottwals,Steph,So,M,,,11.0,11.0,1.0,,,1.0,,,1.0,13.0
+400,Massachusetts,2020,14,Josie Rossbach,Josie Rossbach,Rossbach,Josie,So,B,,,11.0,11.0,1.0,,,,,,,3.0
+400,Massachusetts,2020,21,Jessica Beech,Jessica Beech,Beech,Jessica,So,M,,,11.0,11.0,6.0,,,,,,2.0,11.0
+400,Massachusetts,2020,7,Claire Danahy,Claire Danahy,Danahy,Claire,Fr,M,,,10.0,9.0,1.0,,,,3.0,,1.0,9.0
+400,Massachusetts,2020,15,Amelie Green,Amelie Green,Green,Amelie,Sr,M,,,11.0,8.0,,,,,,,3.0,9.0
+400,Massachusetts,2020,9,Izzy Acquaviva,Izzy Acquaviva,Acquaviva,Izzy,Fr,M,,,8.0,,,,,,,,,2.0
+400,Massachusetts,2020,16,Josephine Ang,Josephine Ang,Ang,Josephine,Fr,F,,,11.0,4.0,4.0,,,,,,,22.0
+400,Massachusetts,2020,18,Katie Samaranayake,Katie Samaranayake,Samaranayake,Katie,Fr,M,,,11.0,8.0,,,,,,,,1.0
+410,Merrimack,2020,28,Colleen Ellis,Colleen Ellis,Ellis,Colleen,Sr,M,,,5.0,5.0,1.0,,,,1.0,,1.0,10.0
+410,Merrimack,2020,33,Juliane Ohmen,Juliane Ohmen,Ohmen,Juliane,Jr,F,,,5.0,4.0,2.0,,,,,,,8.0
+410,Merrimack,2020,12,Bridget Shanahan,Bridget Shanahan,Shanahan,Bridget,Jr,B,,,5.0,5.0,,,,,1.0,,,1.0
+410,Merrimack,2020,22,Isabelle Duseau,Isabelle Duseau,Duseau,Isabelle,Jr,M,,,5.0,5.0,,1.0,,,,,,1.0
+410,Merrimack,2020,15,Riley Lambert,Riley Lambert,Lambert,Riley,Jr,F,,,5.0,3.0,,,,,1.0,,1.0,2.0
+410,Merrimack,2020,24,Jane Bonazzoli,Jane Bonazzoli,Bonazzoli,Jane,So,M,,,5.0,4.0,,,,,,,,3.0
+410,Merrimack,2020,6,Katie Sawyer,Katie Sawyer,Sawyer,Katie,Fr,M,,,5.0,1.0,,,,,,,,1.0
+410,Merrimack,2020,9,Erica Spallone,Erica Spallone,Spallone,Erica,Fr,F,,,5.0,5.0,,1.0,,,,,,3.0
+410,Merrimack,2020,14,Lauren Burke,Lauren Burke,Burke,Lauren,Fr,M,,,5.0,3.0,1.0,,,,,,,4.0
+410,Merrimack,2020,18,Anne-Sophie Hogenboom,Anne-Sophie Hogenboom,Hogenboom,Anne-Sophie,Fr,B,,,4.0,4.0,,,,,1.0,,,2.0
+414,Miami (OH),2020,55,Macy McHale,Macy McHale,McHale,Macy,Jr,M,,,13.0,2.0,,,,,,,,1.0
+414,Miami (OH),2020,17,Taylor Curran,Taylor Curran,Curran,Taylor,Sr,F,,,15.0,3.0,,,,,,,2.0,8.0
+414,Miami (OH),2020,9,Alexis Nugent,Alexis Nugent,Nugent,Alexis,Sr,F,,,15.0,15.0,7.0,,,,,,,27.0
+414,Miami (OH),2020,10,Allie Grace Joyner,Allie Grace Joyner,Joyner,Allie,Sr,F,,,15.0,15.0,12.0,,,,4.0,,1.0,52.0
+414,Miami (OH),2020,12,Leonor Berlie,Leonor Berlie,Berlie,Leonor,Sr,M,,,15.0,15.0,5.0,,,1.0,4.0,,11.0,64.0
+414,Miami (OH),2020,35,Neely Lochmoeller,Neely Lochmoeller,Lochmoeller,Neely,Sr,M,,,15.0,5.0,3.0,,,,,,2.0,7.0
+414,Miami (OH),2020,1,Morgan Sturm,Morgan Sturm,Sturm,Morgan,Sr,M,,,15.0,15.0,,,,,,,,6.0
+414,Miami (OH),2020,14,Laurel Dortch,Laurel Dortch,Dortch,Laurel,Sr,B,,,7.0,1.0,1.0,,,,,,,2.0
+414,Miami (OH),2020,2,Noor Breedijk,Noor Breedijk,Breedijk,Noor,Jr,M,,,10.0,10.0,1.0,,,,1.0,,1.0,5.0
+414,Miami (OH),2020,24,Mia Gordon,Mia Gordon,Gordon,Mia,Jr,M,,,11.0,,,,,,,,,4.0
+414,Miami (OH),2020,4,Madison Workman,Madison Workman,Workman,Madison,So,M,,,15.0,14.0,1.0,,,,,,1.0,3.0
+414,Miami (OH),2020,11,Sophie Huisman,Sophie Huisman,Huisman,Sophie,Sr,,,,4.0,1.0,,,,,,,,3.0
+414,Miami (OH),2020,13,Paula Pena Martinez,Paula Pena Martinez,Martinez,Paula,Fr,,,,11.0,10.0,4.0,,,,4.0,,3.0,27.0
+414,Miami (OH),2020,3,MaryKate Barbee,MaryKate Barbee,Barbee,MaryKate,Fr,,,,10.0,1.0,,,,,,,,1.0
+414,Miami (OH),2020,20,Jenna Kirby,Jenna Kirby,Kirby,Jenna,Fr,,,,15.0,14.0,2.0,,,,,,3.0,12.0
+414,Miami (OH),2020,18,Luli Rosso,Luli Rosso,Rosso,Luli,So,,,,15.0,15.0,2.0,,,,,,4.0,12.0
+414,Miami (OH),2020,8,Claudia Negrete,Claudia Negrete,Negrete,Claudia,Fr,,,,13.0,13.0,9.0,,,,3.0,,5.0,54.0
+418,Michigan,2020,12,Kayla Reed,Kayla Reed,Reed,Kayla,Sr,M,,,18.0,18.0,3.0,,,,1.0,,1.0,17.0
+418,Michigan,2020,31,Emma Tamer,Emma Tamer,Tamer,Emma,Jr,M,,,5.0,,1.0,,,,1.0,,,5.0
+418,Michigan,2020,17,Kate Burney,Kate Burney,Burney,Kate,Jr,F,,,18.0,9.0,3.0,,,,4.0,,1.0,10.0
+418,Michigan,2020,3,Maya Gompper,Maya Gompper,Gompper,Maya,Sr,M,,,18.0,1.0,,,,1.0,1.0,,1.0,6.0
+418,Michigan,2020,7,Kragen Metz,Kragen Metz,Metz,Kragen,Sr,F,,,8.0,1.0,,,,,1.0,,,
+418,Michigan,2020,19,Abbey Hutton,Abbey Hutton,Hutton,Abbey,Jr,B,,,10.0,2.0,,,,,,,,5.0
+418,Michigan,2020,22,Halle O'Neill,Halle O'Neill,O'Neill,Halle,Sr,B,,,18.0,18.0,3.0,,,1.0,2.0,,5.0,35.0
+418,Michigan,2020,14,Katie Anderson,Katie Anderson,Anderson,Katie,Jr,F,,,18.0,18.0,3.0,,,,2.0,,3.0,34.0
+418,Michigan,2020,27,Kathryn Peterson,Kathryn Peterson,Peterson,Kathryn,Jr,M,,,18.0,17.0,4.0,,,,1.0,,5.0,15.0
+418,Michigan,2020,6,Tina D'Anjolell,Tina D'Anjolell,D'Anjolell,Tina,Jr,F,,,14.0,10.0,3.0,,,2.0,1.0,,,18.0
+418,Michigan,2020,8,Sofia Southam,Sofia Southam,Southam,Sofia,Jr,M,,,12.0,,2.0,,,,3.0,,1.0,5.0
+418,Michigan,2020,28,Sarah Pyrtek,Sarah Pyrtek,Pyrtek,Sarah,So,F,,,18.0,18.0,7.0,,,,,,3.0,19.0
+418,Michigan,2020,9,Nina Apoola,Nina Apoola,Apoola,Nina,So,M,,,13.0,,,,,,1.0,,,2.0
+418,Michigan,2020,5,Pilar Oliveros,Pilar Oliveros,Oliveros,Pilar,Fr,M,,,18.0,2.0,1.0,,,,1.0,,,8.0
+418,Michigan,2020,15,Rosie Hope,Rosie Hope,Hope,Rosie,Fr,B,,,18.0,17.0,,,,,,,,3.0
+418,Michigan,2020,16,Kate McLaughlin,Kate McLaughlin,McLaughlin,Kate,Fr,F,,,11.0,,,,,1.0,1.0,,,9.0
+418,Michigan,2020,23,Anouk Veen,Anouk Veen,Veen,Anouk,Fr,M,,,17.0,16.0,4.0,,,,,,2.0,20.0
+418,Michigan,2020,26,Lora Clarke,Lora Clarke,Clarke,Lora,Fr,M,,,18.0,15.0,2.0,,,,1.0,,1.0,11.0
+418,Michigan,2020,2,Clare Brush,Clare Brush,Brush,Clare,Sr,M,,,18.0,18.0,,,,,,,2.0,2.0
+416,Michigan St.,2020,23,Lulu Fulton,Lulu Fulton,Fulton,Lulu,N/A,f,,,16.0,6.0,1.0,,,,1.0,,,5.0
+416,Michigan St.,2020,21,Cara Bonshak,Cara Bonshak,Bonshak,Cara,Sr,M,,,14.0,13.0,1.0,,,,,,,2.0
+416,Michigan St.,2020,22,Meredith Ross,Meredith Ross,Ross,Meredith,Sr,F,,,16.0,16.0,1.0,,,1.0,,,,8.0
+416,Michigan St.,2020,12,Isa Van der Weij,Isa Van der Weij,Weij,Isa,Jr,F,,,13.0,12.0,3.0,,,,,,1.0,10.0
+416,Michigan St.,2020,6,Lia Sinisi,Lia Sinisi,Sinisi,Lia,Sr,F,,,16.0,16.0,1.0,,,,,,3.0,4.0
+416,Michigan St.,2020,4,Celina Riccardo,Celina Riccardo,Riccardo,Celina,So,B,,,16.0,16.0,3.0,,,,2.0,,,7.0
+416,Michigan St.,2020,16,Devin Reilly,Devin Reilly,Reilly,Devin,So,B,,,16.0,6.0,,,,,,,,4.0
+416,Michigan St.,2020,18,Merel Hanssen,Merel Hanssen,Hanssen,Merel,So,M,,,16.0,16.0,1.0,,,1.0,2.0,,2.0,19.0
+416,Michigan St.,2020,9,Nienke Bloemsaat,Nienke Bloemsaat,Bloemsaat,Nienke,So,B,,,16.0,16.0,1.0,,,,,,,15.0
+416,Michigan St.,2020,14,Hannah Jarvie,Hannah Jarvie,Jarvie,Hannah,So,F,,,13.0,1.0,,,,,1.0,,,1.0
+416,Michigan St.,2020,10,Emma O'Neill,Emma O'Neill,O'Neill,Emma,N/A,,,,16.0,12.0,1.0,,,,1.0,,1.0,4.0
+416,Michigan St.,2020,26,Ashley Harlock,Ashley Harlock,Harlock,Ashley,N/A,,,,16.0,3.0,1.0,,,,,,,2.0
+416,Michigan St.,2020,28,Ellie Wheatley,Ellie Wheatley,Wheatley,Ellie,N/A,m,,,16.0,16.0,1.0,,,,,,1.0,1.0
+416,Michigan St.,2020,11,Kim Smit,Kim Smit,Smit,Kim,N/A,,,,16.0,2.0,,,,,,,,3.0
+416,Michigan St.,2020,20,Jillian Mahon,Jillian Mahon,Mahon,Jillian,Sr,F,,,1.0,,,,,,,,,1.0
+439,Monmouth,2020,5,Ireen Frenken,Ireen Frenken,Frenken,Ireen,Sr,M,,,13.0,13.0,12.0,,,1.0,1.0,,4.0,36.0
+439,Monmouth,2020,9,Hannah Schiavo,Hannah Schiavo,Schiavo,Hannah,Sr,B,,,13.0,13.0,,,,,,,1.0,1.0
+439,Monmouth,2020,11,Meg de Lange,Meg de Lange,Lange,Meg,Sr,F,,,1.0,,,,,,,,,1.0
+439,Monmouth,2020,17,Annick van Lange,Annick van Lange,Lange,Annick,Jr,F,,,13.0,13.0,7.0,,,,2.0,,5.0,59.0
+439,Monmouth,2020,21,Katie Yoder,Katie Yoder,Yoder,Katie,Jr,B,,,13.0,11.0,1.0,,,,,,,14.0
+439,Monmouth,2020,29,Aly Perez,Aly Perez,Perez,Aly,Sr,F,,,13.0,5.0,1.0,,,,,,2.0,3.0
+439,Monmouth,2020,24,Julianna Carletti,Julianna Carletti,Carletti,Julianna,So,M,,,13.0,13.0,,,,,,,3.0,2.0
+439,Monmouth,2020,12,Reese Bloomstead,Reese Bloomstead,Bloomstead,Reese,So,B,,,13.0,13.0,,,,,1.0,,2.0,
+439,Monmouth,2020,19,Maggie Downs,Maggie Downs,Downs,Maggie,So,B,,,10.0,,1.0,,,,,,,1.0
+439,Monmouth,2020,7,Bente Steenhorst,Bente Steenhorst,Steenhorst,Bente,So,B,,,12.0,8.0,1.0,,,1.0,4.0,,2.0,14.0
+439,Monmouth,2020,16,Mackenzie McKillop,Mackenzie McKillop,McKillop,Mackenzie,So,M,,,13.0,12.0,1.0,,,,2.0,,1.0,7.0
+439,Monmouth,2020,3,Colleen Craven,Colleen Craven,Craven,Colleen,So,F,,,13.0,3.0,1.0,,,,1.0,,1.0,6.0
+439,Monmouth,2020,10,Aylin Aufenacker,Aylin Aufenacker,Aufenacker,Aylin,So,M,,,13.0,13.0,7.0,,,1.0,2.0,,6.0,26.0
+439,Monmouth,2020,23,Sophie Dercksen,Sophie Dercksen,Dercksen,Sophie,Fr,M,,,3.0,3.0,1.0,,,,,,,3.0
+439,Monmouth,2020,15,Machtelt Boogers,Machtelt Boogers,Boogers,Machtelt,Fr,M,,,11.0,10.0,,,,,1.0,,,
+469,New Hampshire,2020,12,Isabelle Danahy,Isabelle Danahy,Danahy,Isabelle,Sr,M,,,11.0,11.0,,,,1.0,1.0,,1.0,3.0
+469,New Hampshire,2020,10,Bloem van den Brekel,Bloem van den Brekel,Brekel,Bloem,Sr,M,,,11.0,11.0,2.0,,,,,,2.0,18.0
+469,New Hampshire,2020,2,Finn Caron,Finn Caron,Caron,Finn,Jr,F,,,11.0,11.0,4.0,,,,1.0,,,22.0
+469,New Hampshire,2020,3,Tia Raspante,Tia Raspante,Raspante,Tia,Jr,F,,,11.0,2.0,3.0,,,,,,,9.0
+469,New Hampshire,2020,13,Tori Palumbo,Tori Palumbo,Palumbo,Tori,Jr,M,,,11.0,11.0,1.0,,,,2.0,,1.0,4.0
+469,New Hampshire,2020,9,Molly McAteer,Molly McAteer,McAteer,Molly,So,B,,,8.0,4.0,,,,,,,1.0,6.0
+469,New Hampshire,2020,8,Emily Eckels,Emily Eckels,Eckels,Emily,So,F,,,3.0,1.0,2.0,,,,,,,3.0
+469,New Hampshire,2020,24,Jaiden Wittel,Jaiden Wittel,Wittel,Jaiden,So,F,,,11.0,10.0,,,,,,,,4.0
+469,New Hampshire,2020,25,Ava Mariani,Ava Mariani,Mariani,Ava,So,F,,,11.0,11.0,6.0,,,,,,1.0,17.0
+469,New Hampshire,2020,22,Conner Allen,Conner Allen,Allen,Conner,Sr,M,,,12.0,12.0,,,,,,,1.0,3.0
+469,New Hampshire,2020,20,Leah Glidden,Leah Glidden,Glidden,Leah,So,F,,,3.0,,,,,,1.0,,,
+469,New Hampshire,2020,26,Olivia Watson,Olivia Watson,Watson,Olivia,Fr,M,,,7.0,,,,,,,,1.0,
+469,New Hampshire,2020,7,Lily Rothwell,Lily Rothwell,Rothwell,Lily,Fr,F,,,7.0,,,,,,,,,1.0
+469,New Hampshire,2020,23,Lindsay Lee,Lindsay Lee,Lee,Lindsay,Fr,F,,,11.0,11.0,,,,,,,3.0,5.0
+469,New Hampshire,2020,15,Reagan Calcari,Reagan Calcari,Calcari,Reagan,Fr,M,,,3.0,1.0,,,,,,,,1.0
+469,New Hampshire,2020,4,Rosalie Post,Rosalie Post,Post,Rosalie,Fr,B,,,9.0,9.0,1.0,,,,,,,11.0
+469,New Hampshire,2020,5,Mari Shea,Mari Shea,Shea,Mari,Fr,M,,,8.0,1.0,,,,,,,,2.0
+457,North Carolina,2020,12,Cassie Sumfest,Cassie Sumfest,Sumfest,Cassie,Jr,B,,,20.0,20.0,6.0,,,,,,2.0,42.0
+457,North Carolina,2020,25,Courtnie Williamson,Courtnie Williamson,Williamson,Courtnie,Sr,B,,,20.0,20.0,,,,,2.0,,,
+457,North Carolina,2020,21,Eva Smolenaars,Eva Smolenaars,Smolenaars,Eva,Sr,M,,,20.0,20.0,5.0,,,,4.0,,1.0,26.0
+457,North Carolina,2020,2,Meredith Sholder,Meredith Sholder,Sholder,Meredith,Jr,F,,,20.0,20.0,3.0,,,,,,3.0,21.0
+457,North Carolina,2020,4,Julia Herrington,Julia Herrington,Herrington,Julia,Jr,F,,,3.0,,,,,,1.0,,,
+457,North Carolina,2020,6,Bryn Boylan,Bryn Boylan,Boylan,Bryn,Sr,M,,,20.0,19.0,6.0,,,,2.0,,,17.0
+457,North Carolina,2020,16,Abby Pitcairn,Abby Pitcairn,Pitcairn,Abby,Jr,M,,,20.0,11.0,,,,,,,6.0,3.0
+457,North Carolina,2020,26,Riley Fulmer,Riley Fulmer,Fulmer,Riley,Jr,M,,,9.0,,,,,,,,,1.0
+457,North Carolina,2020,1,Erin Matson,Erin Matson,Matson,Erin,Jr,F,,,20.0,20.0,29.0,,,,5.0,,9.0,124.0
+457,North Carolina,2020,3,Hannah Griggs,Hannah Griggs,Griggs,Hannah,Jr,F,,,20.0,5.0,4.0,,,,1.0,,3.0,20.0
+457,North Carolina,2020,11,Romea Riccardo,Romea Riccardo,Riccardo,Romea,So,B,,,20.0,20.0,1.0,,,,1.0,,10.0,3.0
+457,North Carolina,2020,5,Madison Orobono,Madison Orobono,Orobono,Madison,So,B,,,20.0,20.0,2.0,,,,,,8.0,6.0
+457,North Carolina,2020,20,Britt Schlatmann,Britt Schlatmann,Schlatmann,Britt,Fr,B,,,14.0,,,,,1.0,,,,
+457,North Carolina,2020,10,Paityn Wirth,Paityn Wirth,Wirth,Paityn,So,M,,,20.0,15.0,6.0,,,,2.0,,9.0,25.0
+457,North Carolina,2020,35,Kiersten Thomassey,Kiersten Thomassey,Thomassey,Kiersten,Fr,M,,,20.0,,,,,1.0,1.0,,1.0,5.0
+457,North Carolina,2020,14,Katie Dixon,Katie Dixon,Dixon,Katie,Fr,M,,,20.0,10.0,1.0,,,,2.0,,2.0,8.0
+457,North Carolina,2020,33,Mia Leonhardt,Mia Leonhardt,Leonhardt,Mia,Fr,M,,,10.0,,2.0,,,,,,1.0,3.0
+500,Northeastern,2020,2,Angela Connolly,Angela Connolly,Connolly,Angela,Jr,F,,,10.0,10.0,1.0,,,,,,3.0,6.0
+500,Northeastern,2020,15,Melanie Weber,Melanie Weber,Weber,Melanie,Sr,F,,,10.0,10.0,1.0,,,,2.0,,,8.0
+500,Northeastern,2020,5,Lexie Dunleavy,Lexie Dunleavy,Dunleavy,Lexie,Jr,M,,,7.0,7.0,,,,,1.0,,1.0,3.0
+500,Northeastern,2020,22,Sammi Pak,Sammi Pak,Pak,Sammi,So,M,,,2.0,,,,,,,,,1.0
+500,Northeastern,2020,24,Maliea Kelso,Maliea Kelso,Kelso,Maliea,So,M,,,10.0,10.0,,,,1.0,1.0,,2.0,6.0
+500,Northeastern,2020,10,Lauren Alkire,Lauren Alkire,Alkire,Lauren,So,M,,,9.0,1.0,,,,,,,,1.0
+500,Northeastern,2020,12,Cassie Brazinsky,Cassie Brazinsky,Brazinsky,Cassie,So,M,,,10.0,4.0,2.0,,,1.0,1.0,,1.0,8.0
+500,Northeastern,2020,18,Cailin Hart,Cailin Hart,Hart,Cailin,So,B,,,10.0,10.0,3.0,,,,,,,17.0
+500,Northeastern,2020,13,Lauren Rowe,Lauren Rowe,Rowe,Lauren,So,B,,,10.0,10.0,5.0,,,1.0,2.0,,4.0,36.0
+500,Northeastern,2020,3,Lauryn Wojcik,Lauryn Wojcik,Wojcik,Lauryn,Fr,F,,,8.0,,,,,,1.0,,,1.0
+500,Northeastern,2020,21,Mak Graves,Mak Graves,Graves,Mak,Fr,M,,,8.0,8.0,2.0,,,,1.0,,,15.0
+500,Northeastern,2020,7,Sarah Coyle,Sarah Coyle,Coyle,Sarah,Fr,M,,,10.0,10.0,1.0,,,,,,1.0,6.0
+500,Northeastern,2020,14,Caroline Sweeney,Caroline Sweeney,Sweeney,Caroline,Fr,M,,,10.0,10.0,2.0,,,,,,,4.0
+509,Northwestern,2020,16,Christen Conley,Christen Conley,Conley,Christen,Sr,B,,,18.0,18.0,,,,,1.0,,9.0,5.0
+509,Northwestern,2020,14,Kaitlin Wood,Kaitlin Wood,Wood,Kaitlin,Sr,B,,,14.0,,,,,,1.0,,,
+509,Northwestern,2020,5,Sabrina Solomen,Sabrina Solomen,Solomen,Sabrina,Sr,M,,,10.0,,1.0,,,,,,,1.0
+509,Northwestern,2020,23,Mackenzie Keegan,Mackenzie Keegan,Keegan,Mackenzie,Sr,M,,,18.0,17.0,4.0,,,,1.0,,,20.0
+509,Northwestern,2020,3,Bente Baekers,Bente Baekers,Baekers,Bente,So,F,,,18.0,18.0,15.0,,,,1.0,,5.0,74.0
+509,Northwestern,2020,10,Liese Wareham,Liese Wareham,Wareham,Liese,Jr,F,,,7.0,,,,,,,,,4.0
+509,Northwestern,2020,9,Shannon Daley,Shannon Daley,Daley,Shannon,Jr,B,,,18.0,18.0,,,,,,,3.0,4.0
+509,Northwestern,2020,7,Maren Seidel,Maren Seidel,Seidel,Maren,Jr,M,,,17.0,,1.0,,,,,,,8.0
+509,Northwestern,2020,11,Kayla Blas,Kayla Blas,Blas,Kayla,Jr,B,,,18.0,18.0,,,,,3.0,,3.0,8.0
+509,Northwestern,2020,17,Alia Marshall,Alia Marshall,Marshall,Alia,So,M,,,18.0,18.0,,,,,2.0,,6.0,5.0
+509,Northwestern,2020,6,Peyton Halsey,Peyton Halsey,Halsey,Peyton,So,M,,,18.0,18.0,5.0,,,1.0,3.0,,3.0,31.0
+509,Northwestern,2020,1,Lakin Barry,Lakin Barry,Barry,Lakin,Sr,F,,,18.0,1.0,2.0,,,,,,3.0,21.0
+509,Northwestern,2020,15,Katie Jones,Katie Jones,Jones,Katie,Fr,M,,,18.0,11.0,,,,,3.0,,1.0,16.0
+509,Northwestern,2020,20,Ana Garcia,Ana Garcia,Garcia,Ana,So,M,,,18.0,18.0,6.0,,,3.0,2.0,,2.0,17.0
+509,Northwestern,2020,2,Lauren Wadas,Lauren Wadas,Wadas,Lauren,Fr,M,,,14.0,8.0,3.0,,,,4.0,,1.0,11.0
+509,Northwestern,2020,8,Maddie Zimmer,Maddie Zimmer,Zimmer,Maddie,Fr,M,,,17.0,17.0,4.0,,,1.0,3.0,,1.0,26.0
+519,Ohio,2020,4,Claire Buckey,Claire Buckey,Buckey,Claire,Sr,B,,,13.0,13.0,,,,,1.0,,1.0,2.0
+519,Ohio,2020,7,Emma Spinnetto,Emma Spinnetto,Spinnetto,Emma,Sr,M,,,14.0,14.0,1.0,,,,1.0,,3.0,12.0
+519,Ohio,2020,21,Leah Warren,Leah Warren,Warren,Leah,Sr,B,,,13.0,13.0,1.0,,,,1.0,,1.0,28.0
+519,Ohio,2020,17,Annmarie Hoppel,Annmarie Hoppel,Hoppel,Annmarie,Sr,M,,,14.0,12.0,,,,,,,,6.0
+519,Ohio,2020,10,Ashley Wilbur,Ashley Wilbur,Wilbur,Ashley,Jr,M,,,14.0,14.0,,,,,3.0,,1.0,5.0
+519,Ohio,2020,15,Courtney Klein,Courtney Klein,Klein,Courtney,Jr,M,,,14.0,12.0,,,,,,,,1.0
+519,Ohio,2020,18,Jillian Shive,Jillian Shive,Shive,Jillian,Sr,M,,,14.0,13.0,9.0,,,,,,4.0,51.0
+519,Ohio,2020,2,Lucy Davis,Lucy Davis,Davis,Lucy,So,M,,,14.0,4.0,2.0,,,,,,,10.0
+519,Ohio,2020,11,Katelyn Whittle,Katelyn Whittle,Whittle,Katelyn,So,M,,,13.0,12.0,5.0,,,,1.0,,3.0,27.0
+519,Ohio,2020,24,Weslee Littlefield,Weslee Littlefield,Littlefield,Weslee,So,M,,,14.0,13.0,,,,,,,,2.0
+519,Ohio,2020,6,Sienna Sakich,Sienna Sakich,Sakich,Sienna,So,M,,,14.0,1.0,,,,,,,3.0,5.0
+519,Ohio,2020,13,Tasmin Williams,Tasmin Williams,Williams,Tasmin,Fr,F,,,10.0,8.0,3.0,,,,,,,6.0
+519,Ohio,2020,5,Meela Kopp,Meela Kopp,Kopp,Meela,Fr,B,,,11.0,,,,,,,,,2.0
+519,Ohio,2020,12,Minke Bultje,Minke Bultje,Bultje,Minke,Fr,M,,,11.0,2.0,,,,,1.0,,,
+518,Ohio St.,2020,4,Louise Fobe,Louise Fobe,Fobe,Louise,Fr,B,,,13.0,13.0,,,,,,,1.0,11.0
+518,Ohio St.,2020,8,Emma Goldean,Emma Goldean,Goldean,Emma,Jr,M,,,16.0,16.0,4.0,,,,1.0,,6.0,11.0
+518,Ohio St.,2020,17,Jessica Hourihane,Jessica Hourihane,Hourihane,Jessica,Jr,F,,,16.0,2.0,1.0,,,,,,,12.0
+518,Ohio St.,2020,2,Nikki Trzaska,Nikki Trzaska,Trzaska,Nikki,Sr,F,,,16.0,16.0,4.0,,,,,,3.0,15.0
+518,Ohio St.,2020,21,Sammy Stone,Sammy Stone,Stone,Sammy,Sr,F,,,10.0,5.0,2.0,,,,,,1.0,5.0
+518,Ohio St.,2020,24,Katie Pyle,Katie Pyle,Pyle,Katie,Jr,F,,,16.0,6.0,2.0,,,,,,1.0,9.0
+518,Ohio St.,2020,14,Julia Dickinson,Julia Dickinson,Dickinson,Julia,Jr,B,,,16.0,12.0,,,,,1.0,,,
+518,Ohio St.,2020,19,Tess Maloney,Tess Maloney,Maloney,Tess,Jr,F,,,16.0,10.0,2.0,,,,1.0,,1.0,4.0
+518,Ohio St.,2020,7,Sina Schwinn,Sina Schwinn,Schwinn,Sina,Jr,M,,,6.0,6.0,1.0,,,,,,2.0,3.0
+518,Ohio St.,2020,1,Leanne Bough,Leanne Bough,Bough,Leanne,So,m,,,13.0,13.0,1.0,,,,,,1.0,6.0
+518,Ohio St.,2020,6,Mackenzie Allessie,Mackenzie Allessie,Allessie,Mackenzie,So,m,,,15.0,15.0,15.0,,,,1.0,,5.0,85.0
+518,Ohio St.,2020,25,Sarah Charley,Sarah Charley,Charley,Sarah,So,f,,,16.0,14.0,4.0,,,,2.0,,3.0,25.0
+518,Ohio St.,2020,9,Delaney Lawler,Delaney Lawler,Lawler,Delaney,So,b,,,16.0,16.0,1.0,,,,,,2.0,8.0
+518,Ohio St.,2020,10,Lotte Algra,Lotte Algra,Algra,Lotte,Jr,M,,,16.0,16.0,1.0,,,,,,3.0,21.0
+518,Ohio St.,2020,13,Sarah Richards,Sarah Richards,Richards,Sarah,Fr,M,,,12.0,,,,,1.0,,,,
+518,Ohio St.,2020,22,Megan McKenna,Megan McKenna,McKenna,Megan,Fr,M,,,15.0,,,,,,2.0,,,4.0
+523,Old Dominion,2020,5,Marlee McClendon,Marlee McClendon,McClendon,Marlee,Sr,B,,,14.0,14.0,,,,2.0,2.0,,10.0,
+523,Old Dominion,2020,20,Jessica Gabriel,Jessica Gabriel,Gabriel,Jessica,Jr,M,,,14.0,7.0,1.0,,,,1.0,,3.0,5.0
+523,Old Dominion,2020,2,Riley Taylor,Riley Taylor,Taylor,Riley,Jr,F,,,9.0,9.0,5.0,,,,2.0,,8.0,20.0
+523,Old Dominion,2020,24,Ilse Westera,Ilse Westera,Westera,Ilse,Jr,M,,,14.0,14.0,1.0,,,,1.0,,1.0,9.0
+523,Old Dominion,2020,11,Alice Demars,Alice Demars,Demars,Alice,So,B,,,14.0,14.0,,,,1.0,1.0,,2.0,5.0
+523,Old Dominion,2020,8,Nicole Fredricks,Nicole Fredricks,Fredricks,Nicole,So,B,,,14.0,14.0,5.0,,,,,,,15.0
+523,Old Dominion,2020,7,Marlon de Bruijne,Marlon de Bruijne,Bruijne,Marlon,Fr,F,,,14.0,14.0,15.0,,,3.0,9.0,,2.0,80.0
+523,Old Dominion,2020,6,Delphine Le Jeune,Delphine Le Jeune,Jeune,Delphine,So,M,,,14.0,14.0,4.0,,,,1.0,,6.0,19.0
+523,Old Dominion,2020,18,Rina Tsioles,Rina Tsioles,Tsioles,Rina,Fr,M,,,14.0,14.0,,,,,,,,2.0
+523,Old Dominion,2020,23,Lauren Holbrook,Lauren Holbrook,Holbrook,Lauren,Fr,M,,,6.0,,,,,,,,,1.0
+523,Old Dominion,2020,28,Evelyn Murray,Evelyn Murray,Murray,Evelyn,So,B,,,14.0,14.0,,,,1.0,2.0,,1.0,2.0
+523,Old Dominion,2020,12,Jolene Ulichney,Jolene Ulichney,Ulichney,Jolene,Fr,F,,,14.0,12.0,,,,,2.0,,3.0,16.0
+539,Penn St.,2020,20,Madison Hutson,Madison Hutson,Hutson,Madison,Sr,,,,12.0,12.0,2.0,,,,1.0,,,15.0
+539,Penn St.,2020,22,Abby Myers,Abby Myers,Myers,Abby,Sr,F,,,14.0,14.0,,,,,,,2.0,4.0
+539,Penn St.,2020,4,Emma Spisak,Emma Spisak,Spisak,Emma,Sr,,,,14.0,14.0,2.0,,,,,,1.0,7.0
+539,Penn St.,2020,13,Eleni Prodes,Eleni Prodes,Prodes,Eleni,Jr,,,,5.0,,,,,,,,,1.0
+539,Penn St.,2020,11,Meghan Reese,Meghan Reese,Reese,Meghan,Jr,,,,14.0,14.0,,,,,,,,1.0
+539,Penn St.,2020,17,Anna Simon,Anna Simon,Simon,Anna,Jr,,,,14.0,14.0,3.0,,,,1.0,,3.0,42.0
+539,Penn St.,2020,33,Kelsey Love,Kelsey Love,Love,Kelsey,Fr,B,,,11.0,10.0,,,,,2.0,,,
+539,Penn St.,2020,23,Jemma Punch,Jemma Punch,Punch,Jemma,So,M,,,14.0,9.0,,,,,1.0,,,12.0
+539,Penn St.,2020,19,Grace Wallis,Grace Wallis,Wallis,Grace,Jr,F,,,14.0,11.0,,,,,,,1.0,12.0
+539,Penn St.,2020,5,Carly Gannon,Carly Gannon,Gannon,Carly,Fr,M,,,12.0,,,,,,1.0,,,1.0
+539,Penn St.,2020,2,Aubrey Mytych,Aubrey Mytych,Mytych,Aubrey,So,M,,,4.0,,,,,,,,,1.0
+539,Penn St.,2020,24,Hannah Zemaitis,Hannah Zemaitis,Zemaitis,Hannah,Sr,F,,,3.0,,,,,,,,,1.0
+539,Penn St.,2020,6,Bree Bednarski,Bree Bednarski,Bednarski,Bree,Sr,F,,,14.0,14.0,6.0,,,,,,7.0,14.0
+539,Penn St.,2020,3,Sophia Gladieux,Sophia Gladieux,Gladieux,Sophia,Fr,,,,14.0,14.0,12.0,,,,2.0,,2.0,60.0
+539,Penn St.,2020,8,Elena Vos,Elena Vos,Vos,Elena,So,M,,,14.0,14.0,,,,,,,6.0,1.0
+556,Providence,2020,13,Olivia Ward,Olivia Ward,Ward,Olivia,Sr,F,,,11.0,4.0,,,,,,,1.0,3.0
+556,Providence,2020,19,Sydney Cramer,Sydney Cramer,Cramer,Sydney,Sr,F,,,9.0,9.0,,,,1.0,1.0,,,9.0
+556,Providence,2020,10,Maddie Babineau,Maddie Babineau,Babineau,Maddie,Sr,M,,,9.0,9.0,,,,1.0,,,1.0,7.0
+556,Providence,2020,21,Amanda Collins,Amanda Collins,Collins,Amanda,Jr,M,,,11.0,11.0,1.0,,,,,,1.0,9.0
+556,Providence,2020,11,Nora Goddard-Despot,Nora Goddard-Despot,Goddard-Despot,Nora,So,M,,,11.0,11.0,1.0,,,,2.0,,1.0,10.0
+556,Providence,2020,14,Sophia Pompeo,Sophia Pompeo,Pompeo,Sophia,So,F,,,11.0,10.0,2.0,,,,1.0,,,9.0
+556,Providence,2020,7,Niamh Gowing,Niamh Gowing,Gowing,Niamh,Jr,F,,,11.0,10.0,2.0,,,1.0,,,1.0,22.0
+556,Providence,2020,4,Lisa McNamara,Lisa McNamara,McNamara,Lisa,So,M,,,11.0,2.0,,,,,,,,2.0
+556,Providence,2020,6,Marley Mailloux,Marley Mailloux,Mailloux,Marley,Fr,M,,,11.0,11.0,,,,,,,,4.0
+556,Providence,2020,22,Marlies Kool,Marlies Kool,Kool,Marlies,N/A,M,,,11.0,11.0,,,,1.0,2.0,,,15.0
+556,Providence,2020,16,Emily Antunes,Emily Antunes,Antunes,Emily,Fr,B,,,10.0,10.0,,,,,1.0,,,
+562,Quinnipiac,2020,13,Jess Halley,Jess Halley,Halley,Jess,Jr,B,,,9.0,9.0,1.0,,,,,,3.0,5.0
+562,Quinnipiac,2020,20,Brooke Whipkey,Brooke Whipkey,Whipkey,Brooke,Sr,F,,,9.0,8.0,,,,,,,1.0,1.0
+562,Quinnipiac,2020,7,Isabella Sinibaldi,Isabella Sinibaldi,Sinibaldi,Isabella,Jr,F,,,9.0,9.0,,,,,1.0,,,
+562,Quinnipiac,2020,17,Mikayla Adams,Mikayla Adams,Adams,Mikayla,Jr,F,,,9.0,9.0,1.0,,,,1.0,,,5.0
+562,Quinnipiac,2020,21,Julianna Cappello,Julianna Cappello,Cappello,Julianna,So,F,,,9.0,9.0,2.0,,,,1.0,,,7.0
+562,Quinnipiac,2020,24,Olivia Howard,Olivia Howard,Howard,Olivia,So,M,,,9.0,9.0,2.0,,,1.0,,,1.0,5.0
+562,Quinnipiac,2020,6,Josie Sweeney,Josie Sweeney,Sweeney,Josie,So,F,,,9.0,6.0,,,,,,,1.0,
+562,Quinnipiac,2020,11,Rachel Papernik,Rachel Papernik,Papernik,Rachel,So,M,,,6.0,6.0,,,,,,,,4.0
+575,Richmond,2020,17,Cadera Smith,Cadera Smith,Smith,Cadera,Sr,F,,,7.0,6.0,,,,,1.0,,,11.0
+575,Richmond,2020,11,Olivia Frazier,Olivia Frazier,Frazier,Olivia,Jr,M,,,7.0,7.0,4.0,,,,1.0,,6.0,9.0
+575,Richmond,2020,10,Steffie Bongers,Steffie Bongers,Bongers,Steffie,Jr,B,,,6.0,5.0,6.0,,,,1.0,,1.0,20.0
+575,Richmond,2020,8,Addie Nash,Addie Nash,Nash,Addie,Jr,F,,,6.0,5.0,,,,,,,,2.0
+575,Richmond,2020,3,Sutton Orndorff,Sutton Orndorff,Orndorff,Sutton,So,B,,,7.0,7.0,1.0,,,,1.0,,,3.0
+575,Richmond,2020,14,Tess Keppel,Tess Keppel,Keppel,Tess,So,M,,,7.0,7.0,,,,,,,1.0,2.0
+575,Richmond,2020,19,Evie Hanson,Evie Hanson,Hanson,Evie,So,F,,,7.0,1.0,2.0,,,,1.0,,1.0,10.0
+575,Richmond,2020,24,Regan McCrossan,Regan McCrossan,McCrossan,Regan,So,M,,,7.0,7.0,1.0,,,,,,3.0,5.0
+575,Richmond,2020,7,Kaitlyn Csensits,Kaitlyn Csensits,Csensits,Kaitlyn,Fr,M,,,7.0,4.0,,,,,1.0,,,
+575,Richmond,2020,26,Alexandria Lavelle,Alexandria Lavelle,Lavelle,Alexandria,Fr,M,,,6.0,5.0,,,,1.0,1.0,,1.0,2.0
+575,Richmond,2020,9,Cori Nichols,Cori Nichols,Nichols,Cori,Fr,M,,,7.0,5.0,2.0,,,,1.0,,,10.0
+575,Richmond,2020,6,Ella Hayes,Ella Hayes,Hayes,Ella,Fr,M,,,7.0,,,,,,,,,1.0
+575,Richmond,2020,4,Madi Hyatt,Madi Hyatt,Hyatt,Madi,Fr,F,,,7.0,7.0,3.0,,,,,,1.0,6.0
+575,Richmond,2020,2,Olivia De Cain,Olivia De Cain,Cain,Olivia,Fr,B,,,7.0,4.0,,,,,1.0,,,3.0
+576,Rider,2020,16,Brittany Romanczuk,Brittany Romanczuk,Romanczuk,Brittany,Sr,B,,,8.0,8.0,4.0,,,1.0,1.0,,1.0,13.0
+576,Rider,2020,10,Emily Quintus,Emily Quintus,Quintus,Emily,Sr,M,,,4.0,,,,,,,,,1.0
+576,Rider,2020,27,Kaitlyn Flemming,Kaitlyn Flemming,Flemming,Kaitlyn,Sr,M,,,8.0,8.0,2.0,,,,1.0,,1.0,8.0
+576,Rider,2020,17,Kat Conroy,Kat Conroy,Conroy,Kat,Jr,M,,,8.0,8.0,,,,,1.0,,1.0,5.0
+576,Rider,2020,8,Carly Brosious,Carly Brosious,Brosious,Carly,Jr,F,,,8.0,8.0,3.0,,,,,,2.0,37.0
+576,Rider,2020,9,Julia DiVorra,Julia DiVorra,DiVorra,Julia,Jr,M,,,8.0,8.0,8.0,,,,1.0,,5.0,40.0
+576,Rider,2020,7,Tess Van Ommeren,Tess Van Ommeren,Ommeren,Tess,Jr,M,,,8.0,8.0,3.0,,,,1.0,,3.0,18.0
+576,Rider,2020,1,Mia Frontino,Mia Frontino,Frontino,Mia,So,F,,,6.0,,1.0,,,,,,,4.0
+576,Rider,2020,20,Sierra Giuliano,Sierra Giuliano,Giuliano,Sierra,So,M,,,8.0,8.0,2.0,,,,,,5.0,17.0
+576,Rider,2020,21,Hannah Hartwell,Hannah Hartwell,Hartwell,Hannah,So,M,,,3.0,,,,,1.0,,,,
+576,Rider,2020,15,Maeve Riehman,Maeve Riehman,Riehman,Maeve,So,M,,,8.0,8.0,,,,,,,,2.0
+576,Rider,2020,4,Kiki van Ommeren,Kiki van Ommeren,Ommeren,Kiki,So,M,,,8.0,8.0,,,,,1.0,,,
+576,Rider,2020,23,Josefina Golppi,Josefina Golppi,Golppi,Josefina,Fr,,,,8.0,7.0,,,,1.0,2.0,,,5.0
+576,Rider,2020,2,Kiera Guckavan,Kiera Guckavan,Guckavan,Kiera,Fr,M,,,6.0,1.0,,,,,,,,1.0
+587,Rutgers,2020,27,Milena Redlingshoefer,Milena Redlingshoefer,Redlingshoefer,Milena,Jr,M,,,15.0,15.0,6.0,,,,,,5.0,36.0
+587,Rutgers,2020,14,Carly Snarski,Carly Snarski,Snarski,Carly,So,M,,,1.0,,,,,,,,,1.0
+587,Rutgers,2020,9,Amanda Beck,Amanda Beck,Beck,Amanda,So,F,,,15.0,,,,,,,,,2.0
+587,Rutgers,2020,6,Clayre Smith,Clayre Smith,Smith,Clayre,Jr,F,,,15.0,3.0,1.0,,,,,,,6.0
+587,Rutgers,2020,13,Rachel Houston,Rachel Houston,Houston,Rachel,So,F,,,15.0,2.0,1.0,,,,1.0,,,5.0
+587,Rutgers,2020,7,Tayla Parkes,Tayla Parkes,Parkes,Tayla,Jr,F,,,15.0,15.0,,,,,1.0,,1.0,8.0
+587,Rutgers,2020,18,Gracey Butsack,Gracey Butsack,Butsack,Gracey,Sr,M,,,14.0,14.0,,,,,1.0,,4.0,2.0
+587,Rutgers,2020,24,Katie Larmour,Katie Larmour,Larmour,Katie,Sr,M,,,15.0,15.0,2.0,,,,3.0,,7.0,17.0
+587,Rutgers,2020,11,Gianna Mancini,Gianna Mancini,Mancini,Gianna,Sr,M,,,14.0,2.0,1.0,,,,1.0,,,4.0
+587,Rutgers,2020,12,Kassidy Shetler,Kassidy Shetler,Shetler,Kassidy,Sr,F,,,15.0,15.0,3.0,,,,2.0,,3.0,8.0
+587,Rutgers,2020,16,Kerrie Burns,Kerrie Burns,Burns,Kerrie,Sr,B,,,15.0,15.0,1.0,,,,,,4.0,6.0
+587,Rutgers,2020,25,Liz Stange,Liz Stange,Stange,Liz,Fr,F,,,14.0,11.0,2.0,,,1.0,2.0,,,10.0
+587,Rutgers,2020,29,Liz Romano,Liz Romano,Romano,Liz,Jr,M,,,15.0,15.0,5.0,,,,,,,16.0
+587,Rutgers,2020,8,Bridy Molyneaux,Bridy Molyneaux,Molyneaux,Bridy,Fr,F,,,14.0,10.0,4.0,,,,1.0,,,14.0
+590,Sacred Heart,2020,9,Bridget LaRiccia,Bridget LaRiccia,LaRiccia,Bridget,Sr,B,,,7.0,7.0,,,,,,,,3.0
+590,Sacred Heart,2020,7,Kayla Bedel-Franklin,Kayla Bedel-Franklin,Bedel-Franklin,Kayla,Sr,F,,,7.0,6.0,,,,,1.0,,,1.0
+590,Sacred Heart,2020,16,Emily Alexis,Emily Alexis,Alexis,Emily,Sr,M,,,7.0,7.0,,,,1.0,1.0,,,6.0
+590,Sacred Heart,2020,17,Nicolette Peppe,Nicolette Peppe,Peppe,Nicolette,Jr,F,,,5.0,1.0,,,,1.0,,,,
+590,Sacred Heart,2020,13,Kayla Kruk,Kayla Kruk,Kruk,Kayla,Jr,M,,,5.0,5.0,,,,,2.0,,,13.0
+590,Sacred Heart,2020,5,Julia Chang,Julia Chang,Chang,Julia,Jr,M,,,5.0,5.0,1.0,,,1.0,,,,1.0
+590,Sacred Heart,2020,4,Alyssa Valentine,Alyssa Valentine,Valentine,Alyssa,So,M,,,8.0,5.0,,,,,,,,3.0
+590,Sacred Heart,2020,21,Mia Katterman,Mia Katterman,Katterman,Mia,So,M,,,8.0,7.0,1.0,,,,2.0,,,3.0
+590,Sacred Heart,2020,15,Mikayla VanHorn,Mikayla VanHorn,VanHorn,Mikayla,So,F,,,6.0,1.0,1.0,,,,,,,1.0
+590,Sacred Heart,2020,18,Kelsey Fithen,Kelsey Fithen,Fithen,Kelsey,So,F,,,6.0,,,,,,1.0,,,
+590,Sacred Heart,2020,22,Julia Flood,Julia Flood,Flood,Julia,So,M,,,8.0,8.0,,,,,1.0,,,4.0
+590,Sacred Heart,2020,3,Claire Skumurski,Claire Skumurski,Skumurski,Claire,Fr,F,,,6.0,,,,,,,,1.0,2.0
+590,Sacred Heart,2020,8,Hannah Fawle,Hannah Fawle,Fawle,Hannah,Fr,M,,,8.0,3.0,1.0,,,,,,,2.0
+590,Sacred Heart,2020,27,Isabell Chamberlain,Isabell Chamberlain,Chamberlain,Isabell,Fr,B,,,8.0,8.0,1.0,,,,1.0,,1.0,11.0
+590,Sacred Heart,2020,20,Sarah Collins,Sarah Collins,Collins,Sarah,Fr,B,,,8.0,8.0,,,,,1.0,,,1.0
+606,Saint Joseph's,2020,24,Emily Peters,Emily Peters,Peters,Emily,Sr,M,,,8.0,8.0,3.0,,,,,,1.0,22.0
+606,Saint Joseph's,2020,2,Sara Hayes,Sara Hayes,Hayes,Sara,Sr,F,,,8.0,8.0,5.0,,,,1.0,,1.0,16.0
+606,Saint Joseph's,2020,22,Nicholl Fenton,Nicholl Fenton,Fenton,Nicholl,Sr,B,,,8.0,8.0,,,,,3.0,,,
+606,Saint Joseph's,2020,25,Jordan Olenginski,Jordan Olenginski,Olenginski,Jordan,Sr,F,,,8.0,8.0,4.0,,,,2.0,,2.0,17.0
+606,Saint Joseph's,2020,3,Katie Karpinski,Katie Karpinski,Karpinski,Katie,Jr,M,,,8.0,,,,,,1.0,,,
+606,Saint Joseph's,2020,4,Jessica Maute,Jessica Maute,Maute,Jessica,Jr,M,,,8.0,,,,,,,,1.0,5.0
+606,Saint Joseph's,2020,19,Cassidy Atchison,Cassidy Atchison,Atchison,Cassidy,Sr,B,,,8.0,8.0,1.0,,,,1.0,,,19.0
+606,Saint Joseph's,2020,1,Kacie Patton,Kacie Patton,Patton,Kacie,So,M,,,8.0,8.0,,,,1.0,1.0,,3.0,3.0
+606,Saint Joseph's,2020,14,Julianna Smyth,Julianna Smyth,Smyth,Julianna,So,B,,,5.0,,,,,,,,,2.0
+606,Saint Joseph's,2020,6,Leigh James,Leigh James,James,Leigh,So,M,,,8.0,1.0,1.0,,,,,,1.0,2.0
+606,Saint Joseph's,2020,20,Katy Benton,Katy Benton,Benton,Katy,So,M,,,8.0,8.0,1.0,,,,,,4.0,12.0
+606,Saint Joseph's,2020,33,Anna Miller,Anna Miller,Miller,Anna,So,B,,,8.0,8.0,6.0,,,,,,2.0,25.0
+606,Saint Joseph's,2020,23,Lily Santi,Lily Santi,Santi,Lily,Fr,M,,,8.0,7.0,1.0,,,1.0,1.0,,3.0,6.0
+606,Saint Joseph's,2020,11,Celeste Smits,Celeste Smits,Smits,Celeste,Fr,M,,,8.0,8.0,1.0,,,,,,3.0,6.0
+606,Saint Joseph's,2020,12,Katelyn Cocco,Katelyn Cocco,Cocco,Katelyn,Fr,F,,,8.0,,2.0,,,,,,,4.0
+609,Saint Louis,2020,14,Jordan BeSore,Jordan BeSore,BeSore,Jordan,Sr,B,,,9.0,9.0,2.0,,,,,,1.0,4.0
+609,Saint Louis,2020,19,Micaela Diaz,Micaela Diaz,Diaz,Micaela,Sr,F,,,11.0,5.0,,,,,1.0,,1.0,2.0
+609,Saint Louis,2020,28,Erin McClelland,Erin McClelland,McClelland,Erin,Sr,B,,,4.0,1.0,,,,,,,,1.0
+609,Saint Louis,2020,9,Ashlee Kothenbeutel,Ashlee Kothenbeutel,Kothenbeutel,Ashlee,Jr,F,,,4.0,,1.0,,,,,,,1.0
+609,Saint Louis,2020,2,Emily Wastell,Emily Wastell,Wastell,Emily,Jr,F,,,10.0,10.0,5.0,,,,,,1.0,19.0
+609,Saint Louis,2020,15,Maeve Donevan,Maeve Donevan,Donevan,Maeve,Jr,M,,,12.0,1.0,1.0,,,,,,,3.0
+609,Saint Louis,2020,13,Parker Guy,Parker Guy,Guy,Parker,So,B,,,9.0,,,,,,,,,1.0
+609,Saint Louis,2020,22,Cameron Tucker,Cameron Tucker,Tucker,Cameron,So,B,,,12.0,12.0,,,,,1.0,,1.0,6.0
+609,Saint Louis,2020,17,Grace Golembiewski,Grace Golembiewski,Golembiewski,Grace,So,B,,,8.0,7.0,,,,,1.0,,3.0,17.0
+609,Saint Louis,2020,24,Brooke Mason,Brooke Mason,Mason,Brooke,Fr,M,,,12.0,6.0,1.0,,,,1.0,,,5.0
+609,Saint Louis,2020,4,Olivia Smith,Olivia Smith,Smith,Olivia,Fr,M,,,11.0,10.0,,,,,1.0,,,5.0
+609,Saint Louis,2020,21,Jenna Klaers,Jenna Klaers,Klaers,Jenna,Fr,M,,,12.0,12.0,1.0,,,,,,,8.0
+609,Saint Louis,2020,6,Julianne Sacco,Julianne Sacco,Sacco,Julianne,Jr,B,,,12.0,12.0,,,,1.0,,,,
+609,Saint Louis,2020,12,Lauren Pendergast,Lauren Pendergast,Pendergast,Lauren,Fr,F,,,12.0,11.0,,,,,1.0,,4.0,9.0
+609,Saint Louis,2020,7,Demi Sahuleka,Demi Sahuleka,Sahuleka,Demi,So,M,,,12.0,12.0,6.0,,,,,,2.0,23.0
+674,Stanford,2020,21,Caroline Guden,Caroline Guden,Guden,Caroline,Fr,M,,,14.0,,2.0,,,,,,,4.0
+674,Stanford,2020,6,Frances Carstens,Frances Carstens,Carstens,Frances,Sr,M,,,14.0,14.0,5.0,,,,2.0,,4.0,24.0
+674,Stanford,2020,11,Kaylie Mings,Kaylie Mings,Mings,Kaylie,Sr,M,,,14.0,14.0,3.0,,,,,,6.0,20.0
+674,Stanford,2020,10,Corinne Zanolli,Corinne Zanolli,Zanolli,Corinne,Sr,F,,,14.0,14.0,20.0,,,,1.0,,6.0,96.0
+674,Stanford,2020,23,Hannah Schofield,Hannah Schofield,Schofield,Hannah,Jr,B,,,10.0,6.0,,,,,,,,2.0
+674,Stanford,2020,13,Sarah Johnson,Sarah Johnson,Johnson,Sarah,Jr,B,,,14.0,14.0,4.0,,,,1.0,,4.0,14.0
+674,Stanford,2020,3,Liz Heckard,Liz Heckard,Heckard,Liz,Jr,B,,,11.0,,,,,,,,,1.0
+674,Stanford,2020,9,Isabelle Pilson,Isabelle Pilson,Pilson,Isabelle,Jr,M,,,14.0,14.0,,,,,1.0,,,
+674,Stanford,2020,14,Lily Croddick,Lily Croddick,Croddick,Lily,So,F,,,14.0,9.0,3.0,,,,1.0,,1.0,10.0
+674,Stanford,2020,5,Fenella Scutt,Fenella Scutt,Scutt,Fenella,Jr,M,,,14.0,14.0,,,,,2.0,,3.0,4.0
+674,Stanford,2020,17,Juli Porto,Juli Porto,Porto,Juli,Jr,B,,,14.0,,6.0,,,,,,,13.0
+674,Stanford,2020,4,Megan Frost,Megan Frost,Frost,Megan,So,M,,,14.0,14.0,,,,,1.0,,4.0,7.0
+674,Stanford,2020,7,Lynn Vanderstichele,Lynn Vanderstichele,Vanderstichele,Lynn,So,F,,,14.0,13.0,,,,,2.0,,1.0,6.0
+674,Stanford,2020,25,Caroline Reinhart,Caroline Reinhart,Reinhart,Caroline,So,F,,,13.0,,,,,,,,,2.0
+674,Stanford,2020,20,Keeley Akagi,Keeley Akagi,Akagi,Keeley,So,B,,,10.0,,1.0,,,,,,,1.0
+674,Stanford,2020,12,Haley Mossmer,Haley Mossmer,Mossmer,Haley,Fr,F,,,8.0,,,,,,1.0,,,
+688,Syracuse,2020,1,Emily Streib,Emily Streib,Streib,Emily,Fr,GK,,,7.0,7.0,,,,,1.0,,,
+688,Syracuse,2020,36,Florine van Boetzelaer,Florine van Boetzelaer,Boetzelaer,Florine,Fr,M,,,14.0,10.0,3.0,,,,2.0,,,15.0
+688,Syracuse,2020,21,Eefke van den Nieuwenhof,Eefke van den Nieuwenhof,Nieuwenhof,Eefke,Fr,B,,,14.0,14.0,3.0,,,1.0,,,2.0,35.0
+688,Syracuse,2020,11,Claire Cooke,Claire Cooke,Cooke,Claire,Sr,M,,,14.0,8.0,,,,1.0,1.0,,3.0,4.0
+688,Syracuse,2020,74,Chiara Gutsche,Chiara Gutsche,Gutsche,Chiara,Sr,F,,,15.0,9.0,2.0,,,,,,1.0,11.0
+688,Syracuse,2020,7,Sarah Luby,Sarah Luby,Luby,Sarah,Sr,M,,,7.0,5.0,,,,1.0,,,,2.0
+688,Syracuse,2020,13,Carolin Hoffmann,Carolin Hoffmann,Hoffmann,Carolin,Sr,F,,,16.0,14.0,,,,1.0,,,1.0,8.0
+688,Syracuse,2020,19,Tess Queen,Tess Queen,Queen,Tess,Jr,M,,,15.0,7.0,,,,,,,,2.0
+688,Syracuse,2020,22,SJ Quigley,SJ Quigley,Quigley,SJ,Jr,M,,,16.0,15.0,4.0,,,,4.0,,4.0,10.0
+688,Syracuse,2020,8,Laura Graziosi,Laura Graziosi,Graziosi,Laura,Jr,M,,,16.0,15.0,4.0,,,1.0,2.0,,,19.0
+688,Syracuse,2020,10,Charlotte de Vries,Charlotte de Vries,Vries,Charlotte,So,f,,,16.0,15.0,5.0,,,,,,3.0,53.0
+688,Syracuse,2020,16,Hailey Bitters,Hailey Bitters,Bitters,Hailey,So,,,,16.0,2.0,3.0,,,,,,,10.0
+688,Syracuse,2020,12,Clara Morrison,Clara Morrison,Morrison,Clara,So,,,,12.0,1.0,,,,,,,,2.0
+688,Syracuse,2020,31,Pleun Lammers,Pleun Lammers,Lammers,Pleun,So,F,,,15.0,10.0,6.0,,,,1.0,,2.0,15.0
+688,Syracuse,2020,25,Sienna Pegram,Sienna Pegram,Pegram,Sienna,Fr,B,,,16.0,14.0,,,,,1.0,,,
+688,Syracuse,2020,14,Carly Bothof,Carly Bothof,Bothof,Carly,Fr,F,,,16.0,12.0,2.0,,,,2.0,,2.0,22.0
+688,Syracuse,2020,35,Kristen Oudshoorn,Kristen Oudshoorn,Oudshoorn,Kristen,Fr,F,,,8.0,,,,,,,,,1.0
+688,Syracuse,2020,7,Roome Joosten,Roome Joosten,Joosten,Roome,Sr,,,,7.0,7.0,,,,2.0,1.0,,4.0,16.0
+690,Temple,2020,27,Taylor Alba,Taylor Alba,Alba,Taylor,Sr,M,,,18.0,4.0,3.0,,,,1.0,,2.0,15.0
+690,Temple,2020,11,Mia Sexton,Mia Sexton,Sexton,Mia,Sr,F,,,17.0,3.0,,,,,,,,3.0
+690,Temple,2020,18,Grace Shanton,Grace Shanton,Shanton,Grace,Jr,M,,,17.0,4.0,,,,,,,,1.0
+690,Temple,2020,9,Dani Batze,Dani Batze,Batze,Dani,Sr,M,,,5.0,5.0,1.0,,,2.0,,,1.0,6.0
+690,Temple,2020,1,Claire Thomas,Claire Thomas,Thomas,Claire,Jr,B,,,18.0,18.0,1.0,,,,,,3.0,18.0
+690,Temple,2020,3,Tali Popinko,Tali Popinko,Popinko,Tali,Jr,M,,,18.0,16.0,,,,1.0,1.0,,2.0,5.0
+690,Temple,2020,21,Kerrie Lorenz,Kerrie Lorenz,Lorenz,Kerrie,So,M,,,18.0,15.0,2.0,,,1.0,,,3.0,18.0
+690,Temple,2020,10,Annie Judge,Annie Judge,Judge,Annie,Jr,M,,,18.0,18.0,,,,,4.0,,,3.0
+690,Temple,2020,8,Nienke Oerlemans,Nienke Oerlemans,Oerlemans,Nienke,Jr,M,,,16.0,16.0,4.0,,,,,,2.0,7.0
+690,Temple,2020,15,Caitlyn Amsden,Caitlyn Amsden,Amsden,Caitlyn,So,F,,,18.0,3.0,1.0,,,1.0,3.0,,1.0,6.0
+690,Temple,2020,23,McKenna Burkhardt,McKenna Burkhardt,Burkhardt,McKenna,So,B,,,18.0,18.0,,,,,2.0,,,1.0
+690,Temple,2020,17,Sydney Borneman,Sydney Borneman,Borneman,Sydney,So,M,,,15.0,5.0,1.0,,,,,,,3.0
+690,Temple,2020,24,Sydney Beck,Sydney Beck,Beck,Sydney,So,F,,,18.0,1.0,1.0,,,2.0,1.0,,,10.0
+690,Temple,2020,5,Kaitlyn Cummins,Kaitlyn Cummins,Cummins,Kaitlyn,Fr,M,,,16.0,16.0,1.0,,,1.0,4.0,,1.0,7.0
+690,Temple,2020,2,Natalie McNamara,Natalie McNamara,McNamara,Natalie,So,F,,,10.0,,,,,,,,1.0,
+690,Temple,2020,28,Maddie Molchany,Maddie Molchany,Molchany,Maddie,Fr,B,,,3.0,,,,,,,,,1.0
+690,Temple,2020,14,Cassie Romanczuk,Cassie Romanczuk,Romanczuk,Cassie,Fr,F,,,13.0,1.0,2.0,,,1.0,,,1.0,4.0
+690,Temple,2020,4,Myrthe Schuilenburg,Myrthe Schuilenburg,Schuilenburg,Myrthe,Fr,F,,,16.0,14.0,1.0,,,1.0,1.0,,,7.0
+690,Temple,2020,26,Veronika NOVAKOVA,Veronika NOVAKOVA,NOVAKOVA,Veronika,Sr,,,,18.0,18.0,4.0,,,1.0,3.0,,5.0,24.0
+711,Towson,2020,24,Jenna Florenzo,Jenna Florenzo,Florenzo,Jenna,Sr,B,,,8.0,7.0,2.0,,,,1.0,,,5.0
+711,Towson,2020,10,Beira Ho,Beira Ho,Ho,Beira,Sr,F,,,8.0,8.0,,,,,1.0,,2.0,3.0
+711,Towson,2020,14,Katy Parkinson,Katy Parkinson,Parkinson,Katy,Jr,M,,,8.0,5.0,,,,,,,,4.0
+711,Towson,2020,21,Paige Reese,Paige Reese,Reese,Paige,Jr,M,,,7.0,3.0,1.0,,,,,,1.0,6.0
+711,Towson,2020,3,Kasey Bubel,Kasey Bubel,Bubel,Kasey,Jr,F,,,8.0,8.0,,,,,1.0,,,
+711,Towson,2020,6,Dominique Nelson,Dominique Nelson,Nelson,Dominique,So,F,,,7.0,,,,,,,,,1.0
+711,Towson,2020,18,Hannah King,Hannah King,King,Hannah,So,M,,,6.0,3.0,,,,,1.0,,,
+711,Towson,2020,19,Mackenzie Tillman,Mackenzie Tillman,Tillman,Mackenzie,So,F,,,8.0,4.0,,,,,1.0,,,1.0
+711,Towson,2020,34,Gianna Antone,Gianna Antone,Antone,Gianna,So,M,,,8.0,3.0,,,,,,,,2.0
+711,Towson,2020,5,Elizabeth Harper,Elizabeth Harper,Harper,Elizabeth,So,F,,,7.0,3.0,1.0,,,,,,,2.0
+711,Towson,2020,9,Samantha Aljets,Samantha Aljets,Aljets,Samantha,So,F,,,8.0,7.0,2.0,,,,1.0,,,21.0
+711,Towson,2020,11,Hannah McKeon,Hannah McKeon,McKeon,Hannah,So,M,,,8.0,8.0,,,,,,,,4.0
+711,Towson,2020,15,Georgia Beachley,Georgia Beachley,Beachley,Georgia,So,F,,,8.0,6.0,1.0,,,,1.0,,1.0,3.0
+711,Towson,2020,8,Kaiya Townsend Sabur,Kaiya Townsend Sabur,Sabur,Kaiya,Fr,F,,,8.0,4.0,1.0,,,1.0,1.0,,1.0,10.0
+14,UAlbany,2020,16,Cosima Rocktaeschel,Cosima Rocktaeschel,Rocktaeschel,Cosima,Sr,F,,,10.0,9.0,1.0,,,,,,,15.0
+14,UAlbany,2020,15,Carli Pelletier,Carli Pelletier,Pelletier,Carli,Sr,F,,,10.0,10.0,,,,,1.0,,1.0,4.0
+14,UAlbany,2020,8,Katie MacCallum,Katie MacCallum,MacCallum,Katie,Sr,F,,,10.0,9.0,1.0,,,1.0,2.0,,1.0,14.0
+14,UAlbany,2020,7,Rachel Schannauer,Rachel Schannauer,Schannauer,Rachel,Sr,B,,,10.0,10.0,,,,1.0,1.0,,,
+14,UAlbany,2020,12,Elaina Burchell,Elaina Burchell,Burchell,Elaina,Jr,F,,,10.0,3.0,1.0,,,,,,,5.0
+14,UAlbany,2020,5,Kelsey McCrudden,Kelsey McCrudden,McCrudden,Kelsey,Jr,B,,,10.0,10.0,,,,,,,2.0,4.0
+14,UAlbany,2020,10,Julie Rodijk,Julie Rodijk,Rodijk,Julie,So,B,,,10.0,10.0,1.0,,,,,,,13.0
+14,UAlbany,2020,25,Hanna Zarrilli,Hanna Zarrilli,Zarrilli,Hanna,Sr,B,,,10.0,10.0,3.0,,,,1.0,,,20.0
+14,UAlbany,2020,4,Janelle Volk,Janelle Volk,Volk,Janelle,Fr,B,,,9.0,1.0,,,,,,,,1.0
+14,UAlbany,2020,20,Robyn Murray,Robyn Murray,Murray,Robyn,Jr,B,,,10.0,9.0,3.0,,,,1.0,,,16.0
+14,UAlbany,2020,13,Lara Mortz,Lara Mortz,Mortz,Lara,Fr,M,,,9.0,9.0,2.0,,,1.0,3.0,,4.0,3.0
+14,UAlbany,2020,14,Charlotte Triggs,Charlotte Triggs,Triggs,Charlotte,Fr,M,,,10.0,10.0,1.0,,,1.0,1.0,,2.0,10.0
+108,UC Davis,2020,8,Shea Gavin,Shea Gavin,Gavin,Shea,Sr,F,,,10.0,10.0,5.0,,,,1.0,,,17.0
+108,UC Davis,2020,9,Madison Theodore,Madison Theodore,Theodore,Madison,Sr,M,,,10.0,10.0,1.0,,,,,,5.0,30.0
+108,UC Davis,2020,2,Emily Chen,Emily Chen,Chen,Emily,Sr,F,,,8.0,8.0,3.0,,,,2.0,,1.0,5.0
+108,UC Davis,2020,4,Izzy Porco,Izzy Porco,Porco,Izzy,Jr,B,,,10.0,10.0,1.0,,,1.0,1.0,,1.0,3.0
+108,UC Davis,2020,1,Shannon Wong,Shannon Wong,Wong,Shannon,Jr,F,,,10.0,4.0,1.0,,,,,,,2.0
+108,UC Davis,2020,21,Siena Dwyer,Siena Dwyer,Dwyer,Siena,Jr,F,,,10.0,,,,,,,,,3.0
+108,UC Davis,2020,12,Catherine Potente,Catherine Potente,Potente,Catherine,Jr,M,,,6.0,,1.0,,,,,,,1.0
+108,UC Davis,2020,22,Brooke Sanchez,Brooke Sanchez,Sanchez,Brooke,Jr,F,,,10.0,9.0,1.0,,,,,,,9.0
+108,UC Davis,2020,5,Milou Korthouwer,Milou Korthouwer,Korthouwer,Milou,Jr,M,,,10.0,10.0,1.0,,,,1.0,,1.0,9.0
+108,UC Davis,2020,15,Audrey Matthew,Audrey Matthew,Matthew,Audrey,Sr,B,,,10.0,10.0,,,,,,,,6.0
+108,UC Davis,2020,11,Sophia Lizalde,Sophia Lizalde,Lizalde,Sophia,Jr,F,,,5.0,,,,,,,,,2.0
+108,UC Davis,2020,23,Skylar Richards,Skylar Richards,Richards,Skylar,Fr,F,,,10.0,,1.0,,,,,,,8.0
+108,UC Davis,2020,7,Jordan Engdahl,Jordan Engdahl,Engdahl,Jordan,Fr,B,,,10.0,10.0,,,,,,,1.0,14.0
+108,UC Davis,2020,3,Lizzy Tedrow,Lizzy Tedrow,Tedrow,Lizzy,Fr,F,,,10.0,10.0,,,,,,,,5.0
+108,UC Davis,2020,16,Brenna Brophy,Brenna Brophy,Brophy,Brenna,Fr,B,,,8.0,8.0,,,,,1.0,,,
+164,UConn,2020,12,Kourtney Kennedy,Kourtney Kennedy,Kennedy,Kourtney,Sr,F,,,14.0,14.0,3.0,,,,,,2.0,21.0
+164,UConn,2020,5,Tori Albright,Tori Albright,Albright,Tori,Sr,F,,,8.0,3.0,,,,,,,,5.0
+164,UConn,2020,2,Jessica Dembrowski,Jessica Dembrowski,Dembrowski,Jessica,Sr,M,,,14.0,14.0,6.0,,,,1.0,,7.0,15.0
+164,UConn,2020,28,Vivenne Tucker,Vivenne Tucker,Tucker,Vivenne,Sr,M,,,14.0,13.0,2.0,,,,1.0,,3.0,8.0
+164,UConn,2020,27,Olivia Clarke,Olivia Clarke,Clarke,Olivia,Jr,F,,,3.0,,,,,,,,,1.0
+164,UConn,2020,17,Lindsay Dickinson,Lindsay Dickinson,Dickinson,Lindsay,Jr,M,,,14.0,14.0,1.0,,,,1.0,,1.0,9.0
+164,UConn,2020,30,Chiara Ma,Chiara Ma,Ma,Chiara,Sr,M,,,11.0,1.0,1.0,,,,,,,2.0
+164,UConn,2020,8,Maddy Wray,Maddy Wray,Wray,Maddy,Jr,F,,,1.0,,,,,,,,,1.0
+164,UConn,2020,4,Natalie Brown,Natalie Brown,Brown,Natalie,So,M,,,8.0,,,,,,,,,5.0
+164,UConn,2020,10,Anna Casinghino,Anna Casinghino,Casinghino,Anna,So,M,,,4.0,,,,,,,,,1.0
+164,UConn,2020,14,Sophie Hamilton,Sophie Hamilton,Hamilton,Sophie,So,M,,,14.0,14.0,19.0,,,,3.0,,15.0,60.0
+164,UConn,2020,18,Claire Jandewerth,Claire Jandewerth,Jandewerth,Claire,So,B,,,14.0,14.0,8.0,,,,,,2.0,49.0
+164,UConn,2020,9,Erica Solomen,Erica Solomen,Solomen,Erica,So,F,,,14.0,7.0,5.0,,,,,,2.0,20.0
+164,UConn,2020,19,Jerri Lankford,Jerri Lankford,Lankford,Jerri,So,B,,,3.0,,,,,,,,,1.0
+164,UConn,2020,11,McKenna Sergi,McKenna Sergi,Sergi,McKenna,So,M,,,11.0,6.0,1.0,,,,1.0,,1.0,23.0
+164,UConn,2020,7,Claire Van den Noort,Claire Van den Noort,Noort,Claire,Fr,B,,,12.0,11.0,8.0,,,2.0,,,8.0,26.0
+164,UConn,2020,13,Morgan Kauffman,Morgan Kauffman,Kauffman,Morgan,Fr,F,,,13.0,12.0,,,,1.0,,,5.0,11.0
+164,UConn,2020,26,Aiyi Young,Aiyi Young,Young,Aiyi,Fr,B,,,14.0,14.0,2.0,,,,,,6.0,5.0
+164,UConn,2020,31,Anna Horan,Anna Horan,Horan,Anna,Fr,M,,,12.0,1.0,2.0,,,,,,1.0,5.0
+368,UMass Lowell,2020,10,Sophie Kroeze,Sophie Kroeze,Kroeze,Sophie,Sr,M,,,12.0,12.0,,,,,,,,6.0
+368,UMass Lowell,2020,16,Clara Defourt,Clara Defourt,Defourt,Clara,Sr,B,,,12.0,12.0,2.0,,,,1.0,,3.0,40.0
+368,UMass Lowell,2020,3,Hannah Keefe,Hannah Keefe,Keefe,Hannah,Jr,M,,,12.0,7.0,2.0,,,,2.0,,,5.0
+368,UMass Lowell,2020,9,Grace Davis,Grace Davis,Davis,Grace,Jr,F,,,10.0,1.0,1.0,,,,,,2.0,1.0
+368,UMass Lowell,2020,14,Isobel Sargent,Isobel Sargent,Sargent,Isobel,Jr,F,,,11.0,1.0,1.0,,,1.0,,,,1.0
+368,UMass Lowell,2020,18,Lindsey Kilpatrick,Lindsey Kilpatrick,Kilpatrick,Lindsey,Jr,B,,,8.0,7.0,,,,,3.0,,1.0,1.0
+368,UMass Lowell,2020,20,Jenna Berger,Jenna Berger,Berger,Jenna,Jr,M,,,12.0,10.0,4.0,,,,2.0,,1.0,19.0
+368,UMass Lowell,2020,1,Kate Miller,Kate Miller,Miller,Kate,So,M,,,12.0,11.0,2.0,,,,1.0,,1.0,22.0
+368,UMass Lowell,2020,15,Berbel Rozema,Berbel Rozema,Rozema,Berbel,So,M,,,12.0,11.0,4.0,,,,3.0,,4.0,26.0
+368,UMass Lowell,2020,21,Alissia de Vries,Alissia de Vries,Vries,Alissia,Fr,B,,,12.0,12.0,,,,,1.0,,,1.0
+368,UMass Lowell,2020,5,Sage Valente,Sage Valente,Valente,Sage,Fr,M,,,11.0,9.0,,,,,,,,1.0
+368,UMass Lowell,2020,22,Gianna Conte,Gianna Conte,Conte,Gianna,Fr,F,,,8.0,1.0,,,,,1.0,,,6.0
+368,UMass Lowell,2020,19,Mirthe Gans,Mirthe Gans,Gans,Mirthe,Fr,F,,,12.0,12.0,2.0,,,2.0,1.0,,1.0,17.0
+740,VCU,2020,4,Georgia CARR-BROWN,Georgia CARR-BROWN,CARR-BROWN,Georgia,Fr,,,,9.0,,2.0,,,,1.0,,1.0,11.0
+740,VCU,2020,17,Maite Sturm,Maite Sturm,Sturm,Maite,Sr,M,,,10.0,10.0,2.0,,,,3.0,,7.0,9.0
+740,VCU,2020,7,Emily van Hijfte,Emily van Hijfte,Hijfte,Emily,Sr,B,,,10.0,9.0,3.0,,,,,,1.0,12.0
+740,VCU,2020,23,Svea Sturm,Svea Sturm,Sturm,Svea,Sr,M,,,10.0,10.0,,,,,,,7.0,2.0
+740,VCU,2020,15,Litiana Field,Litiana Field,Field,Litiana,Jr,B,,,10.0,10.0,3.0,,,,1.0,,2.0,28.0
+740,VCU,2020,25,Mackenzie Williams,Mackenzie Williams,Williams,Mackenzie,Jr,M,,,10.0,10.0,,,,,1.0,,1.0,1.0
+740,VCU,2020,5,Lynea Gregory,Lynea Gregory,Gregory,Lynea,Jr,M,,,10.0,10.0,,,,,1.0,,1.0,3.0
+740,VCU,2020,11,Janne Wetzel,Janne Wetzel,Wetzel,Janne,Jr,B,,,10.0,10.0,5.0,,,,,,4.0,26.0
+740,VCU,2020,14,Courtney Collins,Courtney Collins,Collins,Courtney,So,M,,,7.0,1.0,,,,,,,,1.0
+740,VCU,2020,3,Lonica McKinney,Lonica McKinney,McKinney,Lonica,So,F,,,10.0,9.0,2.0,,,,,,,14.0
+740,VCU,2020,12,Bridget McCormick,Bridget McCormick,McCormick,Bridget,Fr,,,,10.0,10.0,5.0,,,,1.0,,,23.0
+740,VCU,2020,20,Ashlyn HUGHES,Ashlyn HUGHES,HUGHES,Ashlyn,Fr,,,,10.0,10.0,1.0,,,,,,,3.0
+740,VCU,2020,16,Skyler PADGETT,Skyler PADGETT,PADGETT,Skyler,Fr,,,,1.0,1.0,,,,,,,,2.0
+738,Vermont,2020,13,Peppe Haantjes,Peppe Haantjes,Haantjes,Peppe,Sr,M,,,10.0,10.0,,,,,1.0,,,1.0
+738,Vermont,2020,3,Sydney Melfi,Sydney Melfi,Melfi,Sydney,Sr,F,,,10.0,8.0,,,,,1.0,,2.0,9.0
+738,Vermont,2020,4,Clare Sheahan,Clare Sheahan,Sheahan,Clare,Sr,M,,,10.0,10.0,,,,1.0,,,1.0,
+738,Vermont,2020,12,Pleun Haantjes,Pleun Haantjes,Haantjes,Pleun,Sr,M,,,9.0,2.0,,,,,,,,3.0
+738,Vermont,2020,18,Laura Zavrl,Laura Zavrl,Zavrl,Laura,Sr,M,,,8.0,,,,,,,,,1.0
+738,Vermont,2020,8,Claudia Cotter,Claudia Cotter,Cotter,Claudia,Sr,M,,,10.0,10.0,,,,1.0,1.0,,2.0,2.0
+738,Vermont,2020,17,Bailey Matthews,Bailey Matthews,Matthews,Bailey,Sr,F,,,10.0,10.0,2.0,,,,1.0,,,18.0
+738,Vermont,2020,22,Lydia Maitland,Lydia Maitland,Maitland,Lydia,Jr,M,,,10.0,10.0,1.0,,,,2.0,,1.0,5.0
+738,Vermont,2020,20,Clodagh Ferry,Clodagh Ferry,Ferry,Clodagh,Jr,B,,,10.0,10.0,1.0,,,1.0,,,,39.0
+738,Vermont,2020,10,Maddie Moran,Maddie Moran,Moran,Maddie,Jr,F,,,6.0,1.0,,,,,,,,6.0
+738,Vermont,2020,11,Kate Hall,Kate Hall,Hall,Kate,So,F,,,10.0,10.0,5.0,,,,1.0,,,18.0
+738,Vermont,2020,21,Haley Buffenbarger,Haley Buffenbarger,Buffenbarger,Haley,So,M,,,10.0,10.0,,,,1.0,2.0,,,10.0
+738,Vermont,2020,27,Puck Kwaspen,Puck Kwaspen,Kwaspen,Puck,Fr,M,,,8.0,7.0,,,,,1.0,,,2.0
+739,Villanova,2020,4,Emily Clarke,Emily Clarke,Clarke,Emily,Sr,F,,,14.0,14.0,3.0,,,,4.0,,4.0,20.0
+739,Villanova,2020,28,Riley Dolan,Riley Dolan,Dolan,Riley,Sr,M,,,14.0,14.0,2.0,,,,1.0,,4.0,11.0
+739,Villanova,2020,25,Ashley Thomas,Ashley Thomas,Thomas,Ashley,Sr,M,,,14.0,14.0,,,,,2.0,,3.0,1.0
+739,Villanova,2020,6,Mallary Sellars,Mallary Sellars,Sellars,Mallary,Jr,B,,,11.0,,,,,,1.0,,,
+739,Villanova,2020,2,Katie Capalbo,Katie Capalbo,Capalbo,Katie,Jr,M,,,14.0,14.0,,,,1.0,2.0,,4.0,8.0
+739,Villanova,2020,8,Rachael Overlander,Rachael Overlander,Overlander,Rachael,Jr,M,,,11.0,,1.0,,,,,,,1.0
+739,Villanova,2020,16,Devyn Aschenbach,Devyn Aschenbach,Aschenbach,Devyn,Jr,B,,,14.0,14.0,,,,,1.0,,,
+739,Villanova,2020,3,Margaret Mick,Margaret Mick,Mick,Margaret,So,F,,,9.0,4.0,1.0,,,,1.0,,,2.0
+739,Villanova,2020,31,Caitlin van Goeverden,Caitlin van Goeverden,Goeverden,Caitlin,So,F,,,14.0,6.0,1.0,,,,1.0,,,9.0
+739,Villanova,2020,33,Hannah Barsky,Hannah Barsky,Barsky,Hannah,So,M,,,14.0,14.0,,,,,2.0,,,
+739,Villanova,2020,11,Meghan Mitchell,Meghan Mitchell,Mitchell,Meghan,Fr,F,,,14.0,14.0,8.0,,,,,,2.0,23.0
+739,Villanova,2020,17,Amanda Middleman,Amanda Middleman,Middleman,Amanda,Fr,F,,,14.0,4.0,,,,,,,2.0,3.0
+739,Villanova,2020,18,Jamie Pennington,Jamie Pennington,Pennington,Jamie,Fr,M,,,14.0,14.0,,,,,1.0,,1.0,3.0
+739,Villanova,2020,29,Sabine de Ruijter,Sabine de Ruijter,Ruijter,Sabine,Fr,B,,,14.0,14.0,6.0,,,,1.0,,1.0,34.0
+746,Virginia,2020,22,Makayla Gallen,Makayla Gallen,Gallen,Makayla,Sr,F,,,18.0,18.0,,,,,2.0,,1.0,13.0
+746,Virginia,2020,9,Rachel Robinson,Rachel Robinson,Robinson,Rachel,Sr,M,,,15.0,13.0,,,,,2.0,,1.0,11.0
+746,Virginia,2020,14,Annie McDonough,Annie McDonough,McDonough,Annie,Jr,M,,,14.0,13.0,4.0,,,,,,1.0,18.0
+746,Virginia,2020,21,Peyton Tollaksen,Peyton Tollaksen,Tollaksen,Peyton,Jr,M,,,14.0,8.0,2.0,,,,1.0,,,19.0
+746,Virginia,2020,6,Lizzy Shim,Lizzy Shim,Shim,Lizzy,Jr,F,,,11.0,9.0,,,,,2.0,,,
+746,Virginia,2020,8,Greer Gill,Greer Gill,Gill,Greer,Jr,M,,,14.0,7.0,,,,,,,,8.0
+746,Virginia,2020,19,Amber Ezechiels,Amber Ezechiels,Ezechiels,Amber,Jr,B,,,18.0,18.0,4.0,,,1.0,3.0,,8.0,32.0
+746,Virginia,2020,17,Danielle Husar,Danielle Husar,Husar,Danielle,So,M,,,18.0,12.0,,,,1.0,1.0,,1.0,
+746,Virginia,2020,7,Cato Geusgens,Cato Geusgens,Geusgens,Cato,So,B,,,18.0,18.0,,,,,,,3.0,8.0
+746,Virginia,2020,15,Laura Janssen,Laura Janssen,Janssen,Laura,So,F,,,18.0,16.0,9.0,,,,1.0,,,28.0
+746,Virginia,2020,13,Adele Iacobucci,Adele Iacobucci,Iacobucci,Adele,So,M,,,18.0,17.0,7.0,,,,1.0,,2.0,26.0
+746,Virginia,2020,10,Alexandra Morgan,Alexandra Morgan,Morgan,Alexandra,Fr,,,,16.0,2.0,,,,,,,,2.0
+746,Virginia,2020,23,Mary VanLoh,Mary VanLoh,VanLoh,Mary,Fr,,,,7.0,,,,,,,,,3.0
+746,Virginia,2020,12,Meghen Hengerer,Meghen Hengerer,Hengerer,Meghen,Fr,,,,18.0,14.0,1.0,,,,2.0,,1.0,12.0
+746,Virginia,2020,3,Anneloes Knol,Anneloes Knol,Knol,Anneloes,Fr,,,,18.0,12.0,1.0,,,2.0,1.0,,3.0,12.0
+746,Virginia,2020,11,Lilly Hengerer,Lilly Hengerer,Hengerer,Lilly,Fr,,,,18.0,3.0,,,,2.0,,,1.0,11.0
+748,Wagner,2020,1,Kira Mordvinov,Kira Mordvinov,Mordvinov,Kira,So,F,,,6.0,6.0,1.0,,,,1.0,,,10.0
+748,Wagner,2020,18,Claire Quigley,Claire Quigley,Quigley,Claire,Sr,B,,,6.0,6.0,,,,,1.0,,,
+748,Wagner,2020,3,Elena Andreyev,Elena Andreyev,Andreyev,Elena,Jr,M,,,6.0,6.0,1.0,,,,,,,4.0
+748,Wagner,2020,2,Shaelyn Kobrynich,Shaelyn Kobrynich,Kobrynich,Shaelyn,Fr,F,,,4.0,4.0,,,,,1.0,,,4.0
+748,Wagner,2020,23,Eline Schuur,Eline Schuur,Schuur,Eline,Fr,M,,,6.0,6.0,,,,,2.0,,1.0,4.0
+748,Wagner,2020,10,Emma Brushingham,Emma Brushingham,Brushingham,Emma,Fr,F,,,6.0,5.0,1.0,,,1.0,,,,3.0
+748,Wagner,2020,12,Arianna Martina,Arianna Martina,Martina,Arianna,Fr,B,,,6.0,4.0,,,,,2.0,,,5.0
+748,Wagner,2020,27,Sara Nelson,Sara Nelson,Nelson,Sara,So,F,,,6.0,5.0,,,,,,,,4.0
+748,Wagner,2020,11,Agustina Deharbe,Agustina Deharbe,Deharbe,Agustina,Jr,M,,,5.0,5.0,2.0,,,,,,2.0,22.0
+748,Wagner,2020,21,Julia Cruces Pastorino,Julia Cruces Pastorino,Pastorino,Julia,Jr,M,,,4.0,3.0,1.0,,,,1.0,,,9.0
+749,Wake Forest,2020,14,Anne van Hoof,Anne van Hoof,Hoof,Anne,Sr,B,,,11.0,11.0,2.0,,,,1.0,,,22.0
+749,Wake Forest,2020,10,Alexis Grippo,Alexis Grippo,Grippo,Alexis,Sr,F,,,11.0,11.0,1.0,,,,,,2.0,4.0
+749,Wake Forest,2020,18,Elisha Evans,Elisha Evans,Evans,Elisha,Sr,M,,,12.0,11.0,,,,,,,1.0,5.0
+749,Wake Forest,2020,22,Eleanor Winants,Eleanor Winants,Winants,Eleanor,Jr,M,,,17.0,17.0,1.0,,,,,,7.0,14.0
+749,Wake Forest,2020,16,Olivia Corthals,Olivia Corthals,Corthals,Olivia,Jr,B,,,16.0,10.0,1.0,,,,1.0,,,1.0
+749,Wake Forest,2020,3,Abby Carpenter,Abby Carpenter,Carpenter,Abby,Jr,M,,,17.0,17.0,1.0,,,,1.0,,2.0,17.0
+749,Wake Forest,2020,2,Grace Sambrook,Grace Sambrook,Sambrook,Grace,Jr,M,,,10.0,6.0,,,,1.0,,,1.0,5.0
+749,Wake Forest,2020,7,Laia Vancells,Laia Vancells,Vancells,Laia,Jr,M,,,17.0,16.0,1.0,,,,2.0,,3.0,11.0
+749,Wake Forest,2020,12,Maggie Dickman,Maggie Dickman,Dickman,Maggie,So,M,,,17.0,7.0,2.0,,,,,,,9.0
+749,Wake Forest,2020,9,Madison Baciuska,Madison Baciuska,Baciuska,Madison,So,F,,,1.0,,,,,,,,,1.0
+749,Wake Forest,2020,4,Nat Friedman,Nat Friedman,Friedman,Nat,So,M,,,17.0,17.0,5.0,,,,1.0,,1.0,29.0
+749,Wake Forest,2020,21,Abbie Ashcraft,Abbie Ashcraft,Ashcraft,Abbie,So,F,,,4.0,,,,,,1.0,,,1.0
+749,Wake Forest,2020,11,Meike Lanckohr,Meike Lanckohr,Lanckohr,Meike,So,M,,,16.0,16.0,4.0,,,,2.0,,3.0,21.0
+749,Wake Forest,2020,8,Kennedy Wainwright,Kennedy Wainwright,Wainwright,Kennedy,So,F,,,8.0,,,,,,,,,1.0
+749,Wake Forest,2020,15,Grace Delmotte,Grace Delmotte,Delmotte,Grace,Fr,M,,,17.0,16.0,5.0,,,,,,1.0,21.0
+749,Wake Forest,2020,20,Lee Ann Gordon,Lee Ann Gordon,Gordon,Lee,Fr,B,,,17.0,8.0,,,,,1.0,,3.0,
+749,Wake Forest,2020,24,Lilly Lancaster,Lilly Lancaster,Lancaster,Lilly,Fr,M,,,5.0,,,,,,,,,1.0
+749,Wake Forest,2020,13,Hannah Maxwell,Hannah Maxwell,Maxwell,Hannah,Fr,F,,,17.0,7.0,4.0,,,3.0,1.0,,,18.0
+749,Wake Forest,2020,17,Immie Gillgrass,Immie Gillgrass,Gillgrass,Immie,Fr,F,,,14.0,,1.0,,,,3.0,,1.0,12.0
+786,William & Mary,2020,3,Audrey Domovich,Audrey Domovich,Domovich,Audrey,So,B,,,5.0,5.0,,,,,,,,8.0
+786,William & Mary,2020,4,Lily Saunders,Lily Saunders,Saunders,Lily,So,F,,,5.0,2.0,1.0,,,,,,1.0,6.0
+786,William & Mary,2020,13,Ella Donahue,Ella Donahue,Donahue,Ella,Sr,M,,,5.0,5.0,1.0,,,,1.0,,1.0,3.0
+786,William & Mary,2020,8,Melanie Strik,Melanie Strik,Strik,Melanie,Sr,F,,,5.0,3.0,1.0,,,,,,,10.0
+786,William & Mary,2020,20,Cara Menges,Cara Menges,Menges,Cara,Jr,M,,,5.0,5.0,,,,,1.0,,,5.0
+786,William & Mary,2020,26,Ashley Drum,Ashley Drum,Drum,Ashley,Sr,F,,,5.0,5.0,2.0,,,1.0,2.0,,,10.0
+786,William & Mary,2020,7,Haley Hopkins,Haley Hopkins,Hopkins,Haley,Sr,F,,,5.0,5.0,,,,1.0,,,,5.0
+786,William & Mary,2020,14,Tabby Billingham,Tabby Billingham,Billingham,Tabby,So,B,,,5.0,5.0,,,,,,,,1.0
+786,William & Mary,2020,5,Sally Snead,Sally Snead,Snead,Sally,So,M,,,5.0,5.0,1.0,,,1.0,1.0,,,5.0
+786,William & Mary,2020,6,Grace Cornbrooks,Grace Cornbrooks,Cornbrooks,Grace,So,M,,,5.0,5.0,,,,,1.0,,,
+786,William & Mary,2020,2,Mollie Schuma,Mollie Schuma,Schuma,Mollie,Fr,F,,,5.0,,,,,,1.0,,,
+786,William & Mary,2020,9,Maddie McGaughey,Maddie McGaughey,McGaughey,Maddie,Fr,M,,,5.0,,,,,,,,,3.0
+786,William & Mary,2020,12,Jayden Moon,Jayden Moon,Moon,Jayden,Fr,M,,,5.0,,,,,,,,1.0,3.0
+786,William & Mary,2020,33,Lauren Curran,Lauren Curran,Curran,Lauren,So,M,,,5.0,4.0,,,,,,,,5.0
